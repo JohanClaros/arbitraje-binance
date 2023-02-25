@@ -1,0 +1,2909 @@
+[{
+    "symbol": "ALPACA_BTC"
+}, {
+    "symbol": "GTO_ETH"
+}, {
+    "symbol": "ARK_ETH"
+}, {
+    "symbol": "ATOM_BRL"
+}, {
+    "symbol": "BNB_BIDR"
+}, {
+    "symbol": "GRT_USDT"
+}, {
+    "symbol": "ANT_BTC"
+}, {
+    "symbol": "BNB_BRL"
+}, {
+    "symbol": "SPELL_BNB"
+}, {
+    "symbol": "GALA_USDT"
+}, {
+    "symbol": "GNO_BNB"
+}, {
+    "symbol": "SOL_USDT"
+}, {
+    "symbol": "CHZ_TRY"
+}, {
+    "symbol": "IMX_BTC"
+}, {
+    "symbol": "ZRX_BNB"
+}, {
+    "symbol": "GMX_USDT"
+}, {
+    "symbol": "PUNDIX_ETH"
+}, {
+    "symbol": "BAT_USDT"
+}, {
+    "symbol": "LTC_EUR"
+}, {
+    "symbol": "ANT_BNB"
+}, {
+    "symbol": "XRP_TUSD"
+}, {
+    "symbol": "PAXG_BNB"
+}, {
+    "symbol": "ATOM_TRY"
+}, {
+    "symbol": "TWT_USDT"
+}, {
+    "symbol": "BEAR_USDT"
+}, {
+    "symbol": "SXP_TRY"
+}, {
+    "symbol": "SOL_ETH"
+}, {
+    "symbol": "RUNE_BNB"
+}, {
+    "symbol": "GMT_USDT"
+}, {
+    "symbol": "EPS_USDT"
+}, {
+    "symbol": "ACH_BTC"
+}, {
+    "symbol": "LSK_USDT"
+}, {
+    "symbol": "AGLD_BNB"
+}, {
+    "symbol": "LUNA_UST"
+}, {
+    "symbol": "BAKE_USDT"
+}, {
+    "symbol": "STPT_BNB"
+}, {
+    "symbol": "MATIC_ETH"
+}, {
+    "symbol": "FLM_BNB"
+}, {
+    "symbol": "NU_USDT"
+}, {
+    "symbol": "XLM_USDT"
+}, {
+    "symbol": "BNT_USDT"
+}, {
+    "symbol": "ETC_BNB"
+}, {
+    "symbol": "SUPER_BTC"
+}, {
+    "symbol": "LDO_USDT"
+}, {
+    "symbol": "OCEAN_USDT"
+}, {
+    "symbol": "ICP_USDT"
+}, {
+    "symbol": "SXP_AUD"
+}, {
+    "symbol": "BNX_BTC"
+}, {
+    "symbol": "CHZ_USDT"
+}, {
+    "symbol": "ACM_USDT"
+}, {
+    "symbol": "KP3R_USDT"
+}, {
+    "symbol": "OMG_BNB"
+}, {
+    "symbol": "DENT_ETH"
+}, {
+    "symbol": "EOS_USDT"
+}, {
+    "symbol": "USDC_USDT"
+}, {
+    "symbol": "CVC_BNB"
+}, {
+    "symbol": "GNO_USDT"
+}, {
+    "symbol": "XRP_NGN"
+}, {
+    "symbol": "FIDA_BNB"
+}, {
+    "symbol": "ETH_BIDR"
+}, {
+    "symbol": "BTC_NGN"
+}, {
+    "symbol": "POND_USDT"
+}, {
+    "symbol": "BNB_AUD"
+}, {
+    "symbol": "COTI_USDT"
+}, {
+    "symbol": "OOKI_USDT"
+}, {
+    "symbol": "TRU_BTC"
+}, {
+    "symbol": "ADA_AUD"
+}, {
+    "symbol": "DIA_BTC"
+}, {
+    "symbol": "BCHABC_BTC"
+}, {
+    "symbol": "LINK_BNB"
+}, {
+    "symbol": "RARE_BTC"
+}, {
+    "symbol": "COCOS_TRY"
+}, {
+    "symbol": "DENT_USDT"
+}, {
+    "symbol": "BNB_BTC"
+}, {
+    "symbol": "MTL_ETH"
+}, {
+    "symbol": "VET_TRY"
+}, {
+    "symbol": "HIGH_BTC"
+}, {
+    "symbol": "LSK_BNB"
+}, {
+    "symbol": "ETH_PLN"
+}, {
+    "symbol": "XRP_BNB"
+}, {
+    "symbol": "CHESS_USDT"
+}, {
+    "symbol": "ALCX_BTC"
+}, {
+    "symbol": "EOS_BTC"
+}, {
+    "symbol": "STPT_BTC"
+}, {
+    "symbol": "BTCST_BTC"
+}, {
+    "symbol": "REN_BNB"
+}, {
+    "symbol": "C98_BTC"
+}, {
+    "symbol": "KSM_USDT"
+}, {
+    "symbol": "BNB_UAH"
+}, {
+    "symbol": "SUN_BTC"
+}, {
+    "symbol": "ETH_ZAR"
+}, {
+    "symbol": "THETA_BNB"
+}, {
+    "symbol": "TROY_USDT"
+}, {
+    "symbol": "BAT_USDC"
+}, {
+    "symbol": "ADA_BKRW"
+}, {
+    "symbol": "XLM_PAX"
+}, {
+    "symbol": "RGT_BNB"
+}, {
+    "symbol": "SOL_BNB"
+}, {
+    "symbol": "DCR_USDT"
+}, {
+    "symbol": "BLZ_USDT"
+}, {
+    "symbol": "SAND_BRL"
+}, {
+    "symbol": "USDC_PAX"
+}, {
+    "symbol": "OSMO_USDT"
+}, {
+    "symbol": "FRONT_BTC"
+}, {
+    "symbol": "MAGIC_BTC"
+}, {
+    "symbol": "ETH_RUB"
+}, {
+    "symbol": "TORN_USDT"
+}, {
+    "symbol": "XVG_BTC"
+}, {
+    "symbol": "ENJ_ETH"
+}, {
+    "symbol": "WIN_EUR"
+}, {
+    "symbol": "LINK_USDT"
+}, {
+    "symbol": "STORJ_BTC"
+}, {
+    "symbol": "BEL_BTC"
+}, {
+    "symbol": "COS_TRY"
+}, {
+    "symbol": "WIN_BTC"
+}, {
+    "symbol": "BOND_USDT"
+}, {
+    "symbol": "GHST_USDT"
+}, {
+    "symbol": "NEO_TUSD"
+}, {
+    "symbol": "BCHABC_USDC"
+}, {
+    "symbol": "XMR_BNB"
+}, {
+    "symbol": "SOL_BRL"
+}, {
+    "symbol": "POLS_BNB"
+}, {
+    "symbol": "API3_BTC"
+}, {
+    "symbol": "ATA_BTC"
+}, {
+    "symbol": "BTC_VAI"
+}, {
+    "symbol": "LTC_NGN"
+}, {
+    "symbol": "XTZ_USDT"
+}, {
+    "symbol": "PHB_BTC"
+}, {
+    "symbol": "UNFI_BTC"
+}, {
+    "symbol": "ERD_BTC"
+}, {
+    "symbol": "QKC_BTC"
+}, {
+    "symbol": "HARD_BNB"
+}, {
+    "symbol": "DOCK_BTC"
+}, {
+    "symbol": "CELR_BTC"
+}, {
+    "symbol": "MC_USDT"
+}, {
+    "symbol": "KDA_USDT"
+}, {
+    "symbol": "HIVE_BTC"
+}, {
+    "symbol": "TFUEL_USDC"
+}, {
+    "symbol": "IRIS_BTC"
+}, {
+    "symbol": "WIN_BRL"
+}, {
+    "symbol": "AAVE_BTC"
+}, {
+    "symbol": "BICO_USDT"
+}, {
+    "symbol": "BNX_BNB"
+}, {
+    "symbol": "OSMO_BTC"
+}, {
+    "symbol": "LAZIO_EUR"
+}, {
+    "symbol": "ETC_USDT"
+}, {
+    "symbol": "USDT_BKRW"
+}, {
+    "symbol": "ATOM_ETH"
+}, {
+    "symbol": "WNXM_BTC"
+}, {
+    "symbol": "NKN_USDT"
+}, {
+    "symbol": "DOGE_PAX"
+}, {
+    "symbol": "BCH_USDT"
+}, {
+    "symbol": "ENJ_USDT"
+}, {
+    "symbol": "GAL_BTC"
+}, {
+    "symbol": "SC_BTC"
+}, {
+    "symbol": "PROM_BNB"
+}, {
+    "symbol": "BNB_TUSD"
+}, {
+    "symbol": "GTO_BTC"
+}, {
+    "symbol": "TFUEL_BNB"
+}, {
+    "symbol": "BTG_USDT"
+}, {
+    "symbol": "SYS_ETH"
+}, {
+    "symbol": "FARM_BTC"
+}, {
+    "symbol": "TOMO_BNB"
+}, {
+    "symbol": "EOS_BNB"
+}, {
+    "symbol": "ENJ_BTC"
+}, {
+    "symbol": "VET_GBP"
+}, {
+    "symbol": "ICX_BTC"
+}, {
+    "symbol": "JASMY_BNB"
+}, {
+    "symbol": "ALGO_USDT"
+}, {
+    "symbol": "XRPBEAR_USDT"
+}, {
+    "symbol": "LINK_BTC"
+}, {
+    "symbol": "CHZ_BRL"
+}, {
+    "symbol": "LUNA_BIDR"
+}, {
+    "symbol": "MATIC_BRL"
+}, {
+    "symbol": "NMR_USDT"
+}, {
+    "symbol": "OCEAN_BTC"
+}, {
+    "symbol": "PERP_BTC"
+}, {
+    "symbol": "IMX_BNB"
+}, {
+    "symbol": "MASK_USDT"
+}, {
+    "symbol": "BTTC_USDC"
+}, {
+    "symbol": "AMP_USDT"
+}, {
+    "symbol": "VITE_BNB"
+}, {
+    "symbol": "XRP_USDT"
+}, {
+    "symbol": "BAKE_BTC"
+}, {
+    "symbol": "BCH_USDC"
+}, {
+    "symbol": "ALICE_USDT"
+}, {
+    "symbol": "XVS_BNB"
+}, {
+    "symbol": "DUSK_PAX"
+}, {
+    "symbol": "MATIC_RUB"
+}, {
+    "symbol": "SWRV_BNB"
+}, {
+    "symbol": "LTC_USDC"
+}, {
+    "symbol": "TWT_BTC"
+}, {
+    "symbol": "BETH_ETH"
+}, {
+    "symbol": "ETC_TRY"
+}, {
+    "symbol": "FET_USDT"
+}, {
+    "symbol": "OP_ETH"
+}, {
+    "symbol": "BAL_BNB"
+}, {
+    "symbol": "NANO_BTC"
+}, {
+    "symbol": "LTC_RUB"
+}, {
+    "symbol": "RLC_USDT"
+}, {
+    "symbol": "LUNA_GBP"
+}, {
+    "symbol": "DCR_BTC"
+}, {
+    "symbol": "RGT_BTC"
+}, {
+    "symbol": "ANY_USDT"
+}, {
+    "symbol": "JST_USDT"
+}, {
+    "symbol": "XLM_TUSD"
+}, {
+    "symbol": "TFUEL_USDT"
+}, {
+    "symbol": "GAL_EUR"
+}, {
+    "symbol": "NEO_TRY"
+}, {
+    "symbol": "ATOM_USDT"
+}, {
+    "symbol": "LOOM_BNB"
+}, {
+    "symbol": "XLM_BNB"
+}, {
+    "symbol": "ATOM_USDC"
+}, {
+    "symbol": "KEEP_BNB"
+}, {
+    "symbol": "FOR_BTC"
+}, {
+    "symbol": "RUNE_EUR"
+}, {
+    "symbol": "BNB_IDRT"
+}, {
+    "symbol": "ANKR_USDT"
+}, {
+    "symbol": "BURGER_ETH"
+}, {
+    "symbol": "SXP_GBP"
+}, {
+    "symbol": "DOT_BRL"
+}, {
+    "symbol": "GAL_BNB"
+}, {
+    "symbol": "POWR_BNB"
+}, {
+    "symbol": "AR_BNB"
+}, {
+    "symbol": "TUSD_BTC"
+}, {
+    "symbol": "MANA_BIDR"
+}, {
+    "symbol": "CVC_USDT"
+}, {
+    "symbol": "WAVES_BTC"
+}, {
+    "symbol": "ATOM_PAX"
+}, {
+    "symbol": "CHESS_BTC"
+}, {
+    "symbol": "MINA_USDT"
+}, {
+    "symbol": "ONE_BTC"
+}, {
+    "symbol": "AVAX_BRL"
+}, {
+    "symbol": "AUDIO_TRY"
+}, {
+    "symbol": "BTG_ETH"
+}, {
+    "symbol": "ADA_RUB"
+}, {
+    "symbol": "GMT_ETH"
+}, {
+    "symbol": "QTUM_USDT"
+}, {
+    "symbol": "WRX_EUR"
+}, {
+    "symbol": "RUNE_TRY"
+}, {
+    "symbol": "ADA_EUR"
+}, {
+    "symbol": "JASMY_ETH"
+}, {
+    "symbol": "ALPACA_BNB"
+}, {
+    "symbol": "NEAR_BNB"
+}, {
+    "symbol": "FIS_USDT"
+}, {
+    "symbol": "UNI_USDT"
+}, {
+    "symbol": "VET_BTC"
+}, {
+    "symbol": "PHB_TUSD"
+}, {
+    "symbol": "NEO_ETH"
+}, {
+    "symbol": "YFII_BNB"
+}, {
+    "symbol": "LTC_UAH"
+}, {
+    "symbol": "USDC_BNB"
+}, {
+    "symbol": "ADX_BTC"
+}, {
+    "symbol": "KAVA_BTC"
+}, {
+    "symbol": "YFI_EUR"
+}, {
+    "symbol": "DOGE_GBP"
+}, {
+    "symbol": "CTK_BNB"
+}, {
+    "symbol": "BETA_ETH"
+}, {
+    "symbol": "CTK_USDT"
+}, {
+    "symbol": "VET_EUR"
+}, {
+    "symbol": "IOTA_USDT"
+}, {
+    "symbol": "JUV_USDT"
+}, {
+    "symbol": "FIS_BIDR"
+}, {
+    "symbol": "BNB_TRY"
+}, {
+    "symbol": "ERN_USDT"
+}, {
+    "symbol": "AKRO_USDT"
+}, {
+    "symbol": "ONE_USDT"
+}, {
+    "symbol": "FIO_BTC"
+}, {
+    "symbol": "ETH_PAX"
+}, {
+    "symbol": "BTC_BIDR"
+}, {
+    "symbol": "AVAX_GBP"
+}, {
+    "symbol": "XRP_BRL"
+}, {
+    "symbol": "CREAM_BNB"
+}, {
+    "symbol": "ETH_UAH"
+}, {
+    "symbol": "DEXE_ETH"
+}, {
+    "symbol": "WBTC_BTC"
+}, {
+    "symbol": "UNI_BNB"
+}, {
+    "symbol": "XTZ_TRY"
+}, {
+    "symbol": "JASMY_EUR"
+}, {
+    "symbol": "GLM_ETH"
+}, {
+    "symbol": "BETA_BNB"
+}, {
+    "symbol": "OMG_BTC"
+}, {
+    "symbol": "ZIL_TRY"
+}, {
+    "symbol": "PYR_USDT"
+}, {
+    "symbol": "NULS_BTC"
+}, {
+    "symbol": "XVG_ETH"
+}, {
+    "symbol": "ILV_BNB"
+}, {
+    "symbol": "ALPHA_BNB"
+}, {
+    "symbol": "APT_BRL"
+}, {
+    "symbol": "ARPA_BTC"
+}, {
+    "symbol": "TRX_BTC"
+}, {
+    "symbol": "SXP_BTC"
+}, {
+    "symbol": "HNT_USDT"
+}, {
+    "symbol": "HOOK_BTC"
+}, {
+    "symbol": "TLM_BTC"
+}, {
+    "symbol": "NANO_BNB"
+}, {
+    "symbol": "LOKA_BNB"
+}, {
+    "symbol": "BTC_PAX"
+}, {
+    "symbol": "TLM_BNB"
+}, {
+    "symbol": "ENJ_TRY"
+}, {
+    "symbol": "FTT_USDT"
+}, {
+    "symbol": "LINK_BKRW"
+}, {
+    "symbol": "POLY_BTC"
+}, {
+    "symbol": "DOGE_TRY"
+}, {
+    "symbol": "LTC_ETH"
+}, {
+    "symbol": "SAND_ETH"
+}, {
+    "symbol": "NEAR_TRY"
+}, {
+    "symbol": "HOOK_USDT"
+}, {
+    "symbol": "API3_USDT"
+}, {
+    "symbol": "FIL_BNB"
+}, {
+    "symbol": "TRX_AUD"
+}, {
+    "symbol": "MOB_BTC"
+}, {
+    "symbol": "LUNA_BNB"
+}, {
+    "symbol": "ENJ_EUR"
+}, {
+    "symbol": "RAMP_BTC"
+}, {
+    "symbol": "ONE_TRY"
+}, {
+    "symbol": "TLM_TRY"
+}, {
+    "symbol": "ZIL_USDT"
+}, {
+    "symbol": "FTM_BIDR"
+}, {
+    "symbol": "SKL_USDT"
+}, {
+    "symbol": "WAXP_USDT"
+}, {
+    "symbol": "LSK_ETH"
+}, {
+    "symbol": "NANO_USDT"
+}, {
+    "symbol": "STEEM_ETH"
+}, {
+    "symbol": "UNFI_ETH"
+}, {
+    "symbol": "APT_EUR"
+}, {
+    "symbol": "QKC_ETH"
+}, {
+    "symbol": "SXP_EUR"
+}, {
+    "symbol": "ICX_USDT"
+}, {
+    "symbol": "STPT_USDT"
+}, {
+    "symbol": "MTL_BTC"
+}, {
+    "symbol": "BTTC_TRY"
+}, {
+    "symbol": "TFUEL_PAX"
+}, {
+    "symbol": "ALPINE_EUR"
+}, {
+    "symbol": "XTZ_BNB"
+}, {
+    "symbol": "AMP_BTC"
+}, {
+    "symbol": "SPELL_TRY"
+}, {
+    "symbol": "BEL_ETH"
+}, {
+    "symbol": "FTT_ETH"
+}, {
+    "symbol": "BTC_USDC"
+}, {
+    "symbol": "STEEM_USDT"
+}, {
+    "symbol": "ZRX_USDT"
+}, {
+    "symbol": "BNB_USDP"
+}, {
+    "symbol": "AVAX_ETH"
+}, {
+    "symbol": "DOGE_USDT"
+}, {
+    "symbol": "LINK_ETH"
+}, {
+    "symbol": "DREP_BTC"
+}, {
+    "symbol": "RNDR_BTC"
+}, {
+    "symbol": "MANA_BRL"
+}, {
+    "symbol": "CHESS_BNB"
+}, {
+    "symbol": "GTO_PAX"
+}, {
+    "symbol": "TRIBE_BNB"
+}, {
+    "symbol": "SAND_BIDR"
+}, {
+    "symbol": "REQ_ETH"
+}, {
+    "symbol": "GMT_BNB"
+}, {
+    "symbol": "ETC_BTC"
+}, {
+    "symbol": "CTXC_BTC"
+}, {
+    "symbol": "GRT_TRY"
+}, {
+    "symbol": "REQ_BTC"
+}, {
+    "symbol": "ILV_BTC"
+}, {
+    "symbol": "HEGIC_ETH"
+}, {
+    "symbol": "FXS_USDT"
+}, {
+    "symbol": "ATOM_TUSD"
+}, {
+    "symbol": "GALA_EUR"
+}, {
+    "symbol": "CTSI_BNB"
+}, {
+    "symbol": "JASMY_USDT"
+}, {
+    "symbol": "DIA_USDT"
+}, {
+    "symbol": "SOL_RUB"
+}, {
+    "symbol": "LEND_BTC"
+}, {
+    "symbol": "MOVR_USDT"
+}, {
+    "symbol": "JASMY_TRY"
+}, {
+    "symbol": "KSM_BNB"
+}, {
+    "symbol": "BZRX_USDT"
+}, {
+    "symbol": "APE_BRL"
+}, {
+    "symbol": "ZEC_USDC"
+}, {
+    "symbol": "NULS_ETH"
+}, {
+    "symbol": "GAL_USDT"
+}, {
+    "symbol": "ADA_TRY"
+}, {
+    "symbol": "WIN_TRX"
+}, {
+    "symbol": "XLM_BTC"
+}, {
+    "symbol": "MOB_USDT"
+}, {
+    "symbol": "DNT_USDT"
+}, {
+    "symbol": "ONE_USDC"
+}, {
+    "symbol": "CHR_USDT"
+}, {
+    "symbol": "BKRW_USDT"
+}, {
+    "symbol": "UNI_AUD"
+}, {
+    "symbol": "SHIB_TRY"
+}, {
+    "symbol": "API3_BNB"
+}, {
+    "symbol": "CRV_ETH"
+}, {
+    "symbol": "ICX_BNB"
+}, {
+    "symbol": "FTM_RUB"
+}, {
+    "symbol": "CAKE_BNB"
+}, {
+    "symbol": "LTO_BNB"
+}, {
+    "symbol": "SCRT_ETH"
+}, {
+    "symbol": "MANA_TRY"
+}, {
+    "symbol": "REP_BNB"
+}, {
+    "symbol": "FTM_BTC"
+}, {
+    "symbol": "MC_BNB"
+}, {
+    "symbol": "LINK_BRL"
+}, {
+    "symbol": "WING_ETH"
+}, {
+    "symbol": "NEO_PAX"
+}, {
+    "symbol": "HOT_ETH"
+}, {
+    "symbol": "DEGO_USDT"
+}, {
+    "symbol": "ETC_USDC"
+}, {
+    "symbol": "XRP_PAX"
+}, {
+    "symbol": "MATIC_TRY"
+}, {
+    "symbol": "BAT_PAX"
+}, {
+    "symbol": "KLAY_BNB"
+}, {
+    "symbol": "DATA_BTC"
+}, {
+    "symbol": "CHZ_BTC"
+}, {
+    "symbol": "BOND_ETH"
+}, {
+    "symbol": "ADX_BNB"
+}, {
+    "symbol": "BTC_AUD"
+}, {
+    "symbol": "XEM_BNB"
+}, {
+    "symbol": "ALPINE_TRY"
+}, {
+    "symbol": "NU_AUD"
+}, {
+    "symbol": "BLZ_ETH"
+}, {
+    "symbol": "ALGO_TRY"
+}, {
+    "symbol": "EOSBULL_USDT"
+}, {
+    "symbol": "SLP_USDT"
+}, {
+    "symbol": "EOS_AUD"
+}, {
+    "symbol": "LUNC_USDT"
+}, {
+    "symbol": "LTC_PAX"
+}, {
+    "symbol": "TOMO_BTC"
+}, {
+    "symbol": "ONE_PAX"
+}, {
+    "symbol": "DOGE_USDC"
+}, {
+    "symbol": "AION_BNB"
+}, {
+    "symbol": "USDT_BVND"
+}, {
+    "symbol": "VIB_BTC"
+}, {
+    "symbol": "C98_BRL"
+}, {
+    "symbol": "PHB_BNB"
+}, {
+    "symbol": "SRM_BTC"
+}, {
+    "symbol": "DOCK_USDT"
+}, {
+    "symbol": "SANTOS_BTC"
+}, {
+    "symbol": "PUNDIX_USDT"
+}, {
+    "symbol": "LINK_TUSD"
+}, {
+    "symbol": "ONE_TUSD"
+}, {
+    "symbol": "SAND_BTC"
+}, {
+    "symbol": "ADA_BIDR"
+}, {
+    "symbol": "ADA_USDC"
+}, {
+    "symbol": "VET_BNB"
+}, {
+    "symbol": "LPT_BNB"
+}, {
+    "symbol": "NEBL_BNB"
+}, {
+    "symbol": "NEAR_RUB"
+}, {
+    "symbol": "TUSD_T"
+}, {
+    "symbol": "SUSHI_BTC"
+}, {
+    "symbol": "ASR_USDT"
+}, {
+    "symbol": "ONE_BIDR"
+}, {
+    "symbol": "AAVE_USDT"
+}, {
+    "symbol": "ETH_USDP"
+}, {
+    "symbol": "GALA_BRL"
+}, {
+    "symbol": "SHIB_AUD"
+}, {
+    "symbol": "RAD_USDT"
+}, {
+    "symbol": "SXP_USDT"
+}, {
+    "symbol": "MINA_BTC"
+}, {
+    "symbol": "DOGE_RUB"
+}, {
+    "symbol": "SSV_ETH"
+}, {
+    "symbol": "AMB_BTC"
+}, {
+    "symbol": "PHB_USDT"
+}, {
+    "symbol": "OG_USDT"
+}, {
+    "symbol": "AXS_AUD"
+}, {
+    "symbol": "NULS_USDT"
+}, {
+    "symbol": "SUSHI_USDT"
+}, {
+    "symbol": "DUSK_USDC"
+}, {
+    "symbol": "BAT_BTC"
+}, {
+    "symbol": "ONT_TRY"
+}, {
+    "symbol": "STMX_ETH"
+}, {
+    "symbol": "GMT_BRL"
+}, {
+    "symbol": "ETH_UST"
+}, {
+    "symbol": "VOXEL_BNB"
+}, {
+    "symbol": "JASMY_BTC"
+}, {
+    "symbol": "LINK_GBP"
+}, {
+    "symbol": "FET_BTC"
+}, {
+    "symbol": "VOXEL_BTC"
+}, {
+    "symbol": "STX_BTC"
+}, {
+    "symbol": "NEXO_USDT"
+}, {
+    "symbol": "JST_BNB"
+}, {
+    "symbol": "BSW_ETH"
+}, {
+    "symbol": "HOT_BTC"
+}, {
+    "symbol": "ADA_BRL"
+}, {
+    "symbol": "BNB_ZAR"
+}, {
+    "symbol": "AION_USDT"
+}, {
+    "symbol": "REP_USDT"
+}, {
+    "symbol": "ICP_BTC"
+}, {
+    "symbol": "REI_ETH"
+}, {
+    "symbol": "QUICK_BTC"
+}, {
+    "symbol": "YGG_BTC"
+}, {
+    "symbol": "FTT_BTC"
+}, {
+    "symbol": "NEO_RUB"
+}, {
+    "symbol": "DOGE_BRL"
+}, {
+    "symbol": "GMT_BTC"
+}, {
+    "symbol": "UMA_BTC"
+}, {
+    "symbol": "MBOX_USDT"
+}, {
+    "symbol": "GRT_BTC"
+}, {
+    "symbol": "GLMR_BNB"
+}, {
+    "symbol": "ALICE_TRY"
+}, {
+    "symbol": "WAVES_ETH"
+}, {
+    "symbol": "GTC_USDT"
+}, {
+    "symbol": "OGN_USDT"
+}, {
+    "symbol": "DF_USDT"
+}, {
+    "symbol": "FET_BNB"
+}, {
+    "symbol": "APE_TRY"
+}, {
+    "symbol": "XRP_AUD"
+}, {
+    "symbol": "LPT_USDT"
+}, {
+    "symbol": "BTT_USDC"
+}, {
+    "symbol": "BTT_USDT"
+}, {
+    "symbol": "MKR_USDT"
+}, {
+    "symbol": "HARD_BTC"
+}, {
+    "symbol": "BTC_PLN"
+}, {
+    "symbol": "SKL_BTC"
+}, {
+    "symbol": "LOOM_BTC"
+}, {
+    "symbol": "GRT_EUR"
+}, {
+    "symbol": "BLZ_BTC"
+}, {
+    "symbol": "POWR_USDT"
+}, {
+    "symbol": "OG_BTC"
+}, {
+    "symbol": "XMR_ETH"
+}, {
+    "symbol": "UNI_BTC"
+}, {
+    "symbol": "GMT_GBP"
+}, {
+    "symbol": "ATOM_EUR"
+}, {
+    "symbol": "PEOPLE_BTC"
+}, {
+    "symbol": "ZIL_BIDR"
+}, {
+    "symbol": "ALCX_USDT"
+}, {
+    "symbol": "AVA_BNB"
+}, {
+    "symbol": "DOT_BKRW"
+}, {
+    "symbol": "HOT_EUR"
+}, {
+    "symbol": "WING_BTC"
+}, {
+    "symbol": "DYDX_BTC"
+}, {
+    "symbol": "CITY_USDT"
+}, {
+    "symbol": "CTXC_USDT"
+}, {
+    "symbol": "MINA_BNB"
+}, {
+    "symbol": "LUNA_TRY"
+}, {
+    "symbol": "SYS_BNB"
+}, {
+    "symbol": "MDT_USDT"
+}, {
+    "symbol": "RVN_BTC"
+}, {
+    "symbol": "1INCH_BTC"
+}, {
+    "symbol": "NKN_BTC"
+}, {
+    "symbol": "DOGE_AUD"
+}, {
+    "symbol": "FARM_USDT"
+}, {
+    "symbol": "YFI_BNB"
+}, {
+    "symbol": "BCHABC_TUSD"
+}, {
+    "symbol": "HFT_USDT"
+}, {
+    "symbol": "COMP_BNB"
+}, {
+    "symbol": "SOL_BIDR"
+}, {
+    "symbol": "AVA_USDT"
+}, {
+    "symbol": "TKO_BTC"
+}, {
+    "symbol": "LRC_ETH"
+}, {
+    "symbol": "FLM_BTC"
+}, {
+    "symbol": "CHR_ETH"
+}, {
+    "symbol": "QNT_BNB"
+}, {
+    "symbol": "PHA_USDT"
+}, {
+    "symbol": "QTUM_BNB"
+}, {
+    "symbol": "ATOM_BNB"
+}, {
+    "symbol": "TORN_BNB"
+}, {
+    "symbol": "PROM_BTC"
+}, {
+    "symbol": "BTT_PAX"
+}, {
+    "symbol": "STX_USDT"
+}, {
+    "symbol": "OOKI_ETH"
+}, {
+    "symbol": "ZIL_BNB"
+}, {
+    "symbol": "ICP_BNB"
+}, {
+    "symbol": "TUSD_BNB"
+}, {
+    "symbol": "BCHABC_USDT"
+}, {
+    "symbol": "ACH_USDT"
+}, {
+    "symbol": "AKRO_BTC"
+}, {
+    "symbol": "CELR_ETH"
+}, {
+    "symbol": "AERGO_BTC"
+}, {
+    "symbol": "CVX_USDT"
+}, {
+    "symbol": "LUNA_USDT"
+}, {
+    "symbol": "AUTO_USDT"
+}, {
+    "symbol": "TRU_USDT"
+}, {
+    "symbol": "PLA_BTC"
+}, {
+    "symbol": "TVK_USDT"
+}, {
+    "symbol": "FORTH_USDT"
+}, {
+    "symbol": "HFT_BTC"
+}, {
+    "symbol": "WRX_BTC"
+}, {
+    "symbol": "PAX_USDT"
+}, {
+    "symbol": "LINA_BNB"
+}, {
+    "symbol": "HIVE_BNB"
+}, {
+    "symbol": "CHZ_GBP"
+}, {
+    "symbol": "LTC_BTC"
+}, {
+    "symbol": "ATOM_BTC"
+}, {
+    "symbol": "STX_BNB"
+}, {
+    "symbol": "DEXE_USDT"
+}, {
+    "symbol": "AUTO_BTC"
+}, {
+    "symbol": "POWR_ETH"
+}, {
+    "symbol": "AVAX_USDT"
+}, {
+    "symbol": "FTM_ETH"
+}, {
+    "symbol": "THETA_ETH"
+}, {
+    "symbol": "MKR_BNB"
+}, {
+    "symbol": "POWR_BTC"
+}, {
+    "symbol": "FIO_BNB"
+}, {
+    "symbol": "XNO_ETH"
+}, {
+    "symbol": "FIL_BTC"
+}, {
+    "symbol": "SFP_BTC"
+}, {
+    "symbol": "BADGER_BTC"
+}, {
+    "symbol": "BEL_BNB"
+}, {
+    "symbol": "JUV_BTC"
+}, {
+    "symbol": "KLAY_BTC"
+}, {
+    "symbol": "LTO_USDT"
+}, {
+    "symbol": "APE_AUD"
+}, {
+    "symbol": "ERD_BNB"
+}, {
+    "symbol": "ANKR_BNB"
+}, {
+    "symbol": "SAND_AUD"
+}, {
+    "symbol": "FIL_USDT"
+}, {
+    "symbol": "TROY_BTC"
+}, {
+    "symbol": "DGB_BTC"
+}, {
+    "symbol": "COCOS_BTC"
+}, {
+    "symbol": "NU_BTC"
+}, {
+    "symbol": "DOT_TRY"
+}, {
+    "symbol": "LIT_BTC"
+}, {
+    "symbol": "APE_ETH"
+}, {
+    "symbol": "MTL_USDT"
+}, {
+    "symbol": "MC_BTC"
+}, {
+    "symbol": "COCOS_USDT"
+}, {
+    "symbol": "CVC_BTC"
+}, {
+    "symbol": "SOL_GBP"
+}, {
+    "symbol": "VET_USDT"
+}, {
+    "symbol": "DREP_USDT"
+}, {
+    "symbol": "SANTOS_USDT"
+}, {
+    "symbol": "GRT_ETH"
+}, {
+    "symbol": "XTZ_BTC"
+}, {
+    "symbol": "CVP_ETH"
+}, {
+    "symbol": "MANA_BNB"
+}, {
+    "symbol": "ONT_USDT"
+}, {
+    "symbol": "AVAX_AUD"
+}, {
+    "symbol": "EOS_USDC"
+}, {
+    "symbol": "QI_BNB"
+}, {
+    "symbol": "MANA_ETH"
+}, {
+    "symbol": "BTC_BKRW"
+}, {
+    "symbol": "ATM_USDT"
+}, {
+    "symbol": "EGLD_EUR"
+}, {
+    "symbol": "ZEC_PAX"
+}, {
+    "symbol": "ARPA_RUB"
+}, {
+    "symbol": "BNBBEAR_USDT"
+}, {
+    "symbol": "LEND_BKRW"
+}, {
+    "symbol": "IOTX_BTC"
+}, {
+    "symbol": "MAGIC_USDT"
+}, {
+    "symbol": "ATA_BNB"
+}, {
+    "symbol": "FORTH_BTC"
+}, {
+    "symbol": "PAX_TUSD"
+}, {
+    "symbol": "XRP_TRY"
+}, {
+    "symbol": "ENJ_BRL"
+}, {
+    "symbol": "STRAT_ETH"
+}, {
+    "symbol": "EOS_EUR"
+}, {
+    "symbol": "BULL_USDT"
+}, {
+    "symbol": "AAVE_ETH"
+}, {
+    "symbol": "ALICE_BIDR"
+}, {
+    "symbol": "ENS_USDT"
+}, {
+    "symbol": "RAD_BNB"
+}, {
+    "symbol": "YFII_USDT"
+}, {
+    "symbol": "LOOM_ETH"
+}, {
+    "symbol": "HOT_USDT"
+}, {
+    "symbol": "PEOPLE_BNB"
+}, {
+    "symbol": "ETH_TUSD"
+}, {
+    "symbol": "HOT_TRY"
+}, {
+    "symbol": "GTO_USDT"
+}, {
+    "symbol": "SNX_BNB"
+}, {
+    "symbol": "PORTO_USDT"
+}, {
+    "symbol": "XRP_USDC"
+}, {
+    "symbol": "MINA_TRY"
+}, {
+    "symbol": "MDX_USDT"
+}, {
+    "symbol": "ZEN_USDT"
+}, {
+    "symbol": "KSM_ETH"
+}, {
+    "symbol": "BURGER_USDT"
+}, {
+    "symbol": "FIL_TRY"
+}, {
+    "symbol": "FRONT_ETH"
+}, {
+    "symbol": "AVAX_BTC"
+}, {
+    "symbol": "ADA_BNB"
+}, {
+    "symbol": "JOE_BTC"
+}, {
+    "symbol": "ALICE_BTC"
+}, {
+    "symbol": "STORJ_ETH"
+}, {
+    "symbol": "BETA_USDT"
+}, {
+    "symbol": "BAND_BNB"
+}, {
+    "symbol": "LINK_AUD"
+}, {
+    "symbol": "HOT_BNB"
+}, {
+    "symbol": "ETC_TUSD"
+}, {
+    "symbol": "SRM_USDT"
+}, {
+    "symbol": "STG_USDT"
+}, {
+    "symbol": "EOS_TUSD"
+}, {
+    "symbol": "LRC_TRY"
+}, {
+    "symbol": "KNC_USDT"
+}, {
+    "symbol": "GAL_BRL"
+}, {
+    "symbol": "ELF_ETH"
+}, {
+    "symbol": "XLM_EUR"
+}, {
+    "symbol": "MATIC_AUD"
+}, {
+    "symbol": "AAVE_BKRW"
+}, {
+    "symbol": "DASH_BNB"
+}, {
+    "symbol": "SNM_ETH"
+}, {
+    "symbol": "BNBBULL_USDT"
+}, {
+    "symbol": "WAVES_TRY"
+}, {
+    "symbol": "CVC_ETH"
+}, {
+    "symbol": "FTM_USDC"
+}, {
+    "symbol": "TUSD_USDT"
+}, {
+    "symbol": "FLUX_BTC"
+}, {
+    "symbol": "OP_BTC"
+}, {
+    "symbol": "KDA_BTC"
+}, {
+    "symbol": "ATOM_BIDR"
+}, {
+    "symbol": "LAZIO_USDT"
+}, {
+    "symbol": "FIDA_USDT"
+}, {
+    "symbol": "AION_BTC"
+}, {
+    "symbol": "DAI_BTC"
+}, {
+    "symbol": "DOT_RUB"
+}, {
+    "symbol": "BTT_TRX"
+}, {
+    "symbol": "ETC_GBP"
+}, {
+    "symbol": "ELF_USDT"
+}, {
+    "symbol": "MOVR_BTC"
+}, {
+    "symbol": "BTC_TRY"
+}, {
+    "symbol": "ERD_USDC"
+}, {
+    "symbol": "QI_BTC"
+}, {
+    "symbol": "LINK_TRY"
+}, {
+    "symbol": "SC_ETH"
+}, {
+    "symbol": "AVAX_BNB"
+}, {
+    "symbol": "BNB_USDC"
+}, {
+    "symbol": "EOSBEAR_USDT"
+}, {
+    "symbol": "RUNE_BTC"
+}, {
+    "symbol": "KNC_ETH"
+}, {
+    "symbol": "DUSK_BTC"
+}, {
+    "symbol": "ETH_USDC"
+}, {
+    "symbol": "FTT_BNB"
+}, {
+    "symbol": "AGLD_USDT"
+}, {
+    "symbol": "MANA_BTC"
+}, {
+    "symbol": "OXT_BTC"
+}, {
+    "symbol": "PORTO_TRY"
+}, {
+    "symbol": "CTSI_BTC"
+}, {
+    "symbol": "BTS_USDT"
+}, {
+    "symbol": "ALGO_RUB"
+}, {
+    "symbol": "USDT_TRY"
+}, {
+    "symbol": "ALGO_BNB"
+}, {
+    "symbol": "MANA_USDT"
+}, {
+    "symbol": "PORTO_EUR"
+}, {
+    "symbol": "MIR_USDT"
+}, {
+    "symbol": "LEND_USDT"
+}, {
+    "symbol": "RUNE_GBP"
+}, {
+    "symbol": "ROSE_BNB"
+}, {
+    "symbol": "DAR_BTC"
+}, {
+    "symbol": "AGIX_BTC"
+}, {
+    "symbol": "LUNA_AUD"
+}, {
+    "symbol": "AGLD_BTC"
+}, {
+    "symbol": "LINK_USDC"
+}, {
+    "symbol": "STEEM_BTC"
+}, {
+    "symbol": "GALA_TRY"
+}, {
+    "symbol": "ICP_TRY"
+}, {
+    "symbol": "BTT_BTC"
+}, {
+    "symbol": "AXS_TRY"
+}, {
+    "symbol": "BNB_ETH"
+}, {
+    "symbol": "MATIC_GBP"
+}, {
+    "symbol": "XLM_USDC"
+}, {
+    "symbol": "OGN_BTC"
+}, {
+    "symbol": "BTC_IDRT"
+}, {
+    "symbol": "ASTR_USDT"
+}, {
+    "symbol": "PAX_BTC"
+}, {
+    "symbol": "RSR_BTC"
+}, {
+    "symbol": "CAKE_GBP"
+}, {
+    "symbol": "LUNA_BTC"
+}, {
+    "symbol": "JOE_USDT"
+}, {
+    "symbol": "CKB_USDT"
+}, {
+    "symbol": "CELO_USDT"
+}, {
+    "symbol": "LINA_USDT"
+}, {
+    "symbol": "KNC_BNB"
+}, {
+    "symbol": "STORJ_TRY"
+}, {
+    "symbol": "TRU_RUB"
+}, {
+    "symbol": "ENJ_GBP"
+}, {
+    "symbol": "CTSI_USDT"
+}, {
+    "symbol": "PAXG_BTC"
+}, {
+    "symbol": "LTC_BNB"
+}, {
+    "symbol": "XEM_ETH"
+}, {
+    "symbol": "WRX_BNB"
+}, {
+    "symbol": "LUNA_BRL"
+}, {
+    "symbol": "ENS_BNB"
+}, {
+    "symbol": "POLY_USDT"
+}, {
+    "symbol": "ANKR_TUSD"
+}, {
+    "symbol": "FLUX_USDT"
+}, {
+    "symbol": "CHR_BNB"
+}, {
+    "symbol": "WBTC_ETH"
+}, {
+    "symbol": "UTK_USDT"
+}, {
+    "symbol": "BNB_DAI"
+}, {
+    "symbol": "XRPBULL_USDT"
+}, {
+    "symbol": "HOT_BRL"
+}, {
+    "symbol": "LINK_PAX"
+}, {
+    "symbol": "YFI_USDT"
+}, {
+    "symbol": "APT_BTC"
+}, {
+    "symbol": "MATIC_EUR"
+}, {
+    "symbol": "XRP_EUR"
+}, {
+    "symbol": "IRIS_USDT"
+}, {
+    "symbol": "FOR_BNB"
+}, {
+    "symbol": "CAKE_USDT"
+}, {
+    "symbol": "ZIL_EUR"
+}, {
+    "symbol": "LAZIO_TRY"
+}, {
+    "symbol": "ACA_USDT"
+}, {
+    "symbol": "IQ_BNB"
+}, {
+    "symbol": "MDT_BTC"
+}, {
+    "symbol": "KEY_BTC"
+}, {
+    "symbol": "FLOW_USDT"
+}, {
+    "symbol": "FARM_BNB"
+}, {
+    "symbol": "AUCTION_BTC"
+}, {
+    "symbol": "DOT_BNB"
+}, {
+    "symbol": "BTS_BNB"
+}, {
+    "symbol": "USDT_DAI"
+}, {
+    "symbol": "AAVE_BRL"
+}, {
+    "symbol": "AVA_BTC"
+}, {
+    "symbol": "VIDT_USDT"
+}, {
+    "symbol": "SCRT_USDT"
+}, {
+    "symbol": "ICP_RUB"
+}, {
+    "symbol": "BNB_RUB"
+}, {
+    "symbol": "GAS_BTC"
+}, {
+    "symbol": "C98_BNB"
+}, {
+    "symbol": "FTM_AUD"
+}, {
+    "symbol": "BTS_ETH"
+}, {
+    "symbol": "DODO_BTC"
+}, {
+    "symbol": "TRX_USDC"
+}, {
+    "symbol": "PORTO_BTC"
+}, {
+    "symbol": "DOT_NGN"
+}, {
+    "symbol": "TORN_BTC"
+}, {
+    "symbol": "BAT_ETH"
+}, {
+    "symbol": "RLC_BTC"
+}, {
+    "symbol": "ETH_GBP"
+}, {
+    "symbol": "IOTX_ETH"
+}, {
+    "symbol": "BNT_ETH"
+}, {
+    "symbol": "ALGO_PAX"
+}, {
+    "symbol": "DF_ETH"
+}, {
+    "symbol": "TFUEL_TUSD"
+}, {
+    "symbol": "GMT_AUD"
+}, {
+    "symbol": "DYDX_ETH"
+}, {
+    "symbol": "WAXP_BNB"
+}, {
+    "symbol": "BTC_USDP"
+}, {
+    "symbol": "DOT_BTC"
+}, {
+    "symbol": "TRX_XRP"
+}, {
+    "symbol": "DASH_USDT"
+}, {
+    "symbol": "BOND_BNB"
+}, {
+    "symbol": "ANC_BTC"
+}, {
+    "symbol": "ETH_EUR"
+}, {
+    "symbol": "POND_BTC"
+}, {
+    "symbol": "ETH_BKRW"
+}, {
+    "symbol": "LDO_BTC"
+}, {
+    "symbol": "WAVES_RUB"
+}, {
+    "symbol": "XEM_USDT"
+}, {
+    "symbol": "GAL_TRY"
+}, {
+    "symbol": "OMG_ETH"
+}, {
+    "symbol": "THETA_BTC"
+}, {
+    "symbol": "BTC_DAI"
+}, {
+    "symbol": "LTO_BTC"
+}, {
+    "symbol": "XNO_USDT"
+}, {
+    "symbol": "IOST_BTC"
+}, {
+    "symbol": "KAVA_ETH"
+}, {
+    "symbol": "EPS_BTC"
+}, {
+    "symbol": "XRP_BIDR"
+}, {
+    "symbol": "BTC_GBP"
+}, {
+    "symbol": "NANO_ETH"
+}, {
+    "symbol": "T_USDT"
+}, {
+    "symbol": "SUSHI_BNB"
+}, {
+    "symbol": "IDEX_USDT"
+}, {
+    "symbol": "SAND_TRY"
+}, {
+    "symbol": "ZEN_ETH"
+}, {
+    "symbol": "DCR_BNB"
+}, {
+    "symbol": "ARPA_USDT"
+}, {
+    "symbol": "HNT_BTC"
+}, {
+    "symbol": "ADA_ETH"
+}, {
+    "symbol": "UNFI_BNB"
+}, {
+    "symbol": "AMB_ETH"
+}, {
+    "symbol": "ROSE_TRY"
+}, {
+    "symbol": "MBOX_BNB"
+}, {
+    "symbol": "SPELL_USDT"
+}, {
+    "symbol": "DOGE_BIDR"
+}, {
+    "symbol": "AXS_BRL"
+}, {
+    "symbol": "TRX_TUSD"
+}, {
+    "symbol": "CFX_USDT"
+}, {
+    "symbol": "WRX_USDT"
+}, {
+    "symbol": "STORJ_USDT"
+}, {
+    "symbol": "ACA_BTC"
+}, {
+    "symbol": "POLS_BTC"
+}, {
+    "symbol": "NKN_BNB"
+}, {
+    "symbol": "KEEP_USDT"
+}, {
+    "symbol": "AUD_USDT"
+}, {
+    "symbol": "LRC_BTC"
+}, {
+    "symbol": "IOST_ETH"
+}, {
+    "symbol": "LSK_BTC"
+}, {
+    "symbol": "ROSE_USDT"
+}, {
+    "symbol": "ZEC_BNB"
+}, {
+    "symbol": "FTM_PAX"
+}, {
+    "symbol": "COCOS_BNB"
+}, {
+    "symbol": "UST_USDT"
+}, {
+    "symbol": "HBAR_BTC"
+}, {
+    "symbol": "OXT_USDT"
+}, {
+    "symbol": "ATM_BTC"
+}, {
+    "symbol": "ENS_TRY"
+}, {
+    "symbol": "XVS_BTC"
+}, {
+    "symbol": "XMR_USDT"
+}, {
+    "symbol": "GALA_ETH"
+}, {
+    "symbol": "TFUEL_BTC"
+}, {
+    "symbol": "BCH_BTC"
+}, {
+    "symbol": "JST_BTC"
+}, {
+    "symbol": "ATA_USDT"
+}, {
+    "symbol": "TRX_PAX"
+}, {
+    "symbol": "CITY_BTC"
+}, {
+    "symbol": "COS_BTC"
+}, {
+    "symbol": "PEOPLE_ETH"
+}, {
+    "symbol": "MBL_BNB"
+}, {
+    "symbol": "ANY_BTC"
+}, {
+    "symbol": "MATIC_BIDR"
+}, {
+    "symbol": "KSM_BTC"
+}, {
+    "symbol": "STRAX_ETH"
+}, {
+    "symbol": "EGLD_BTC"
+}, {
+    "symbol": "NEXO_BTC"
+}, {
+    "symbol": "MLN_USDT"
+}, {
+    "symbol": "WAVES_EUR"
+}, {
+    "symbol": "BNB_BKRW"
+}, {
+    "symbol": "PAX_BNB"
+}, {
+    "symbol": "BEL_USDT"
+}, {
+    "symbol": "FTM_TUSD"
+}, {
+    "symbol": "RLC_BNB"
+}, {
+    "symbol": "GBP_USDT"
+}, {
+    "symbol": "WAVES_USDC"
+}, {
+    "symbol": "ETC_ETH"
+}, {
+    "symbol": "WING_USDT"
+}, {
+    "symbol": "POLYX_BTC"
+}, {
+    "symbol": "MBOX_BTC"
+}, {
+    "symbol": "LOKA_BTC"
+}, {
+    "symbol": "ROSE_BTC"
+}, {
+    "symbol": "TVK_BTC"
+}, {
+    "symbol": "GMT_TRY"
+}, {
+    "symbol": "SUPER_USDT"
+}, {
+    "symbol": "DOT_ETH"
+}, {
+    "symbol": "NEAR_BTC"
+}, {
+    "symbol": "ADA_TUSD"
+}, {
+    "symbol": "BNB_EUR"
+}, {
+    "symbol": "COVER_ETH"
+}, {
+    "symbol": "EOS_ETH"
+}, {
+    "symbol": "USDT_UAH"
+}, {
+    "symbol": "RVN_TRY"
+}, {
+    "symbol": "FRONT_USDT"
+}, {
+    "symbol": "KMD_ETH"
+}, {
+    "symbol": "SHIB_GBP"
+}, {
+    "symbol": "CITY_BNB"
+}, {
+    "symbol": "SSV_BTC"
+}, {
+    "symbol": "DAI_BNB"
+}, {
+    "symbol": "IRIS_BNB"
+}, {
+    "symbol": "FIRO_BTC"
+}, {
+    "symbol": "AMB_BNB"
+}, {
+    "symbol": "AVAX_BIDR"
+}, {
+    "symbol": "SHIB_EUR"
+}, {
+    "symbol": "ALGO_BIDR"
+}, {
+    "symbol": "ETC_EUR"
+}, {
+    "symbol": "RNDR_USDT"
+}, {
+    "symbol": "UMA_TRY"
+}, {
+    "symbol": "SNX_BTC"
+}, {
+    "symbol": "ONT_PAX"
+}, {
+    "symbol": "ZEN_BNB"
+}, {
+    "symbol": "USDT_RUB"
+}, {
+    "symbol": "ETH_AUD"
+}, {
+    "symbol": "CLV_BTC"
+}, {
+    "symbol": "FTM_BNB"
+}, {
+    "symbol": "WAVES_PAX"
+}, {
+    "symbol": "DEGO_BTC"
+}, {
+    "symbol": "AXS_ETH"
+}, {
+    "symbol": "ICX_ETH"
+}, {
+    "symbol": "FIRO_ETH"
+}, {
+    "symbol": "BZRX_BTC"
+}, {
+    "symbol": "OM_BTC"
+}, {
+    "symbol": "INJ_BNB"
+}, {
+    "symbol": "SOL_TRY"
+}, {
+    "symbol": "TKO_USDT"
+}, {
+    "symbol": "USDT_ZAR"
+}, {
+    "symbol": "ALPINE_USDT"
+}, {
+    "symbol": "SNT_ETH"
+}, {
+    "symbol": "HBAR_BNB"
+}, {
+    "symbol": "NEO_USDT"
+}, {
+    "symbol": "ETH_NGN"
+}, {
+    "symbol": "ERD_USDT"
+}, {
+    "symbol": "DAR_TRY"
+}, {
+    "symbol": "BTT_BRL"
+}, {
+    "symbol": "TRB_USDT"
+}, {
+    "symbol": "CFX_BTC"
+}, {
+    "symbol": "SOL_BTC"
+}, {
+    "symbol": "ALGO_ETH"
+}, {
+    "symbol": "FIRO_USDT"
+}, {
+    "symbol": "AUCTION_USDT"
+}, {
+    "symbol": "XEM_BTC"
+}, {
+    "symbol": "REEF_USDT"
+}, {
+    "symbol": "NMR_BTC"
+}, {
+    "symbol": "IDEX_BTC"
+}, {
+    "symbol": "BTT_BNB"
+}, {
+    "symbol": "PROS_ETH"
+}, {
+    "symbol": "BAT_BNB"
+}, {
+    "symbol": "XRP_GBP"
+}, {
+    "symbol": "SYS_BTC"
+}, {
+    "symbol": "CLV_BNB"
+}, {
+    "symbol": "DAR_USDT"
+}, {
+    "symbol": "XLM_ETH"
+}, {
+    "symbol": "FARM_ETH"
+}, {
+    "symbol": "CHZ_BNB"
+}, {
+    "symbol": "VIDT_BTC"
+}, {
+    "symbol": "ALGO_USDC"
+}, {
+    "symbol": "BNX_USDT"
+}, {
+    "symbol": "QUICK_USDT"
+}, {
+    "symbol": "BAL_BTC"
+}, {
+    "symbol": "USDT_IDRT"
+}, {
+    "symbol": "TOMO_USDT"
+}, {
+    "symbol": "UST_BTC"
+}, {
+    "symbol": "GLMR_USDT"
+}, {
+    "symbol": "PSG_BTC"
+}, {
+    "symbol": "SNX_ETH"
+}, {
+    "symbol": "CTK_BTC"
+}, {
+    "symbol": "MASK_BNB"
+}, {
+    "symbol": "NULS_BNB"
+}, {
+    "symbol": "FLOW_BNB"
+}, {
+    "symbol": "BICO_BTC"
+}, {
+    "symbol": "REEF_BTC"
+}, {
+    "symbol": "SLP_TRY"
+}, {
+    "symbol": "WIN_USDC"
+}, {
+    "symbol": "ETH_BTC"
+}, {
+    "symbol": "ZRX_ETH"
+}, {
+    "symbol": "SHIB_UAH"
+}, {
+    "symbol": "AVAX_TRY"
+}, {
+    "symbol": "AR_USDT"
+}, {
+    "symbol": "MLN_BTC"
+}, {
+    "symbol": "PSG_USDT"
+}, {
+    "symbol": "RGT_USDT"
+}, {
+    "symbol": "OCEAN_BNB"
+}, {
+    "symbol": "SANTOS_BRL"
+}, {
+    "symbol": "BAL_USDT"
+}, {
+    "symbol": "ELF_BTC"
+}, {
+    "symbol": "POLY_BNB"
+}, {
+    "symbol": "CELR_USDT"
+}, {
+    "symbol": "ALICE_BNB"
+}, {
+    "symbol": "BCH_PAX"
+}, {
+    "symbol": "ANT_USDT"
+}, {
+    "symbol": "PROS_USDT"
+}, {
+    "symbol": "REN_USDT"
+}, {
+    "symbol": "BIFI_BNB"
+}, {
+    "symbol": "DASH_ETH"
+}, {
+    "symbol": "GALA_AUD"
+}, {
+    "symbol": "BURGER_BNB"
+}, {
+    "symbol": "ADA_GBP"
+}, {
+    "symbol": "WNXM_USDT"
+}, {
+    "symbol": "ASR_BTC"
+}, {
+    "symbol": "VOXEL_USDT"
+}, {
+    "symbol": "AUDIO_BTC"
+}, {
+    "symbol": "ARPA_BNB"
+}, {
+    "symbol": "MATIC_USDT"
+}, {
+    "symbol": "CHZ_EUR"
+}, {
+    "symbol": "FXS_BTC"
+}, {
+    "symbol": "OP_USDT"
+}, {
+    "symbol": "LTC_BRL"
+}, {
+    "symbol": "QTUM_ETH"
+}, {
+    "symbol": "SOL_EUR"
+}, {
+    "symbol": "XEC_USDT"
+}, {
+    "symbol": "CELR_BNB"
+}, {
+    "symbol": "UFT_ETH"
+}, {
+    "symbol": "EUR_USDT"
+}, {
+    "symbol": "API3_TRY"
+}, {
+    "symbol": "BNT_BTC"
+}, {
+    "symbol": "BNB_USDT"
+}, {
+    "symbol": "ALPHA_USDT"
+}, {
+    "symbol": "TKO_BIDR"
+}, {
+    "symbol": "ADX_USDT"
+}, {
+    "symbol": "TRX_TRY"
+}, {
+    "symbol": "RAY_BNB"
+}, {
+    "symbol": "BTC_ZAR"
+}, {
+    "symbol": "LEVER_USDT"
+}, {
+    "symbol": "SFP_USDT"
+}, {
+    "symbol": "GAL_ETH"
+}, {
+    "symbol": "KP3R_BNB"
+}, {
+    "symbol": "ONT_BNB"
+}, {
+    "symbol": "DNT_BTC"
+}, {
+    "symbol": "WOO_USDT"
+}, {
+    "symbol": "COS_BNB"
+}, {
+    "symbol": "ETH_DAI"
+}, {
+    "symbol": "FTM_USDT"
+}, {
+    "symbol": "TOMO_USDC"
+}, {
+    "symbol": "QTUM_BTC"
+}, {
+    "symbol": "LTC_USDT"
+}, {
+    "symbol": "PHB_PAX"
+}, {
+    "symbol": "IOTX_USDT"
+}, {
+    "symbol": "ANKR_PAX"
+}, {
+    "symbol": "GTC_BTC"
+}, {
+    "symbol": "XMR_BTC"
+}, {
+    "symbol": "ARPA_TRY"
+}, {
+    "symbol": "YFII_BTC"
+}, {
+    "symbol": "MDX_BTC"
+}, {
+    "symbol": "VITE_USDT"
+}, {
+    "symbol": "GLM_BTC"
+}, {
+    "symbol": "COS_USDT"
+}, {
+    "symbol": "CRV_USDT"
+}, {
+    "symbol": "KAVA_USDT"
+}, {
+    "symbol": "MATIC_BTC"
+}, {
+    "symbol": "THETA_EUR"
+}, {
+    "symbol": "ONE_BNB"
+}, {
+    "symbol": "INJ_BTC"
+}, {
+    "symbol": "IOTA_BTC"
+}, {
+    "symbol": "ONT_ETH"
+}, {
+    "symbol": "THETA_USDT"
+}, {
+    "symbol": "DOT_GBP"
+}, {
+    "symbol": "GMX_BTC"
+}, {
+    "symbol": "ETHBULL_USDT"
+}, {
+    "symbol": "ZEN_BTC"
+}, {
+    "symbol": "ZRX_BTC"
+}, {
+    "symbol": "BAKE_BNB"
+}, {
+    "symbol": "ADX_ETH"
+}, {
+    "symbol": "AXS_BIDR"
+}, {
+    "symbol": "REP_BTC"
+}, {
+    "symbol": "NEBL_USDT"
+}, {
+    "symbol": "COTI_BTC"
+}, {
+    "symbol": "IOST_USDT"
+}, {
+    "symbol": "ANC_USDT"
+}, {
+    "symbol": "BCH_BNB"
+}, {
+    "symbol": "FIDA_BTC"
+}, {
+    "symbol": "ALGO_BTC"
+}, {
+    "symbol": "SHIB_DOGE"
+}, {
+    "symbol": "VOXEL_ETH"
+}, {
+    "symbol": "ZEC_BTC"
+}, {
+    "symbol": "ANC_BNB"
+}, {
+    "symbol": "SHIB_BRL"
+}, {
+    "symbol": "SOL_AUD"
+}, {
+    "symbol": "REQ_USDT"
+}, {
+    "symbol": "WAXP_BTC"
+}, {
+    "symbol": "BTC_UST"
+}, {
+    "symbol": "ETC_BRL"
+}, {
+    "symbol": "ONT_BTC"
+}, {
+    "symbol": "TLM_USDT"
+}, {
+    "symbol": "RSR_BNB"
+}, {
+    "symbol": "AUDIO_USDT"
+}, {
+    "symbol": "BAT_TUSD"
+}, {
+    "symbol": "SRM_BIDR"
+}, {
+    "symbol": "QI_USDT"
+}, {
+    "symbol": "LRC_BNB"
+}, {
+    "symbol": "SAND_USDT"
+}, {
+    "symbol": "SLP_BNB"
+}, {
+    "symbol": "DOGE_BNB"
+}, {
+    "symbol": "CELO_BTC"
+}, {
+    "symbol": "BTC_EUR"
+}, {
+    "symbol": "ERN_BNB"
+}, {
+    "symbol": "UNI_EUR"
+}, {
+    "symbol": "WAVES_USDT"
+}, {
+    "symbol": "BAR_USDT"
+}, {
+    "symbol": "ZIL_BTC"
+}, {
+    "symbol": "MULTI_BTC"
+}, {
+    "symbol": "SXP_BNB"
+}, {
+    "symbol": "USDP_USDT"
+}, {
+    "symbol": "RAD_BTC"
+}, {
+    "symbol": "RPL_USDT"
+}, {
+    "symbol": "CRV_BTC"
+}, {
+    "symbol": "LUNA_EUR"
+}, {
+    "symbol": "RUNE_USDT"
+}, {
+    "symbol": "LTC_TUSD"
+}, {
+    "symbol": "LINK_EUR"
+}, {
+    "symbol": "BTC_RUB"
+}, {
+    "symbol": "RPL_BTC"
+}, {
+    "symbol": "COMP_BTC"
+}, {
+    "symbol": "RARE_USDT"
+}, {
+    "symbol": "UNFI_USDT"
+}, {
+    "symbol": "XVS_USDT"
+}, {
+    "symbol": "NEAR_USDT"
+}, {
+    "symbol": "BSW_BNB"
+}, {
+    "symbol": "GMT_EUR"
+}, {
+    "symbol": "APE_EUR"
+}, {
+    "symbol": "MULTI_USDT"
+}, {
+    "symbol": "NEO_BNB"
+}, {
+    "symbol": "ANKR_USDC"
+}, {
+    "symbol": "DIA_BNB"
+}, {
+    "symbol": "RVN_USDT"
+}, {
+    "symbol": "AAVE_BNB"
+}, {
+    "symbol": "OOKI_BNB"
+}, {
+    "symbol": "PHB_USDC"
+}, {
+    "symbol": "IMX_USDT"
+}, {
+    "symbol": "LINK_NGN"
+}, {
+    "symbol": "FLM_USDT"
+}, {
+    "symbol": "XRP_RUB"
+}, {
+    "symbol": "BNB_NGN"
+}, {
+    "symbol": "GALA_BNB"
+}, {
+    "symbol": "ZEC_USDT"
+}, {
+    "symbol": "MBOX_TRY"
+}, {
+    "symbol": "BAND_BTC"
+}, {
+    "symbol": "MDX_BNB"
+}, {
+    "symbol": "BTG_BTC"
+}, {
+    "symbol": "SHIB_RUB"
+}, {
+    "symbol": "HARD_USDT"
+}, {
+    "symbol": "SYS_USDT"
+}, {
+    "symbol": "QNT_BTC"
+}, {
+    "symbol": "MDT_BNB"
+}, {
+    "symbol": "KEY_USDT"
+}, {
+    "symbol": "NEAR_EUR"
+}, {
+    "symbol": "FTM_BRL"
+}, {
+    "symbol": "BTS_BTC"
+}, {
+    "symbol": "KLAY_USDT"
+}, {
+    "symbol": "DOT_EUR"
+}, {
+    "symbol": "LUNA_ETH"
+}, {
+    "symbol": "AION_ETH"
+}, {
+    "symbol": "OGN_BNB"
+}, {
+    "symbol": "BAND_USDT"
+}, {
+    "symbol": "VIB_ETH"
+}, {
+    "symbol": "SRM_BNB"
+}, {
+    "symbol": "WNXM_BNB"
+}, {
+    "symbol": "STRAX_USDT"
+}, {
+    "symbol": "NEAR_ETH"
+}, {
+    "symbol": "KEEP_BTC"
+}, {
+    "symbol": "AXS_BTC"
+}, {
+    "symbol": "APE_USDT"
+}, {
+    "symbol": "BOT_BTC"
+}, {
+    "symbol": "KSM_AUD"
+}, {
+    "symbol": "UMA_USDT"
+}, {
+    "symbol": "SLP_ETH"
+}, {
+    "symbol": "STRAT_BTC"
+}, {
+    "symbol": "PAX_ETH"
+}, {
+    "symbol": "INJ_USDT"
+}, {
+    "symbol": "GALA_BTC"
+}, {
+    "symbol": "LRC_USDT"
+}, {
+    "symbol": "DUSK_USDT"
+}, {
+    "symbol": "VTHO_USDT"
+}, {
+    "symbol": "INJ_TRY"
+}, {
+    "symbol": "YGG_USDT"
+}, {
+    "symbol": "RLC_ETH"
+}, {
+    "symbol": "ENJ_BNB"
+}, {
+    "symbol": "POLYX_USDT"
+}, {
+    "symbol": "LEND_ETH"
+}, {
+    "symbol": "CAKE_BRL"
+}, {
+    "symbol": "XRP_ETH"
+}, {
+    "symbol": "ALPHA_BTC"
+}, {
+    "symbol": "LIT_USDT"
+}, {
+    "symbol": "DOT_AUD"
+}, {
+    "symbol": "CVP_USDT"
+}, {
+    "symbol": "APT_USDT"
+}, {
+    "symbol": "UNI_ETH"
+}, {
+    "symbol": "PLA_BNB"
+}, {
+    "symbol": "CTXC_BNB"
+}, {
+    "symbol": "APE_BTC"
+}, {
+    "symbol": "REEF_BIDR"
+}, {
+    "symbol": "VTHO_BNB"
+}, {
+    "symbol": "APE_BNB"
+}, {
+    "symbol": "BNB_UST"
+}, {
+    "symbol": "ORN_BTC"
+}, {
+    "symbol": "IOTA_BNB"
+}, {
+    "symbol": "COMP_USDT"
+}, {
+    "symbol": "RAY_USDT"
+}, {
+    "symbol": "DENT_BTC"
+}, {
+    "symbol": "BTC_UAH"
+}, {
+    "symbol": "ETC_PAX"
+}, {
+    "symbol": "RUNE_AUD"
+}, {
+    "symbol": "FLOW_BTC"
+}, {
+    "symbol": "FOR_USDT"
+}, {
+    "symbol": "FIS_TRY"
+}, {
+    "symbol": "QNT_USDT"
+}, {
+    "symbol": "DAR_BNB"
+}, {
+    "symbol": "BLZ_BNB"
+}, {
+    "symbol": "KEY_ETH"
+}, {
+    "symbol": "EOS_TRY"
+}, {
+    "symbol": "BTTC_USDT"
+}, {
+    "symbol": "YFI_BTC"
+}, {
+    "symbol": "BCHABC_PAX"
+}, {
+    "symbol": "XVG_USDT"
+}, {
+    "symbol": "STRAX_BTC"
+}, {
+    "symbol": "ARK_BTC"
+}, {
+    "symbol": "WING_BNB"
+}, {
+    "symbol": "ONT_USDC"
+}, {
+    "symbol": "SCRT_BTC"
+}, {
+    "symbol": "TROY_BNB"
+}, {
+    "symbol": "XRP_BKRW"
+}, {
+    "symbol": "MIR_BTC"
+}, {
+    "symbol": "XTZ_ETH"
+}, {
+    "symbol": "DAR_ETH"
+}, {
+    "symbol": "PEOPLE_USDT"
+}, {
+    "symbol": "OP_EUR"
+}, {
+    "symbol": "EGLD_USDT"
+}, {
+    "symbol": "XRP_BTC"
+}, {
+    "symbol": "PHA_BTC"
+}, {
+    "symbol": "CAKE_AUD"
+}, {
+    "symbol": "DYDX_BNB"
+}, {
+    "symbol": "GNO_BTC"
+}, {
+    "symbol": "QUICK_BNB"
+}, {
+    "symbol": "GLMR_BTC"
+}, {
+    "symbol": "STMX_USDT"
+}, {
+    "symbol": "HIGH_BNB"
+}, {
+    "symbol": "IOTA_ETH"
+}, {
+    "symbol": "BADGER_USDT"
+}, {
+    "symbol": "BTT_TUSD"
+}, {
+    "symbol": "NEO_USDC"
+}, {
+    "symbol": "DAI_USDT"
+}, {
+    "symbol": "ACM_BTC"
+}, {
+    "symbol": "NU_BNB"
+}, {
+    "symbol": "CRV_BNB"
+}, {
+    "symbol": "HOOK_BNB"
+}, {
+    "symbol": "KNC_BTC"
+}, {
+    "symbol": "AR_BTC"
+}, {
+    "symbol": "OP_BNB"
+}, {
+    "symbol": "NEBL_BTC"
+}, {
+    "symbol": "AMP_BNB"
+}, {
+    "symbol": "HIGH_USDT"
+}, {
+    "symbol": "ALGO_TUSD"
+}, {
+    "symbol": "BCH_EUR"
+}, {
+    "symbol": "GTO_TUSD"
+}, {
+    "symbol": "TRB_BTC"
+}, {
+    "symbol": "BTC_USDT"
+}, {
+    "symbol": "TRB_BNB"
+}, {
+    "symbol": "GTC_BNB"
+}, {
+    "symbol": "DOT_USDT"
+}, {
+    "symbol": "DENT_TRY"
+}, {
+    "symbol": "VITE_BTC"
+}, {
+    "symbol": "SAND_BNB"
+}, {
+    "symbol": "ASTR_ETH"
+}, {
+    "symbol": "CVX_BTC"
+}, {
+    "symbol": "LOKA_USDT"
+}, {
+    "symbol": "IDEX_BNB"
+}, {
+    "symbol": "REI_USDT"
+}, {
+    "symbol": "SC_USDT"
+}, {
+    "symbol": "BAR_BTC"
+}, {
+    "symbol": "BETA_BTC"
+}, {
+    "symbol": "PYR_BTC"
+}, {
+    "symbol": "ETHBEAR_USDT"
+}, {
+    "symbol": "ORN_USDT"
+}, {
+    "symbol": "SNX_USDT"
+}, {
+    "symbol": "ZEC_ETH"
+}, {
+    "symbol": "BNB_GBP"
+}, {
+    "symbol": "MLN_BNB"
+}, {
+    "symbol": "DOGE_BTC"
+}, {
+    "symbol": "LIT_ETH"
+}, {
+    "symbol": "ROSE_ETH"
+}, {
+    "symbol": "ENS_BTC"
+}, {
+    "symbol": "LINA_BTC"
+}, {
+    "symbol": "DAR_EUR"
+}, {
+    "symbol": "SANTOS_TRY"
+}, {
+    "symbol": "LPT_BTC"
+}, {
+    "symbol": "FET_TRY"
+}, {
+    "symbol": "TRX_ETH"
+}, {
+    "symbol": "KMD_USDT"
+}, {
+    "symbol": "COTI_BNB"
+}, {
+    "symbol": "STMX_BTC"
+}, {
+    "symbol": "SXP_BIDR"
+}, {
+    "symbol": "REI_BNB"
+}, {
+    "symbol": "BTT_TRY"
+}, {
+    "symbol": "DOT_BIDR"
+}, {
+    "symbol": "REEF_TRY"
+}, {
+    "symbol": "TRIBE_USDT"
+}, {
+    "symbol": "MKR_BTC"
+}, {
+    "symbol": "AUD_USDC"
+}, {
+    "symbol": "BEL_TRY"
+}, {
+    "symbol": "ETH_USDT"
+}, {
+    "symbol": "FIS_BTC"
+}, {
+    "symbol": "EOS_PAX"
+}, {
+    "symbol": "DASH_BTC"
+}, {
+    "symbol": "NU_RUB"
+}, {
+    "symbol": "SHIB_USDT"
+}, {
+    "symbol": "PLA_USDT"
+}, {
+    "symbol": "EPX_USDT"
+}, {
+    "symbol": "ETH_BRL"
+}, {
+    "symbol": "MBL_USDT"
+}, {
+    "symbol": "USDT_BIDR"
+}, {
+    "symbol": "ADA_PAX"
+}, {
+    "symbol": "GHST_ETH"
+}, {
+    "symbol": "HIVE_USDT"
+}, {
+    "symbol": "DODO_USDT"
+}, {
+    "symbol": "AVAX_EUR"
+}, {
+    "symbol": "USDT_BRL"
+}, {
+    "symbol": "APT_TRY"
+}, {
+    "symbol": "AXS_BNB"
+}, {
+    "symbol": "WIN_USDT"
+}, {
+    "symbol": "ONE_ETH"
+}, {
+    "symbol": "ALPINE_BTC"
+}, {
+    "symbol": "DYDX_USDT"
+}, {
+    "symbol": "DOCK_ETH"
+}, {
+    "symbol": "GTO_USDC"
+}, {
+    "symbol": "POLS_USDT"
+}, {
+    "symbol": "TRX_NGN"
+}, {
+    "symbol": "ZIL_ETH"
+}, {
+    "symbol": "BZRX_BNB"
+}, {
+    "symbol": "YGG_BNB"
+}, {
+    "symbol": "BTC_BRL"
+}, {
+    "symbol": "BCH_TUSD"
+}, {
+    "symbol": "UTK_BTC"
+}, {
+    "symbol": "SOL_USDC"
+}, {
+    "symbol": "FIO_USDT"
+}, {
+    "symbol": "ANKR_TRY"
+}, {
+    "symbol": "BIFI_USDT"
+}, {
+    "symbol": "STEEM_BNB"
+}, {
+    "symbol": "TRX_EUR"
+}, {
+    "symbol": "NEO_BTC"
+}, {
+    "symbol": "TRX_USDT"
+}, {
+    "symbol": "EGLD_BNB"
+}, {
+    "symbol": "OM_USDT"
+}, {
+    "symbol": "XNO_BTC"
+}, {
+    "symbol": "EGLD_ETH"
+}, {
+    "symbol": "DATA_ETH"
+}, {
+    "symbol": "RUNE_ETH"
+}, {
+    "symbol": "WAVES_TUSD"
+}, {
+    "symbol": "ICP_EUR"
+}, {
+    "symbol": "MOVR_BNB"
+}, {
+    "symbol": "STRAT_USDT"
+}, {
+    "symbol": "SNT_BTC"
+}, {
+    "symbol": "ALPACA_USDT"
+}, {
+    "symbol": "BOND_BTC"
+}, {
+    "symbol": "ETH_TRY"
+}, {
+    "symbol": "DGB_USDT"
+}, {
+    "symbol": "ILV_USDT"
+}, {
+    "symbol": "PAXG_USDT"
+}, {
+    "symbol": "USDC_TUSD"
+}, {
+    "symbol": "ADA_BTC"
+}, {
+    "symbol": "LAZIO_BTC"
+}, {
+    "symbol": "CKB_BTC"
+}, {
+    "symbol": "BTT_EUR"
+}, {
+    "symbol": "XLM_TRY"
+}, {
+    "symbol": "FIS_BRL"
+}, {
+    "symbol": "BTCST_USDT"
+}, {
+    "symbol": "TRX_BNB"
+}, {
+    "symbol": "DOGE_EUR"
+}, {
+    "symbol": "FIL_ETH"
+}, {
+    "symbol": "ADA_USDT"
+}, {
+    "symbol": "TUSD_ETH"
+}, {
+    "symbol": "BSW_TRY"
+}, {
+    "symbol": "KAVA_BNB"
+}, {
+    "symbol": "C98_USDT"
+}, {
+    "symbol": "CHR_BTC"
+}, {
+    "symbol": "HBAR_USDT"
+}, {
+    "symbol": "LTC_GBP"
+}, {
+    "symbol": "OMG_USDT"
+}, {
+    "symbol": "ASTR_BTC"
+}, {
+    "symbol": "ERD_PAX"
+}, {
+    "symbol": "CAKE_BTC"
+}, {
+    "symbol": "VET_ETH"
+}, {
+    "symbol": "BNB_PAX"
+}, {
+    "symbol": "SLP_BIDR"
+}, {
+    "symbol": "STRAT_BNB"
+}, {
+    "symbol": "PERP_USDT"
+}, {
+    "symbol": "REN_BTC"
+}, {
+    "symbol": "GTO_BNB"
+}, {
+    "symbol": "CLV_USDT"
+}, {
+    "symbol": "ANKR_BTC"
+}, {
+    "symbol": "BSW_USDT"
+}, {
+    "symbol": "SUN_USDT"
+}, {
+    "symbol": "STG_BTC"
+}, {
+    "symbol": "WOO_BTC"
+}, {
+    "symbol": "ICP_ETH"
+}, {
+    "symbol": "WIN_BNB"
+}, {
+    "symbol": "FTM_EUR"
+}, {
+    "symbol": "TWT_TRY"
+}, {
+    "symbol": "TRIBE_BTC"
+}, {
+    "symbol": "SPELL_BTC"
+}, {
+    "symbol": "DUSK_BNB"
+}, {
+    "symbol": "USDT_NGN"
+}, {
+    "symbol": "APE_GBP"
+}, {
+    "symbol": "AXS_USDT"
+}, {
+    "symbol": "RAMP_USDT"
+}, {
+    "symbol": "ZEC_TUSD"
+}, {
+    "symbol": "1INCH_USDT"
+}, {
+    "symbol": "DREP_BNB"
+}, {
+    "symbol": "WOO_BNB"
+}, {
+    "symbol": "RARE_BNB"
+}, {
+    "symbol": "DATA_USDT"
+}, {
+    "symbol": "SNM_BTC"
+}, {
+    "symbol": "KMD_BTC"
+}, {
+    "symbol": "FTM_TRY"
+}, {
+    "symbol": "MATIC_BNB"
+}, {
+    "symbol": "BTC_TUSD"
+}, {
+    "symbol": "RSR_USDT"
+}, {
+    "symbol": "MBL_BTC"
+}, {
+    "symbol": "WAVES_BNB"
+}, {
+    "symbol": "ARPA_ETH"
+}, {
+    "symbol": "DNT_ETH"
+}]

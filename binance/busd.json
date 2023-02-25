@@ -1,0 +1,2088 @@
+[{
+    "symbol": "BNBUSDT",
+    "bidPrice": "327.80000000",
+    "bidQty": "238.78500000",
+    "askPrice": "327.90000000",
+    "askQty": "73.51700000"
+}, {
+    "symbol": "BNBBUSD",
+    "bidPrice": "327.90000000",
+    "bidQty": "23.19200000",
+    "askPrice": "328.00000000",
+    "askQty": "248.98200000"
+}, {
+    "symbol": "BTCBUSD",
+    "bidPrice": "22919.56000000",
+    "bidQty": "0.11942000",
+    "askPrice": "22920.45000000",
+    "askQty": "0.01219000"
+}, {
+    "symbol": "BUSDUSDT",
+    "bidPrice": "0.99990000",
+    "bidQty": "65475304.00000000",
+    "askPrice": "1.00000000",
+    "askQty": "33216711.00000000"
+}, {
+    "symbol": "XRPBUSD",
+    "bidPrice": "0.39560000",
+    "bidQty": "88852.00000000",
+    "askPrice": "0.39570000",
+    "askQty": "18353.00000000"
+}, {
+    "symbol": "ETHBUSD",
+    "bidPrice": "1634.95000000",
+    "bidQty": "47.84880000",
+    "askPrice": "1634.96000000",
+    "askQty": "0.27970000"
+},{
+    "symbol": "LTCBUSD",
+    "bidPrice": "99.11000000",
+    "bidQty": "20.69100000",
+    "askPrice": "99.12000000",
+    "askQty": "5.32000000"
+}, {
+    "symbol": "LINKBUSD",
+    "bidPrice": "6.94700000",
+    "bidQty": "107.30000000",
+    "askPrice": "6.94800000",
+    "askQty": "135.62000000"
+}, {
+    "symbol": "ETCBUSD",
+    "bidPrice": "22.43000000",
+    "bidQty": "449.47000000",
+    "askPrice": "22.45000000",
+    "askQty": "728.91000000"
+}, {
+    "symbol": "BUSDNGN",
+    "bidPrice": "460.49000000",
+    "bidQty": "354.77000000",
+    "askPrice": "476.85000000",
+    "askQty": "66.28000000"
+}, {
+    "symbol": "TRXBUSD",
+    "bidPrice": "0.06425000",
+    "bidQty": "60760.60000000",
+    "askPrice": "0.06426000",
+    "askQty": "30377.30000000"
+}, {
+    "symbol": "EOSBUSD",
+    "bidPrice": "1.07100000",
+    "bidQty": "7171.70000000",
+    "askPrice": "1.07200000",
+    "askQty": "59.80000000"
+}, {
+    "symbol": "XLMBUSD",
+    "bidPrice": "0.08950000",
+    "bidQty": "47076.00000000",
+    "askPrice": "0.08960000",
+    "askQty": "27450.00000000"
+}, {
+    "symbol": "ADABUSD",
+    "bidPrice": "0.38590000",
+    "bidQty": "24270.80000000",
+    "askPrice": "0.38600000",
+    "askQty": "5209.70000000"
+}, {
+    "symbol": "BCHBUSD",
+    "bidPrice": "132.80000000",
+    "bidQty": "34.97600000",
+    "askPrice": "132.90000000",
+    "askQty": "22.56600000"
+}, {
+    "symbol": "BUSDRUB",
+    "bidPrice": "71.59000000",
+    "bidQty": "2203.00000000",
+    "askPrice": "71.63000000",
+    "askQty": "304.00000000"
+}, {
+    "symbol": "QTUMBUSD",
+    "bidPrice": "2.83300000",
+    "bidQty": "86.20000000",
+    "askPrice": "2.83700000",
+    "askQty": "199.90000000"
+}, {
+    "symbol": "VETBUSD",
+    "bidPrice": "0.02399000",
+    "bidQty": "101762.60000000",
+    "askPrice": "0.02401000",
+    "askQty": "33588.00000000"
+}, {
+    "symbol": "BUSDTRY",
+    "bidPrice": "19.20000000",
+    "bidQty": "473630.00000000",
+    "askPrice": "19.21000000",
+    "askQty": "639335.00000000"
+}, {
+    "symbol": "EURBUSD",
+    "bidPrice": "1.07360000",
+    "bidQty": "21852.90000000",
+    "askPrice": "1.07370000",
+    "askQty": "25154.80000000"
+}, {
+    "symbol": "ICXBUSD",
+    "bidPrice": "0.22770000",
+    "bidQty": "439.10000000",
+    "askPrice": "0.22780000",
+    "askQty": "4200.00000000"
+
+}, {
+    "symbol": "BNTBUSD",
+    "bidPrice": "0.46200000",
+    "bidQty": "432.90000000",
+    "askPrice": "0.46300000",
+    "askQty": "1084.50000000"
+}, {
+    "symbol": "ATOMBUSD",
+    "bidPrice": "14.36200000",
+    "bidQty": "45.47000000",
+    "askPrice": "14.36500000",
+    "askQty": "46.02000000"
+}, {
+    "symbol": "DASHBUSD",
+    "bidPrice": "63.60000000",
+    "bidQty": "2.28200000",
+    "askPrice": "63.66000000",
+    "askQty": "32.03300000"
+}, {
+    "symbol": "NEOBUSD",
+    "bidPrice": "8.82000000",
+    "bidQty": "15.77000000",
+    "askPrice": "8.83000000",
+    "askQty": "197.21000000"
+}, {
+    "symbol": "WAVESBUSD",
+    "bidPrice": "2.73700000",
+    "bidQty": "1131.22000000",
+    "askPrice": "2.73900000",
+    "askQty": "1656.58000000"
+}, {
+    "symbol": "XTZBUSD",
+    "bidPrice": "1.15300000",
+    "bidQty": "486.10000000",
+    "askPrice": "1.15400000",
+    "askQty": "669.40000000"
+}, {
+    "symbol": "BATBUSD",
+    "bidPrice": "0.27770000",
+    "bidQty": "2915.00000000",
+    "askPrice": "0.27820000",
+    "askQty": "400.00000000"
+}, {
+    "symbol": "ENJBUSD",
+    "bidPrice": "0.46080000",
+    "bidQty": "302.30000000",
+    "askPrice": "0.46110000",
+    "askQty": "433.70000000"
+ 
+}, {
+    "symbol": "ONTBUSD",
+    "bidPrice": "0.23090000",
+    "bidQty": "3078.00000000",
+    "askPrice": "0.23120000",
+    "askQty": "1398.00000000"
+}, {
+    "symbol": "RVNBUSD",
+    "bidPrice": "0.03096000",
+    "bidQty": "104527.00000000",
+    "askPrice": "0.03100000",
+    "askQty": "150091.70000000"
+},  {
+    "symbol": "ALGOBUSD",
+    "bidPrice": "0.25810000",
+    "bidQty": "1616.00000000",
+    "askPrice": "0.25820000",
+    "askQty": "11285.00000000"
+},
+{
+    "symbol": "TOMOBUSD",
+    "bidPrice": "0.44170000",
+    "bidQty": "213.10000000",
+    "askPrice": "0.44210000",
+    "askQty": "450.60000000"
+}, {
+    "symbol": "XMRBUSD",
+    "bidPrice": "166.70000000",
+    "bidQty": "1.90700000",
+    "askPrice": "166.80000000",
+    "askQty": "0.23400000"
+}, {
+    "symbol": "ZECBUSD",
+    "bidPrice": "43.90000000",
+    "bidQty": "259.57700000",
+    "askPrice": "44.00000000",
+    "askQty": "34.21500000"
+},{
+    "symbol": "BUSDZAR",
+    "bidPrice": "17.81000000",
+    "bidQty": "824.00000000",
+    "askPrice": "17.83000000",
+    "askQty": "2725.00000000"
+}, {
+    "symbol": "DATABUSD",
+    "bidPrice": "0.04455000",
+    "bidQty": "12761.20000000",
+    "askPrice": "0.04463000",
+    "askQty": "213.60000000"
+}, {
+    "symbol": "SOLBUSD",
+    "bidPrice": "23.10000000",
+    "bidQty": "2604.42000000",
+    "askPrice": "23.11000000",
+    "askQty": "2413.39000000"
+}, {
+    "symbol": "BUSDIDRT",
+    "bidPrice": "0.00",
+    "bidQty": "0.00000000",
+    "askPrice": "0.00",
+    "askQty": "0.00000000"
+}, {
+    "symbol": "CTSIBUSD",
+    "bidPrice": "0.16360000",
+    "bidQty": "4318.00000000",
+    "askPrice": "0.16380000",
+    "askQty": "4397.00000000"
+
+}, {
+    "symbol": "HBARBUSD",
+    "bidPrice": "0.06860000",
+    "bidQty": "183734.00000000",
+    "askPrice": "0.06880000",
+    "askQty": "329480.00000000"
+}, {
+    "symbol": "MATICBUSD",
+    "bidPrice": "1.22420000",
+    "bidQty": "3420.00000000",
+    "askPrice": "1.22430000",
+    "askQty": "9.80000000"
+}, {
+    "symbol": "WRXBUSD",
+    "bidPrice": "0.18690000",
+    "bidQty": "535.00000000",
+    "askPrice": "0.18700000",
+    "askQty": "3037.90000000"
+}, {
+    "symbol": "ZILBUSD",
+    "bidPrice": "0.02926000",
+    "bidQty": "18689.60000000",
+    "askPrice": "0.02928000",
+    "askQty": "11000.00000000"
+}, {
+    "symbol": "KNCBUSD",
+    "bidPrice": "0.88600000",
+    "bidQty": "332.80000000",
+    "askPrice": "0.88700000",
+    "askQty": "2546.80000000"
+},
+ {
+    "symbol": "LRCBUSD",
+    "bidPrice": "0.36920000",
+    "bidQty": "2910.00000000",
+    "askPrice": "0.36950000",
+    "askQty": "4340.00000000"
+}, {
+    "symbol": "IQBUSD",
+    "bidPrice": "0.00638000",
+    "bidQty": "1335194.00000000",
+    "askPrice": "0.00639000",
+    "askQty": "30736.00000000"
+}, {
+    "symbol": "GBPBUSD",
+    "bidPrice": "1.20400000",
+    "bidQty": "66273.90000000",
+    "askPrice": "1.20500000",
+    "askQty": "83044.40000000"
+}, {
+    "symbol": "DGBBUSD",
+    "bidPrice": "0.01061000",
+    "bidQty": "1557.80000000",
+    "askPrice": "0.01062000",
+    "askQty": "9620.30000000"
+}, {
+    "symbol": "COMPBUSD",
+    "bidPrice": "53.74000000",
+    "bidQty": "11.22800000",
+    "askPrice": "53.81000000",
+    "askQty": "1.69300000"
+}, {
+    "symbol": "BUSDBIDR",
+    "bidPrice": "15132.00",
+    "bidQty": "2395.00000000",
+    "askPrice": "15136.00",
+    "askQty": "109.90000000"
+}, 
+ {
+    "symbol": "SXPBUSD",
+    "bidPrice": "0.30790000",
+    "bidQty": "1119.40000000",
+    "askPrice": "0.30820000",
+    "askQty": "1119.60000000"
+}, {
+    "symbol": "SNXBUSD",
+    "bidPrice": "2.86100000",
+    "bidQty": "466.70000000",
+    "askPrice": "2.86400000",
+    "askQty": "442.60000000"
+}, 
+{
+    "symbol": "DGBUSDT",
+    "bidPrice": "0.01061000",
+    "bidQty": "29493.70000000",
+    "askPrice": "0.01062000",
+    "askQty": "85175.40000000"
+}, {
+    "symbol": "STORJBUSD",
+    "bidPrice": "0.42160000",
+    "bidQty": "49.00000000",
+    "askPrice": "0.42220000",
+    "askQty": "1220.00000000"
+}, 
+{
+    "symbol": "MKRBUSD",
+    "bidPrice": "707.00000000",
+    "bidQty": "0.90360000",
+    "askPrice": "708.00000000",
+    "askQty": "0.15000000"
+},
+{
+    "symbol": "RUNEBUSD",
+    "bidPrice": "1.78600000",
+    "bidQty": "964.30000000",
+    "askPrice": "1.78700000",
+    "askQty": "4955.90000000"
+}, {
+    "symbol": "MANABUSD",
+    "bidPrice": "0.72000000",
+    "bidQty": "896.00000000",
+    "askPrice": "0.72010000",
+    "askQty": "50.00000000"
+}, {
+    "symbol": "DOGEBUSD",
+    "bidPrice": "0.09084000",
+    "bidQty": "39023.00000000",
+    "askPrice": "0.09085000",
+    "askQty": "36981.00000000"
+}, 
+{
+    "symbol": "ZRXBUSD",
+    "bidPrice": "0.24670000",
+    "bidQty": "1715.00000000",
+    "askPrice": "0.24690000",
+    "askQty": "1485.00000000"
+}, {
+    "symbol": "AUDBUSD",
+    "bidPrice": "0.69350000",
+    "bidQty": "32089.00000000",
+    "askPrice": "0.69380000",
+    "askQty": "5134.00000000"
+}, {
+    "symbol": "FIOBUSD",
+    "bidPrice": "0.03940000",
+    "bidQty": "3889.00000000",
+    "askPrice": "0.03960000",
+    "askQty": "15684.00000000"
+}, {
+    "symbol": "AVABUSD",
+    "bidPrice": "0.71100000",
+    "bidQty": "331.90000000",
+    "askPrice": "0.71200000",
+    "askQty": "612.70000000"
+}, 
+ {
+    "symbol": "IOTABUSD",
+    "bidPrice": "0.23950000",
+    "bidQty": "495.00000000",
+    "askPrice": "0.23980000",
+    "askQty": "440.00000000"
+}, {
+    "symbol": "BALBUSD",
+    "bidPrice": "6.89700000",
+    "bidQty": "82.41000000",
+    "askPrice": "6.90500000",
+    "askQty": "60.72000000"
+}, {
+    "symbol": "YFIBUSD",
+    "bidPrice": "7608.00000000",
+    "bidQty": "0.15548000",
+    "askPrice": "7617.00000000",
+    "askQty": "0.00388000"
+}, {
+    "symbol": "BLZBUSD",
+    "bidPrice": "0.09030000",
+    "bidQty": "65404.00000000",
+    "askPrice": "0.09050000",
+    "askQty": "12259.00000000"
+},
+{
+    "symbol": "BUSDDAI",
+    "bidPrice": "0.99990000",
+    "bidQty": "917507.20000000",
+    "askPrice": "1.00000000",
+    "askQty": "17248.30000000"
+}, {
+    "symbol": "JSTBUSD",
+    "bidPrice": "0.03178000",
+    "bidQty": "13250.30000000",
+    "askPrice": "0.03181000",
+    "askQty": "740.50000000"
+}, {
+    "symbol": "SRMBUSD",
+    "bidPrice": "0.36509000",
+    "bidQty": "152.80000000",
+    "askPrice": "0.36543000",
+    "askQty": "422.50000000"
+}, {
+    "symbol": "ANTBUSD",
+    "bidPrice": "2.87700000",
+    "bidQty": "162.00000000",
+    "askPrice": "2.88100000",
+    "askQty": "227.00000000"
+}, {
+    "symbol": "CRVBUSD",
+    "bidPrice": "1.06100000",
+    "bidQty": "1858.60000000",
+    "askPrice": "1.06200000",
+    "askQty": "665.10000000"
+}, {
+    "symbol": "SANDBUSD",
+    "bidPrice": "0.71410000",
+    "bidQty": "832.00000000",
+    "askPrice": "0.71420000",
+    "askQty": "350.00000000"
+}, {
+    "symbol": "OCEANBUSD",
+    "bidPrice": "0.50720000",
+    "bidQty": "890.00000000",
+    "askPrice": "0.50780000",
+    "askQty": "498.00000000"
+}, {
+    "symbol": "NMRBUSD",
+    "bidPrice": "24.80000000",
+    "bidQty": "1.00000000",
+    "askPrice": "24.85000000",
+    "askQty": "23.47000000"
+}, {
+    "symbol": "DOTBUSD",
+    "bidPrice": "6.61100000",
+    "bidQty": "223.31000000",
+    "askPrice": "6.61300000",
+    "askQty": "243.55000000"
+}, {
+    "symbol": "LUNABUSD",
+    "bidPrice": "2.08210000",
+    "bidQty": "23.35000000",
+    "askPrice": "2.08390000",
+    "askQty": "89.68000000"
+}, {
+    "symbol": "IDEXBUSD",
+    "bidPrice": "0.05649000",
+    "bidQty": "517.90000000",
+    "askPrice": "0.05657000",
+    "askQty": "768.70000000"
+}, {
+    "symbol": "RSRBUSD",
+    "bidPrice": "0.00419100",
+    "bidQty": "43207.90000000",
+    "askPrice": "0.00419300",
+    "askQty": "60001.20000000"
+}, {
+    "symbol": "PAXGBUSD",
+    "bidPrice": "1870.00000000",
+    "bidQty": "3.15590000",
+    "askPrice": "1871.00000000",
+    "askQty": "1.67310000"
+}, 
+ {
+    "symbol": "TRBBUSD",
+    "bidPrice": "18.56000000",
+    "bidQty": "98.75000000",
+    "askPrice": "18.59000000",
+    "askQty": "76.21000000"
+}, {
+    "symbol": "TRBUSDT",
+    "bidPrice": "18.56000000",
+    "bidQty": "123.38000000",
+    "askPrice": "18.57000000",
+    "askQty": "2.99000000"
+}, 
+{
+    "symbol": "SUSHIBUSD",
+    "bidPrice": "1.46600000",
+    "bidQty": "306.90000000",
+    "askPrice": "1.46700000",
+    "askQty": "1028.50000000"
+}, 
+{
+    "symbol": "KSMBUSD",
+    "bidPrice": "35.34000000",
+    "bidQty": "25.98600000",
+    "askPrice": "35.39000000",
+    "askQty": "4.00000000"
+}, {
+    "symbol": "EGLDBUSD",
+    "bidPrice": "45.12000000",
+    "bidQty": "10.19000000",
+    "askPrice": "45.14000000",
+    "askQty": "0.27000000"
+}, {
+    "symbol": "DIABUSD",
+    "bidPrice": "0.41300000",
+    "bidQty": "9295.90000000",
+    "askPrice": "0.41500000",
+    "askQty": "18615.20000000"
+}, {
+    "symbol": "BELBUSD",
+    "bidPrice": "0.62000000",
+    "bidQty": "1554.80000000",
+    "askPrice": "0.62100000",
+    "askQty": "3096.30000000"
+}, 
+{
+    "symbol": "WINGBUSD",
+    "bidPrice": "7.75000000",
+    "bidQty": "49.48000000",
+    "askPrice": "7.77000000",
+    "askQty": "53.27000000"
+}, {
+    "symbol": "CREAMBUSD",
+    "bidPrice": "12.86000000",
+    "bidQty": "184.35600000",
+    "askPrice": "12.87000000",
+    "askQty": "40.76900000"
+}, {
+    "symbol": "UNIBUSD",
+    "bidPrice": "6.76600000",
+    "bidQty": "24.46000000",
+    "askPrice": "6.76900000",
+    "askQty": "198.00000000"
+}, {
+    "symbol": "AVAXBUSD",
+    "bidPrice": "20.06000000",
+    "bidQty": "1126.38000000",
+    "askPrice": "20.07000000",
+    "askQty": "506.94000000"
+},
+ {
+    "symbol": "CAKEBUSD",
+    "bidPrice": "4.49200000",
+    "bidQty": "474.71000000",
+    "askPrice": "4.49400000",
+    "askQty": "211.35000000"
+}, {
+    "symbol": "XVSBUSD",
+    "bidPrice": "5.81000000",
+    "bidQty": "11.54000000",
+    "askPrice": "5.83000000",
+    "askQty": "0.88000000"
+}, {
+    "symbol": "ALPHABUSD",
+    "bidPrice": "0.13300000",
+    "bidQty": "1982.00000000",
+    "askPrice": "0.13320000",
+    "askQty": "3084.00000000"
+}, {
+    "symbol": "VIDTBUSD",
+    "bidPrice": "0.05685000",
+    "bidQty": "252.00000000",
+    "askPrice": "0.05688000",
+    "askQty": "185.00000000"
+}, {
+    "symbol": "AAVEBUSD",
+    "bidPrice": "86.60000000",
+    "bidQty": "2.81500000",
+    "askPrice": "86.70000000",
+    "askQty": "126.39500000"
+}, {
+    "symbol": "NEARBUSD",
+    "bidPrice": "2.33300000",
+    "bidQty": "258.70000000",
+    "askPrice": "2.33400000",
+    "askQty": "639.50000000"
+}, {
+    "symbol": "FILBUSD",
+    "bidPrice": "5.23700000",
+    "bidQty": "1039.18000000",
+    "askPrice": "5.23800000",
+    "askQty": "54.28000000"
+}, {
+    "symbol": "INJBUSD",
+    "bidPrice": "3.61600000",
+    "bidQty": "60.70000000",
+    "askPrice": "3.61800000",
+    "askQty": "8.80000000"
+}, {
+    "symbol": "AERGOBUSD",
+    "bidPrice": "0.14460000",
+    "bidQty": "693.00000000",
+    "askPrice": "0.14480000",
+    "askQty": "1305.00000000"
+}, {
+    "symbol": "ONEBUSD",
+    "bidPrice": "0.02559000",
+    "bidQty": "40573.80000000",
+    "askPrice": "0.02562000",
+    "askQty": "21866.40000000"
+}, {
+    "symbol": "AUDIOBUSD",
+    "bidPrice": "0.30120000",
+    "bidQty": "238.80000000",
+    "askPrice": "0.30140000",
+    "askQty": "396.60000000"
+}, {
+    "symbol": "CTKBUSD",
+    "bidPrice": "0.83800000",
+    "bidQty": "715.90000000",
+    "askPrice": "0.84000000",
+    "askQty": "1134.90000000"
+},
+{
+    "symbol": "KP3RBUSD",
+    "bidPrice": "83.07000000",
+    "bidQty": "0.22000000",
+    "askPrice": "83.19000000",
+    "askQty": "0.58000000"
+}, {
+    "symbol": "AXSBUSD",
+    "bidPrice": "10.85000000",
+    "bidQty": "731.43000000",
+    "askPrice": "10.86000000",
+    "askQty": "74.52000000"
+}, {
+    "symbol": "HARDBUSD",
+    "bidPrice": "0.20120000",
+    "bidQty": "355.00000000",
+    "askPrice": "0.20160000",
+    "askQty": "431.00000000"
+},
+{
+    "symbol": "CVPBUSD",
+    "bidPrice": "0.45460000",
+    "bidQty": "127.80000000",
+    "askPrice": "0.45490000",
+    "askQty": "494.00000000"
+}, {
+    "symbol": "STRAXBUSD",
+    "bidPrice": "0.57800000",
+    "bidQty": "2601.30000000",
+    "askPrice": "0.57900000",
+    "askQty": "823.90000000"
+}, {
+    "symbol": "FORBUSD",
+    "bidPrice": "0.02275000",
+    "bidQty": "18020.70000000",
+    "askPrice": "0.02282000",
+    "askQty": "2215.50000000"
+}, {
+    "symbol": "UNFIBUSD",
+    "bidPrice": "5.68500000",
+    "bidQty": "37.10000000",
+    "askPrice": "5.68800000",
+    "askQty": "16.00000000"
+}, {
+    "symbol": "FRONTBUSD",
+    "bidPrice": "0.24090000",
+    "bidQty": "245.00000000",
+    "askPrice": "0.24110000",
+    "askQty": "700.00000000"
+}, 
+{
+    "symbol": "ROSEBUSD",
+    "bidPrice": "0.05546000",
+    "bidQty": "98924.60000000",
+    "askPrice": "0.05547000",
+    "askQty": "89.40000000"
+}, {
+    "symbol": "BUSDBRL",
+    "bidPrice": "5.17300000",
+    "bidQty": "71234.20000000",
+    "askPrice": "5.17500000",
+    "askQty": "1485.90000000"
+}, {
+    "symbol": "SYSBUSD",
+    "bidPrice": "0.17330000",
+    "bidQty": "1037.00000000",
+    "askPrice": "0.17380000",
+    "askQty": "470.00000000"
+}, {
+}, {
+    "symbol": "PROMBUSD",
+    "bidPrice": "5.26000000",
+    "bidQty": "49.52000000",
+    "askPrice": "5.27000000",
+    "askQty": "92.90000000"
+}, {
+    "symbol": "SKLBUSD",
+    "bidPrice": "0.03835000",
+    "bidQty": "32677.00000000",
+    "askPrice": "0.03840000",
+    "askQty": "567.00000000"
+}, {
+}, {
+    "symbol": "GHSTBUSD",
+    "bidPrice": "1.09600000",
+    "bidQty": "261.20000000",
+    "askPrice": "1.09700000",
+    "askQty": "293.60000000"
+}, {
+    "symbol": "DFBUSD",
+    "bidPrice": "0.04890000",
+    "bidQty": "48050.00000000",
+    "askPrice": "0.04900000",
+    "askQty": "5770.00000000"
+}, {
+    "symbol": "JUVBUSD",
+    "bidPrice": "3.05000000",
+    "bidQty": "126.89000000",
+    "askPrice": "3.07000000",
+    "askQty": "850.59000000"
+}, {
+    "symbol": "PSGBUSD",
+    "bidPrice": "6.51000000",
+    "bidQty": "3.00000000",
+    "askPrice": "6.52000000",
+    "askQty": "2.56000000"
+}, {
+    "symbol": "BUSDBVND",
+    "bidPrice": "0.00",
+    "bidQty": "0.00000000",
+    "askPrice": "0.00",
+    "askQty": "0.00000000"
+}, {
+    "symbol": "DEXEBUSD",
+    "bidPrice": "2.94600000",
+    "bidQty": "67.88000000",
+    "askPrice": "2.95000000",
+    "askQty": "3.10000000"
+}, 
+{
+    "symbol": "CKBBUSD",
+    "bidPrice": "0.00376000",
+    "bidQty": "70188.00000000",
+    "askPrice": "0.00377000",
+    "askQty": "17787.00000000"
+}, {
+    "symbol": "CKBUSDT",
+    "bidPrice": "0.00376000",
+    "bidQty": "735961.00000000",
+    "askPrice": "0.00377000",
+    "askQty": "69849.00000000"
+}, {
+    "symbol": "TWTBUSD",
+    "bidPrice": "1.58520000",
+    "bidQty": "34.00000000",
+    "askPrice": "1.58610000",
+    "askQty": "364.00000000"
+}, {
+    "symbol": "LITBUSD",
+    "bidPrice": "1.00700000",
+    "bidQty": "1467.20000000",
+    "askPrice": "1.00800000",
+    "askQty": "1188.00000000"
+}, {
+    "symbol": "BUSDVAI",
+    "bidPrice": "1.02600000",
+    "bidQty": "89.30000000",
+    "askPrice": "1.02700000",
+    "askQty": "1606.70000000"
+}, {
+    "symbol": "SFPBUSD",
+    "bidPrice": "0.54380000",
+    "bidQty": "172.00000000",
+    "askPrice": "0.54390000",
+    "askQty": "792.00000000"
+}, {
+    "symbol": "FXSBUSD",
+    "bidPrice": "12.70200000",
+    "bidQty": "29.30000000",
+    "askPrice": "12.71300000",
+    "askQty": "15.70000000"
+}, {
+    "symbol": "DODOBUSD",
+    "bidPrice": "0.15840000",
+    "bidQty": "2399.10000000",
+    "askPrice": "0.15850000",
+    "askQty": "2441.20000000"
+}, {
+    "symbol": "BAKEBUSD",
+    "bidPrice": "0.23870000",
+    "bidQty": "562.00000000",
+    "askPrice": "0.23890000",
+    "askQty": "250.90000000"
+}, {
+    "symbol": "UFTBUSD",
+    "bidPrice": "0.37300000",
+    "bidQty": "111.00000000",
+    "askPrice": "0.37360000",
+    "askQty": "34.00000000"
+}, {
+    "symbol": "1INCHBUSD",
+    "bidPrice": "0.55400000",
+    "bidQty": "474.00000000",
+    "askPrice": "0.55500000",
+    "askQty": "36196.50000000"
+}, {
+    "symbol": "BANDBUSD",
+    "bidPrice": "2.10100000",
+    "bidQty": "1818.30000000",
+    "askPrice": "2.10400000",
+    "askQty": "896.50000000"
+}, {
+    "symbol": "GRTBUSD",
+    "bidPrice": "0.14110000",
+    "bidQty": "21010.00000000",
+    "askPrice": "0.14130000",
+    "askQty": "6960.00000000"
+}, {
+    "symbol": "IOSTBUSD",
+    "bidPrice": "0.01066000",
+    "bidQty": "289877.30000000",
+    "askPrice": "0.01069000",
+    "askQty": "83183.40000000"
+}, {
+    "symbol": "OMGBUSD",
+    "bidPrice": "1.66400000",
+    "bidQty": "202.30000000",
+    "askPrice": "1.66700000",
+    "askQty": "750.30000000"
+}, {
+    "symbol": "REEFBUSD",
+    "bidPrice": "0.00342700",
+    "bidQty": "40000.00000000",
+    "askPrice": "0.00342900",
+    "askQty": "14630.90000000"
+}, {
+    "symbol": "ACMBUSD",
+    "bidPrice": "2.84100000",
+    "bidQty": "39.50000000",
+    "askPrice": "2.84500000",
+    "askQty": "351.70000000"
+}, {
+    "symbol": "AUCTIONBUSD",
+    "bidPrice": "6.15000000",
+    "bidQty": "111.98000000",
+    "askPrice": "6.16000000",
+    "askQty": "26.68000000"
+}, {
+    "symbol": "PHABUSD",
+    "bidPrice": "0.20340000",
+    "bidQty": "33736.00000000",
+    "askPrice": "0.20370000",
+    "askQty": "6549.00000000"
+}, {
+    "symbol": "TVKBUSD",
+    "bidPrice": "0.06090000",
+    "bidQty": "2462.00000000",
+    "askPrice": "0.06100000",
+    "askQty": "35012.00000000"
+}, {
+    "symbol": "BADGERBUSD",
+    "bidPrice": "3.16000000",
+    "bidQty": "480.48000000",
+    "askPrice": "3.17000000",
+    "askQty": "982.67000000"
+}, {
+    "symbol": "FISBUSD",
+    "bidPrice": "0.73740000",
+    "bidQty": "258.00000000",
+    "askPrice": "0.73880000",
+    "askQty": "889.00000000"
+}, {
+    "symbol": "OMBUSD",
+    "bidPrice": "0.04260000",
+    "bidQty": "8937.00000000",
+    "askPrice": "0.04270000",
+    "askQty": "4998.00000000"
+}, {
+    "symbol": "PONDBUSD",
+    "bidPrice": "0.01120000",
+    "bidQty": "7811.05000000",
+    "askPrice": "0.01121000",
+    "askQty": "8409.87000000"
+}, {
+    "symbol": "DEGOBUSD",
+    "bidPrice": "2.76100000",
+    "bidQty": "42.49000000",
+    "askPrice": "2.77300000",
+    "askQty": "42.49000000"
+}, {
+    "symbol": "ALICEBUSD",
+    "bidPrice": "1.79800000",
+    "bidQty": "381.87000000",
+    "askPrice": "1.80000000",
+    "askQty": "387.96000000"
+}, {
+    "symbol": "CHZBUSD",
+    "bidPrice": "0.13950000",
+    "bidQty": "42116.00000000",
+    "askPrice": "0.13960000",
+    "askQty": "81500.00000000"
+}, {
+    "symbol": "BIFIBUSD",
+    "bidPrice": "502.30000000",
+    "bidQty": "0.19900000",
+    "askPrice": "502.70000000",
+    "askQty": "0.02000000"
+}, {
+    "symbol": "LINABUSD",
+    "bidPrice": "0.00785900",
+    "bidQty": "1822.86000000",
+    "askPrice": "0.00787200",
+    "askQty": "38138.82000000"
+}, {
+    "symbol": "PERPBUSD",
+    "bidPrice": "0.66324000",
+    "bidQty": "150.77000000",
+    "askPrice": "0.66457000",
+    "askQty": "35.93000000"
+}, 
+{
+    "symbol": "SUPERBUSD",
+    "bidPrice": "0.13960000",
+    "bidQty": "1524.00000000",
+    "askPrice": "0.13990000",
+    "askQty": "1590.00000000"
+}, {
+    "symbol": "CFXBUSD",
+    "bidPrice": "0.06470000",
+    "bidQty": "43895.00000000",
+    "askPrice": "0.06480000",
+    "askQty": "176.00000000"
+}, {
+    "symbol": "XVGBUSD",
+    "bidPrice": "0.00316000",
+    "bidQty": "164574.30000000",
+    "askPrice": "0.00317000",
+    "askQty": "313741.30000000"
+},
+{
+    "symbol": "AUTOBUSD",
+    "bidPrice": "352.50000000",
+    "bidQty": "0.28300000",
+    "askPrice": "353.80000000",
+    "askQty": "0.26600000"
+}, {
+    "symbol": "TKOBUSD",
+    "bidPrice": "0.36230000",
+    "bidQty": "871.80000000",
+    "askPrice": "0.36240000",
+    "askQty": "466.10000000"
+}, {
+    "symbol": "TLMBUSD",
+    "bidPrice": "0.02277000",
+    "bidQty": "53823.00000000",
+    "askPrice": "0.02279000",
+    "askQty": "35062.00000000"
+},
+{
+    "symbol": "HOTBUSD",
+    "bidPrice": "0.00214200",
+    "bidQty": "485485.00000000",
+    "askPrice": "0.00214500",
+    "askQty": "687022.80000000"
+}, {
+    "symbol": "MIRBUSD",
+    "bidPrice": "0.17052000",
+    "bidQty": "783.70000000",
+    "askPrice": "0.17088000",
+    "askQty": "695.30000000"
+}, {
+    "symbol": "BARBUSD",
+    "bidPrice": "4.35000000",
+    "bidQty": "822.85000000",
+    "askPrice": "4.37000000",
+    "askQty": "564.67000000"
+}, {
+    "symbol": "FORTHBUSD",
+    "bidPrice": "4.08000000",
+    "bidQty": "286.98000000",
+    "askPrice": "4.10000000",
+    "askQty": "300.49000000"
+}, {
+    "symbol": "BURGERBUSD",
+    "bidPrice": "0.71200000",
+    "bidQty": "2548.40000000",
+    "askPrice": "0.71300000",
+    "askQty": "1204.10000000"
+}, {
+    "symbol": "SLPBUSD",
+    "bidPrice": "0.00318600",
+    "bidQty": "54916.00000000",
+    "askPrice": "0.00318700",
+    "askQty": "26767.00000000"
+}, {
+    "symbol": "SHIBUSDT",
+    "bidPrice": "0.00001414",
+    "bidQty": "7364180745.00",
+    "askPrice": "0.00001415",
+    "askQty": "628566196.00"
+}, {
+    "symbol": "SHIBBUSD",
+    "bidPrice": "0.00001415",
+    "bidQty": "2439097288.00",
+    "askPrice": "0.00001416",
+    "askQty": "3753148156.00"
+}, {
+    "symbol": "ICPBUSD",
+    "bidPrice": "5.55500000",
+    "bidQty": "317.71000000",
+    "askPrice": "5.55600000",
+    "askQty": "103.01000000"
+}, {
+    "symbol": "ARBUSD",
+    "bidPrice": "11.28000000",
+    "bidQty": "17.73000000",
+    "askPrice": "11.29000000",
+    "askQty": "138.48000000"
+}, {
+    "symbol": "POLSBUSD",
+    "bidPrice": "0.45700000",
+    "bidQty": "711.90000000",
+    "askPrice": "0.45900000",
+    "askQty": "1350.80000000"
+}, {
+    "symbol": "MDXBUSD",
+    "bidPrice": "0.09840000",
+    "bidQty": "7980.20000000",
+    "askPrice": "0.09860000",
+    "askQty": "2028.30000000"
+}, {
+    "symbol": "MASKBUSD",
+    "bidPrice": "4.33600000",
+    "bidQty": "144.80000000",
+    "askPrice": "4.33700000",
+    "askQty": "46.10000000"
+}, {
+    "symbol": "LPTBUSD",
+    "bidPrice": "9.22000000",
+    "bidQty": "7.28000000",
+    "askPrice": "9.23000000",
+    "askQty": "102.30000000"
+},
+{
+    "symbol": "CELRBUSD",
+    "bidPrice": "0.01839000",
+    "bidQty": "40355.00000000",
+    "askPrice": "0.01842000",
+    "askQty": "361117.00000000"
+}, {
+    "symbol": "ATMBUSD",
+    "bidPrice": "3.32000000",
+    "bidQty": "723.87000000",
+    "askPrice": "3.33000000",
+    "askQty": "6.65000000"
+}, {
+    "symbol": "ZENBUSD",
+    "bidPrice": "10.45000000",
+    "bidQty": "28.77000000",
+    "askPrice": "10.47000000",
+    "askQty": "27.12000000"
+}, {
+    "symbol": "FTMBUSD",
+    "bidPrice": "0.53970000",
+    "bidQty": "396.00000000",
+    "askPrice": "0.53980000",
+    "askQty": "2084.00000000"
+}, {
+    "symbol": "THETABUSD",
+    "bidPrice": "1.09800000",
+    "bidQty": "511.60000000",
+    "askPrice": "1.09900000",
+    "askQty": "2165.90000000"
+}, {
+    "symbol": "WINBUSD",
+    "bidPrice": "0.00009640",
+    "bidQty": "3469395.00000000",
+    "askPrice": "0.00009650",
+    "askQty": "1138980.00000000"
+}, {
+    "symbol": "KAVABUSD",
+    "bidPrice": "0.96600000",
+    "bidQty": "6902.60000000",
+    "askPrice": "0.96800000",
+    "askQty": "480.80000000"
+},
+ {
+    "symbol": "ATABUSD",
+    "bidPrice": "0.16340000",
+    "bidQty": "3091.00000000",
+    "askPrice": "0.16370000",
+    "askQty": "1901.00000000"
+}, {
+    "symbol": "GTCBUSD",
+    "bidPrice": "2.07700000",
+    "bidQty": "297.90000000",
+    "askPrice": "2.08100000",
+    "askQty": "523.20000000"
+}, {
+    "symbol": "TORNBUSD",
+    "bidPrice": "6.71000000",
+    "bidQty": "336.73000000",
+    "askPrice": "6.72000000",
+    "askQty": "804.59000000"
+}, {
+    "symbol": "COTIBUSD",
+    "bidPrice": "0.09850000",
+    "bidQty": "15431.00000000",
+    "askPrice": "0.09860000",
+    "askQty": "15951.00000000"
+}, 
+ {
+    "symbol": "SCBUSD",
+    "bidPrice": "0.00388000",
+    "bidQty": "603451.00000000",
+    "askPrice": "0.00390000",
+    "askQty": "393702.00000000"
+}, {
+    "symbol": "CHRBUSD",
+    "bidPrice": "0.16410000",
+    "bidQty": "4284.00000000",
+    "askPrice": "0.16430000",
+    "askQty": "8100.00000000"
+}, {
+    "symbol": "STMXBUSD",
+    "bidPrice": "0.00623600",
+    "bidQty": "67373.00000000",
+    "askPrice": "0.00624800",
+    "askQty": "3942.00000000"
+}, {
+    "symbol": "HNTBUSD",
+    "bidPrice": "2.84100000",
+    "bidQty": "1697.58000000",
+    "askPrice": "2.84400000",
+    "askQty": "349.88000000"
+}, {
+    "symbol": "FTTBUSD",
+    "bidPrice": "2.00100000",
+    "bidQty": "117.42000000",
+    "askPrice": "2.00400000",
+    "askQty": "5.24000000"
+}, {
+    "symbol": "DOCKBUSD",
+    "bidPrice": "0.02704000",
+    "bidQty": "7396.00000000",
+    "askPrice": "0.02716000",
+    "askQty": "18446.00000000"
+}, {
+    "symbol": "ERNBUSD",
+    "bidPrice": "2.35100000",
+    "bidQty": "180.70000000",
+    "askPrice": "2.35700000",
+    "askQty": "6.60000000"
+}, {
+    "symbol": "KLAYBUSD",
+    "bidPrice": "0.20730000",
+    "bidQty": "271.30000000",
+    "askPrice": "0.20750000",
+    "askQty": "596.10000000"
+}, {
+    "symbol": "UTKBUSD",
+    "bidPrice": "0.10440000",
+    "bidQty": "1915.00000000",
+    "askPrice": "0.10460000",
+    "askQty": "8779.00000000"
+}, {
+    "symbol": "IOTXBUSD",
+    "bidPrice": "0.03219000",
+    "bidQty": "969.00000000",
+    "askPrice": "0.03220000",
+    "askQty": "5867.00000000"
+}, {
+    "symbol": "BUSDUAH",
+    "bidPrice": "39.60000000",
+    "bidQty": "144.00000000",
+    "askPrice": "39.61000000",
+    "askQty": "585.00000000"
+}, {
+    "symbol": "BONDBUSD",
+    "bidPrice": "4.55400000",
+    "bidQty": "12.68000000",
+    "askPrice": "4.55900000",
+    "askQty": "8.09000000"
+}, {
+    "symbol": "MLNBUSD",
+    "bidPrice": "25.50000000",
+    "bidQty": "0.89000000",
+    "askPrice": "25.53000000",
+    "askQty": "2.87800000"
+}, {
+    "symbol": "LTOBUSD",
+    "bidPrice": "0.10310000",
+    "bidQty": "8849.00000000",
+    "askPrice": "0.10340000",
+    "askQty": "1000.00000000"
+}, {
+    "symbol": "ADXBUSD",
+    "bidPrice": "0.19170000",
+    "bidQty": "521.00000000",
+    "askPrice": "0.19190000",
+    "askQty": "2624.00000000"
+}, {
+    "symbol": "QUICKBUSD",
+    "bidPrice": "57.40000000",
+    "bidQty": "26.85500000",
+    "askPrice": "57.50000000",
+    "askQty": "13.50800000"
+}, {
+    "symbol": "C98BUSD",
+    "bidPrice": "0.25480000",
+    "bidQty": "223.70000000",
+    "askPrice": "0.25510000",
+    "askQty": "410.00000000"
+}, {
+    "symbol": "CLVBUSD",
+    "bidPrice": "0.07694000",
+    "bidQty": "2429.60000000",
+    "askPrice": "0.07707000",
+    "askQty": "226.40000000"
+}, {
+    "symbol": "QNTBUSD",
+    "bidPrice": "138.00000000",
+    "bidQty": "33.09600000",
+    "askPrice": "138.20000000",
+    "askQty": "31.88800000"
+}, {
+    "symbol": "FLOWBUSD",
+    "bidPrice": "1.09600000",
+    "bidQty": "1914.39000000",
+    "askPrice": "1.09800000",
+    "askQty": "4803.28000000"
+}, {
+    "symbol": "XECBUSD",
+    "bidPrice": "0.00003710",
+    "bidQty": "2083396.00",
+    "askPrice": "0.00003714",
+    "askQty": "353239.00"
+}, {
+    "symbol": "MINABUSD",
+    "bidPrice": "0.79500000",
+    "bidQty": "13.80000000",
+    "askPrice": "0.79600000",
+    "askQty": "756.20000000"
+}, {
+    "symbol": "RAYBUSD",
+    "bidPrice": "0.28070000",
+    "bidQty": "1215.40000000",
+    "askPrice": "0.28120000",
+    "askQty": "711.20000000"
+}, {
+    "symbol": "FARMBUSD",
+    "bidPrice": "39.00000000",
+    "bidQty": "5.12800000",
+    "askPrice": "39.10000000",
+    "askQty": "3.19900000"
+}, {
+    "symbol": "ALPACABUSD",
+    "bidPrice": "0.28530000",
+    "bidQty": "701.00000000",
+    "askPrice": "0.28550000",
+    "askQty": "328.40000000"
+}, {
+    "symbol": "ORNBUSD",
+    "bidPrice": "0.97700000",
+    "bidQty": "254.50000000",
+    "askPrice": "0.98000000",
+    "askQty": "88.60000000"
+}, {
+    "symbol": "MBOXBUSD",
+    "bidPrice": "0.57300000",
+    "bidQty": "1360.40000000",
+    "askPrice": "0.57400000",
+    "askQty": "341.70000000"
+}, {
+    "symbol": "WAXPBUSD",
+    "bidPrice": "0.07820000",
+    "bidQty": "1278.00000000",
+    "askPrice": "0.07830000",
+    "askQty": "667.00000000"
+}, {
+    "symbol": "MTLBUSD",
+    "bidPrice": "1.16600000",
+    "bidQty": "171.50000000",
+    "askPrice": "1.16800000",
+    "askQty": "588.80000000"
+}, {
+    "symbol": "OGNBUSD",
+    "bidPrice": "0.13430000",
+    "bidQty": "6542.70000000",
+    "askPrice": "0.13450000",
+    "askQty": "4401.40000000"
+}, 
+{
+    "symbol": "DYDXBUSD",
+    "bidPrice": "2.93200000",
+    "bidQty": "404.03000000",
+    "askPrice": "2.93400000",
+    "askQty": "989.60000000"
+}, {
+    "symbol": "ELFBUSD",
+    "bidPrice": "0.19020000",
+    "bidQty": "9172.10000000",
+    "askPrice": "0.19080000",
+    "askQty": "788.40000000"
+},
+ {
+    "symbol": "GALABUSD",
+    "bidPrice": "0.05264000",
+    "bidQty": "20426.00000000",
+    "askPrice": "0.05265000",
+    "askQty": "4976.00000000"
+}, {
+    "symbol": "SUNBUSD",
+    "bidPrice": "0.00638000",
+    "bidQty": "355196.00000000",
+    "askPrice": "0.00640000",
+    "askQty": "21790.00000000"
+}, {
+    "symbol": "ILVBUSD",
+    "bidPrice": "89.07000000",
+    "bidQty": "1.62900000",
+    "askPrice": "89.19000000",
+    "askQty": "0.33200000"
+}, {
+    "symbol": "RENBUSD",
+    "bidPrice": "0.09924900",
+    "bidQty": "840.00000000",
+    "askPrice": "0.09935100",
+    "askQty": "198.00000000"
+}, {
+    "symbol": "YGGBUSD",
+    "bidPrice": "0.32660000",
+    "bidQty": "138.40000000",
+    "askPrice": "0.32680000",
+    "askQty": "853.20000000"
+}, {
+    "symbol": "STXBUSD",
+    "bidPrice": "0.30100000",
+    "bidQty": "4736.00000000",
+    "askPrice": "0.30200000",
+    "askQty": "4512.30000000"
+}, {
+    "symbol": "FETBUSD",
+    "bidPrice": "0.51850000",
+    "bidQty": "6671.00000000",
+    "askPrice": "0.51880000",
+    "askQty": "3018.00000000"
+}, {
+    "symbol": "ARPABUSD",
+    "bidPrice": "0.04030000",
+    "bidQty": "12943.30000000",
+    "askPrice": "0.04031000",
+    "askQty": "45.00000000"
+}, {
+    "symbol": "LSKBUSD",
+    "bidPrice": "1.14500000",
+    "bidQty": "174.60000000",
+    "askPrice": "1.14600000",
+    "askQty": "985.80000000"
+}, {
+    "symbol": "FIDABUSD",
+    "bidPrice": "0.45560000",
+    "bidQty": "1000.00000000",
+    "askPrice": "0.45590000",
+    "askQty": "23.90000000"
+}, {
+    "symbol": "DENTBUSD",
+    "bidPrice": "0.00102600",
+    "bidQty": "560682.00000000",
+    "askPrice": "0.00102800",
+    "askQty": "1108039.00000000"
+}, {
+    "symbol": "AGLDBUSD",
+    "bidPrice": "0.40600000",
+    "bidQty": "9407.60000000",
+    "askPrice": "0.40700000",
+    "askQty": "4156.80000000"
+}, {
+    "symbol": "RADBUSD",
+    "bidPrice": "2.01800000",
+    "bidQty": "99.10000000",
+    "askPrice": "2.02400000",
+    "askQty": "256.80000000"
+}, {
+    "symbol": "HIVEBUSD",
+    "bidPrice": "0.44110000",
+    "bidQty": "679.00000000",
+    "askPrice": "0.44170000",
+    "askQty": "679.00000000"
+}, {
+    "symbol": "STPTBUSD",
+    "bidPrice": "0.04539000",
+    "bidQty": "11936.50000000",
+    "askPrice": "0.04548000",
+    "askQty": "375.20000000"
+}, {
+    "symbol": "BETABUSD",
+    "bidPrice": "0.10289000",
+    "bidQty": "100.00000000",
+    "askPrice": "0.10303000",
+    "askQty": "776.00000000"
+}, {
+    "symbol": "RAREBUSD",
+    "bidPrice": "0.16910000",
+    "bidQty": "83.60000000",
+    "askPrice": "0.16940000",
+    "askQty": "1771.90000000"
+}, {
+    "symbol": "TROYBUSD",
+    "bidPrice": "0.00329800",
+    "bidQty": "21292.00000000",
+    "askPrice": "0.00330500",
+    "askQty": "3142.00000000"
+}, {
+    "symbol": "CHESSBUSD",
+    "bidPrice": "0.28200000",
+    "bidQty": "38.80000000",
+    "askPrice": "0.28260000",
+    "askQty": "707.70000000"
+}, {
+    "symbol": "SCRTBUSD",
+    "bidPrice": "0.77000000",
+    "bidQty": "5632.70000000",
+    "askPrice": "0.77100000",
+    "askQty": "259.40000000"
+}, {
+    "symbol": "CELOBUSD",
+    "bidPrice": "0.78800000",
+    "bidQty": "4209.20000000",
+    "askPrice": "0.79000000",
+    "askQty": "7125.10000000"
+}, {
+    "symbol": "DARBUSD",
+    "bidPrice": "0.24352000",
+    "bidQty": "820.00000000",
+    "askPrice": "0.24378000",
+    "askQty": "85.00000000"
+}, {
+    "symbol": "BNXBUSD",
+    "bidPrice": "100.40000000",
+    "bidQty": "74.50100000",
+    "askPrice": "100.60000000",
+    "askQty": "31.25600000"
+},
+ {
+    "symbol": "LAZIOBUSD",
+    "bidPrice": "3.49460000",
+    "bidQty": "40.00000000",
+    "askPrice": "3.49900000",
+    "askQty": "8.92000000"
+}, {
+    "symbol": "OXTBUSD",
+    "bidPrice": "0.09850000",
+    "bidQty": "3671.00000000",
+    "askPrice": "0.09870000",
+    "askQty": "28104.00000000"
+}, {
+    "symbol": "MOVRBUSD",
+    "bidPrice": "9.10000000",
+    "bidQty": "32.96700000",
+    "askPrice": "9.11000000",
+    "askQty": "1.22900000"
+}, {
+    "symbol": "CITYBUSD",
+    "bidPrice": "4.37000000",
+    "bidQty": "656.11000000",
+    "askPrice": "4.39000000",
+    "askQty": "163.70000000"
+}, {
+    "symbol": "ENSBUSD",
+    "bidPrice": "15.26000000",
+    "bidQty": "10.30000000",
+    "askPrice": "15.28000000",
+    "askQty": "275.22000000"
+}, {
+    "symbol": "ANKRBUSD",
+    "bidPrice": "0.02996000",
+    "bidQty": "36702.20000000",
+    "askPrice": "0.03000000",
+    "askQty": "3635.80000000"
+}, {
+    "symbol": "QIBUSD",
+    "bidPrice": "0.01070000",
+    "bidQty": "18101.00000000",
+    "askPrice": "0.01071000",
+    "askQty": "17472.00000000"
+}, {
+    "symbol": "POWRBUSD",
+    "bidPrice": "0.19510000",
+    "bidQty": "5117.00000000",
+    "askPrice": "0.19540000",
+    "askQty": "1023.00000000"
+}, {
+    "symbol": "JASMYBUSD",
+    "bidPrice": "0.00683900",
+    "bidQty": "74365.60000000",
+    "askPrice": "0.00684400",
+    "askQty": "63572.70000000"
+}, {
+    "symbol": "AMPBUSD",
+    "bidPrice": "0.00484000",
+    "bidQty": "43616.00000000",
+    "askPrice": "0.00485000",
+    "askQty": "8714.00000000"
+}, {
+    "symbol": "PLABUSD",
+    "bidPrice": "0.24550000",
+    "bidQty": "165.05000000",
+    "askPrice": "0.24600000",
+    "askQty": "2079.00000000"
+}, {
+    "symbol": "PYRBUSD",
+    "bidPrice": "4.10000000",
+    "bidQty": "317.39600000",
+    "askPrice": "4.11000000",
+    "askQty": "482.48500000"
+}, {
+    "symbol": "RNDRBUSD",
+    "bidPrice": "2.01800000",
+    "bidQty": "46.65000000",
+    "askPrice": "2.02000000",
+    "askQty": "42.31000000"
+}, {
+    "symbol": "ALCXBUSD",
+    "bidPrice": "22.12000000",
+    "bidQty": "22.69360000",
+    "askPrice": "22.19000000",
+    "askQty": "0.92000000"
+}, {
+    "symbol": "MCBUSD",
+    "bidPrice": "0.39800000",
+    "bidQty": "502.50000000",
+    "askPrice": "0.39900000",
+    "askQty": "30.33000000"
+}, {
+    "symbol": "COCOSBUSD",
+    "bidPrice": "0.69290000",
+    "bidQty": "195.00000000",
+    "askPrice": "0.69490000",
+    "askQty": "29.00000000"
+},
+ {
+    "symbol": "BICOBUSD",
+    "bidPrice": "0.38800000",
+    "bidQty": "2026.56000000",
+    "askPrice": "0.39000000",
+    "askQty": "4277.48000000"
+}, {
+    "symbol": "FLUXBUSD",
+    "bidPrice": "0.94200000",
+    "bidQty": "1634.91000000",
+    "askPrice": "0.94300000",
+    "askQty": "2199.60000000"
+}, {
+    "symbol": "REQBUSD",
+    "bidPrice": "0.11200000",
+    "bidQty": "1785.00000000",
+    "askPrice": "0.11210000",
+    "askQty": "1088.00000000"
+}, {
+    "symbol": "VOXELBUSD",
+    "bidPrice": "0.39010000",
+    "bidQty": "771.10000000",
+    "askPrice": "0.39060000",
+    "askQty": "63.60000000"
+}, {
+    "symbol": "COSBUSD",
+    "bidPrice": "0.00788000",
+    "bidQty": "114083.10000000",
+    "askPrice": "0.00790000",
+    "askQty": "8975.50000000"
+}, {
+    "symbol": "CTXCBUSD",
+    "bidPrice": "0.34970000",
+    "bidQty": "3401.00000000",
+    "askPrice": "0.35000000",
+    "askQty": "55225.00000000"
+}, {
+    "symbol": "HIGHBUSD",
+    "bidPrice": "4.29000000",
+    "bidQty": "149.16700000",
+    "askPrice": "4.29400000",
+    "askQty": "109.45700000"
+}, {
+    "symbol": "CVXBUSD",
+    "bidPrice": "6.47500000",
+    "bidQty": "19.81500000",
+    "askPrice": "6.48400000",
+    "askQty": "88.94600000"
+}, {
+    "symbol": "PEOPLEBUSD",
+    "bidPrice": "0.02930000",
+    "bidQty": "34100.50000000",
+    "askPrice": "0.02934000",
+    "askQty": "9362.50000000"
+}, {
+    "symbol": "OOKIBUSD",
+    "bidPrice": "0.00458000",
+    "bidQty": "393289.00000000",
+    "askPrice": "0.00460000",
+    "askQty": "264794.00000000"
+}, {
+    "symbol": "MDTBUSD",
+    "bidPrice": "0.06762000",
+    "bidQty": "955.50000000",
+    "askPrice": "0.06772000",
+    "askQty": "151.00000000"
+}, {
+    "symbol": "NULSBUSD",
+    "bidPrice": "0.27070000",
+    "bidQty": "1740.00000000",
+    "askPrice": "0.27090000",
+    "askQty": "1390.00000000"
+}, {
+    "symbol": "SPELLBUSD",
+    "bidPrice": "0.00082960",
+    "bidQty": "20991.00000000",
+    "askPrice": "0.00083030",
+    "askQty": "121418.00000000"
+},
+{
+    "symbol": "JOEBUSD",
+    "bidPrice": "0.26590000",
+    "bidQty": "1409.86000000",
+    "askPrice": "0.26630000",
+    "askQty": "1160.30000000"
+}, {
+    "symbol": "DUSKBUSD",
+    "bidPrice": "0.15470000",
+    "bidQty": "11183.00000000",
+    "askPrice": "0.15490000",
+    "askQty": "11512.00000000"
+}, {
+    "symbol": "ACHBUSD",
+    "bidPrice": "0.01820000",
+    "bidQty": "5494.00000000",
+    "askPrice": "0.01821000",
+    "askQty": "715.00000000"
+}, {
+    "symbol": "IMXBUSD",
+    "bidPrice": "0.93800000",
+    "bidQty": "872.79000000",
+    "askPrice": "0.93900000",
+    "askQty": "3991.64000000"
+}, {
+    "symbol": "GLMRBUSD",
+    "bidPrice": "0.45920000",
+    "bidQty": "605.60000000",
+    "askPrice": "0.45970000",
+    "askQty": "35.80000000"
+}, {
+    "symbol": "UMABUSD",
+    "bidPrice": "2.10100000",
+    "bidQty": "557.10000000",
+    "askPrice": "2.10500000",
+    "askQty": "195.00000000"
+}, {
+    "symbol": "LOKABUSD",
+    "bidPrice": "0.71450000",
+    "bidQty": "167.10000000",
+    "askPrice": "0.71520000",
+    "askQty": "206.60000000"
+}, {
+    "symbol": "API3BUSD",
+    "bidPrice": "1.72700000",
+    "bidQty": "1873.86000000",
+    "askPrice": "1.72800000",
+    "askQty": "1.15000000"
+}, {
+    "symbol": "ACABUSD",
+    "bidPrice": "0.13550000",
+    "bidQty": "2664.19000000",
+    "askPrice": "0.13580000",
+    "askQty": "1472.75000000"
+}, {
+    "symbol": "ANCBUSD",
+    "bidPrice": "0.05311000",
+    "bidQty": "7609.53000000",
+    "askPrice": "0.05317000",
+    "askQty": "20219.85000000"
+}, {
+    "symbol": "XNOBUSD",
+    "bidPrice": "0.86800000",
+    "bidQty": "1511.41000000",
+    "askPrice": "0.87000000",
+    "askQty": "14.40000000"
+}, {
+    "symbol": "WOOBUSD",
+    "bidPrice": "0.23510000",
+    "bidQty": "816.30000000",
+    "askPrice": "0.23530000",
+    "askQty": "2537.00000000"
+}, {
+    "symbol": "TFUELBUSD",
+    "bidPrice": "0.05560000",
+    "bidQty": "1175.00000000",
+    "askPrice": "0.05570000",
+    "askQty": "36355.00000000"
+}, {
+    "symbol": "TBUSD",
+    "bidPrice": "0.04413000",
+    "bidQty": "4532.00000000",
+    "askPrice": "0.04416000",
+    "askQty": "2728.80000000"
+}, {
+    "symbol": "ASTRBUSD",
+    "bidPrice": "0.05820000",
+    "bidQty": "23664.80000000",
+    "askPrice": "0.05830000",
+    "askQty": "9084.00000000"
+}, {
+    "symbol": "GMTBUSD",
+    "bidPrice": "0.51620000",
+    "bidQty": "593.60000000",
+    "askPrice": "0.51630000",
+    "askQty": "1192.50000000"
+}, {
+    "symbol": "KDABUSD",
+    "bidPrice": "1.18200000",
+    "bidQty": "497.43000000",
+    "askPrice": "1.18400000",
+    "askQty": "40.00000000"
+}, {
+    "symbol": "APEBUSD",
+    "bidPrice": "5.67300000",
+    "bidQty": "17.62000000",
+    "askPrice": "5.67400000",
+    "askQty": "90.01000000"
+}, {
+    "symbol": "ALPINEBUSD",
+    "bidPrice": "2.88980000",
+    "bidQty": "69.18000000",
+    "askPrice": "2.89270000",
+    "askQty": "36.46000000"
+}, {
+    "symbol": "BSWBUSD",
+    "bidPrice": "0.21700000",
+    "bidQty": "91.50000000",
+    "askPrice": "0.21750000",
+    "askQty": "919.50000000"
+}, {
+    "symbol": "SANTOSBUSD",
+    "bidPrice": "5.77700000",
+    "bidQty": "526.27000000",
+    "askPrice": "5.78100000",
+    "askQty": "87.01000000"
+}, {
+    "symbol": "MULTIBUSD",
+    "bidPrice": "9.84000000",
+    "bidQty": "20.32500000",
+    "askPrice": "9.85000000",
+    "askQty": "6.96900000"
+}, {
+    "symbol": "PORTOBUSD",
+    "bidPrice": "3.09620000",
+    "bidQty": "6.90000000",
+    "askPrice": "3.10670000",
+    "askQty": "11.48000000"
+}, {
+    "symbol": "BTTCBUSD",
+    "bidPrice": "0.00000073",
+    "bidQty": "92439093080.0",
+    "askPrice": "0.00000074",
+    "askQty": "108000611609.0"
+}, {
+    "symbol": "MBLBUSD",
+    "bidPrice": "0.00350300",
+    "bidQty": "42812.00000000",
+    "askPrice": "0.00350800",
+    "askQty": "5413.00000000"
+}, {
+    "symbol": "MOBUSDT",
+    "bidPrice": "1.48800000",
+    "bidQty": "436.81000000",
+    "askPrice": "1.49100000",
+    "askQty": "740.05000000"
+}, {
+    "symbol": "MOBBUSD",
+    "bidPrice": "1.48800000",
+    "bidQty": "134.40000000",
+    "askPrice": "1.49000000",
+    "askQty": "151.56000000"
+}, {
+    "symbol": "NEXOBUSD",
+    "bidPrice": "0.74900000",
+    "bidQty": "1992.01000000",
+    "askPrice": "0.75000000",
+    "askQty": "849.27000000"
+}, {
+    "symbol": "GALBUSD",
+    "bidPrice": "2.25600000",
+    "bidQty": "780.79700000",
+    "askPrice": "2.25900000",
+    "askQty": "177.07400000"
+}, {
+    "symbol": "LDOBUSD",
+    "bidPrice": "2.30000000",
+    "bidQty": "766.59000000",
+    "askPrice": "2.30100000",
+    "askQty": "276.22000000"
+}, {
+    "symbol": "EPXBUSD",
+    "bidPrice": "0.00044200",
+    "bidQty": "568008.00000000",
+    "askPrice": "0.00044400",
+    "askQty": "384454.00000000"
+}, {
+    "symbol": "STEEMBUSD",
+    "bidPrice": "0.23450000",
+    "bidQty": "880.00000000",
+    "askPrice": "0.23470000",
+    "askQty": "427.30000000"
+}, {
+    "symbol": "CVCBUSD",
+    "bidPrice": "0.11630000",
+    "bidQty": "234.00000000",
+    "askPrice": "0.11670000",
+    "askQty": "12931.00000000"
+}, {
+    "symbol": "REIBUSD",
+    "bidPrice": "0.03590000",
+    "bidQty": "330.70000000",
+    "askPrice": "0.03600000",
+    "askQty": "6358.10000000"
+}, {
+    "symbol": "DREPBUSD",
+    "bidPrice": "0.38400000",
+    "bidQty": "577.00000000",
+    "askPrice": "0.38470000",
+    "askQty": "160.00000000"
+}, {
+    "symbol": "AKROBUSD",
+    "bidPrice": "0.00377000",
+    "bidQty": "68191.00000000",
+    "askPrice": "0.00378000",
+    "askQty": "1440743.00000000"
+}, {
+    "symbol": "PUNDIXBUSD",
+    "bidPrice": "0.48800000",
+    "bidQty": "2249.80000000",
+    "askPrice": "0.48900000",
+    "askQty": "31.70000000"
+}, {
+    "symbol": "LUNCBUSD",
+    "bidPrice": "0.00018227",
+    "bidQty": "2827484.86000000",
+    "askPrice": "0.00018228",
+    "askQty": "3641039.12000000"
+}, {
+    "symbol": "USTCBUSD",
+    "bidPrice": "0.03093801",
+    "bidQty": "15867.00000000",
+    "askPrice": "0.03096998",
+    "askQty": "11574.00000000"
+}, {
+    "symbol": "OPBUSD",
+    "bidPrice": "2.98400000",
+    "bidQty": "297.04000000",
+    "askPrice": "2.98500000",
+    "askQty": "603.96000000"
+}, {
+    "symbol": "OGBUSD",
+    "bidPrice": "2.80800000",
+    "bidQty": "7.70000000",
+    "askPrice": "2.81300000",
+    "askQty": "1535.30000000"
+}, {
+    "symbol": "KEYBUSD",
+    "bidPrice": "0.00393500",
+    "bidQty": "120695.00000000",
+    "askPrice": "0.00394300",
+    "askQty": "10336.00000000"
+}, {
+    "symbol": "ASRBUSD",
+    "bidPrice": "2.90200000",
+    "bidQty": "34.40000000",
+    "askPrice": "2.90400000",
+    "askQty": "3.50000000"
+}, {
+    "symbol": "FIROBUSD",
+    "bidPrice": "2.21800000",
+    "bidQty": "13.50000000",
+    "askPrice": "2.22100000",
+    "askQty": "111.80000000"
+}, {
+    "symbol": "NKNBUSD",
+    "bidPrice": "0.10790000",
+    "bidQty": "394.00000000",
+    "askPrice": "0.10800000",
+    "askQty": "1253.00000000"
+},
+{
+    "symbol": "WBTCBUSD",
+    "bidPrice": "22879.42000000",
+    "bidQty": "0.21744000",
+    "askPrice": "22887.74000000",
+    "askQty": "0.21737000"
+}, {
+    "symbol": "LEVERBUSD",
+    "bidPrice": "0.00258700",
+    "bidQty": "316347.00000000",
+    "askPrice": "0.00258800",
+    "askQty": "968417.00000000"
+}, {
+    "symbol": "GLMBUSD",
+    "bidPrice": "0.24860000",
+    "bidQty": "79.80000000",
+    "askPrice": "0.24920000",
+    "askQty": "112.30000000"
+}, {
+    "symbol": "SSVBUSD",
+    "bidPrice": "27.97000000",
+    "bidQty": "2.11600000",
+    "askPrice": "28.05000000",
+    "askQty": "8.52500000"
+}, {
+    "symbol": "STGBUSD",
+    "bidPrice": "0.77810000",
+    "bidQty": "294.40000000",
+    "askPrice": "0.77880000",
+    "askQty": "155.80000000"
+}, {
+    "symbol": "ARKBUSD",
+    "bidPrice": "0.34830000",
+    "bidQty": "1816.00000000",
+    "askPrice": "0.34950000",
+    "askQty": "286.00000000"
+}, {
+    "symbol": "BETHBUSD",
+    "bidPrice": "1612.72000000",
+    "bidQty": "0.10000000",
+    "askPrice": "1613.03000000",
+    "askQty": "8.03310000"
+}, {
+    "symbol": "LOOMBUSD",
+    "bidPrice": "0.05361000",
+    "bidQty": "2830.00000000",
+    "askPrice": "0.05369000",
+    "askQty": "401.00000000"
+}, {
+    "symbol": "SNMBUSD",
+    "bidPrice": "1.08160000",
+    "bidQty": "707.00000000",
+    "askPrice": "1.08290000",
+    "askQty": "40.00000000"
+}, {
+    "symbol": "AMBBUSD",
+    "bidPrice": "0.01848000",
+    "bidQty": "10822.00000000",
+    "askPrice": "0.01850000",
+    "askQty": "11607.00000000"
+}, {
+    "symbol": "PHBBUSD",
+    "bidPrice": "1.38900000",
+    "bidQty": "1158.00000000",
+    "askPrice": "1.39060000",
+    "askQty": "137.00000000"
+}, {
+    "symbol": "GASBUSD",
+    "bidPrice": "2.63200000",
+    "bidQty": "12.30000000",
+    "askPrice": "2.63600000",
+    "askQty": "29.90000000"
+}, {
+    "symbol": "NEBLBUSD",
+    "bidPrice": "1.67500000",
+    "bidQty": "119.40000000",
+    "askPrice": "1.67600000",
+    "askQty": "15.10000000"
+}, {
+    "symbol": "PROSBUSD",
+    "bidPrice": "0.62730000",
+    "bidQty": "33.00000000",
+    "askPrice": "0.62920000",
+    "askQty": "123.00000000"
+}, {
+    "symbol": "VIBBUSD",
+    "bidPrice": "0.09571000",
+    "bidQty": "213.00000000",
+    "askPrice": "0.09584000",
+    "askQty": "8053.00000000"
+}, {
+    "symbol": "GMXBUSD",
+    "bidPrice": "68.88000000",
+    "bidQty": "7.09100000",
+    "askPrice": "68.95000000",
+    "askQty": "100.30600000"
+}, {
+    "symbol": "AGIXBUSD",
+    "bidPrice": "0.58052000",
+    "bidQty": "5017.00000000",
+    "askPrice": "0.58082000",
+    "askQty": "1036.00000000"
+}, {
+    "symbol": "SNTBUSD",
+    "bidPrice": "0.02935000",
+    "bidQty": "6240.00000000",
+    "askPrice": "0.02938000",
+    "askQty": "341.00000000"
+}, {
+    "symbol": "POLYXBUSD",
+    "bidPrice": "0.20050000",
+    "bidQty": "1.60000000",
+    "askPrice": "0.20060000",
+    "askQty": "997.00000000"
+}, {
+    "symbol": "APTBUSD",
+    "bidPrice": "15.32000000",
+    "bidQty": "111.71000000",
+    "askPrice": "15.32380000",
+    "askQty": "48.03000000"
+}, {
+    "symbol": "BUSDPLN",
+    "bidPrice": "4.42600000",
+    "bidQty": "410.00000000",
+    "askPrice": "4.42800000",
+    "askQty": "4493.00000000"
+}, {
+    "symbol": "QKCBUSD",
+    "bidPrice": "0.01109500",
+    "bidQty": "2112.00000000",
+    "askPrice": "0.01113500",
+    "askQty": "13908.00000000"
+}, {
+    "symbol": "OSMOBUSD",
+    "bidPrice": "1.03400000",
+    "bidQty": "84.31000000",
+    "askPrice": "1.03500000",
+    "askQty": "0.46000000"
+}, {
+    "symbol": "HFTBUSD",
+    "bidPrice": "0.55770000",
+    "bidQty": "708.70000000",
+    "askPrice": "0.55810000",
+    "askQty": "179.10000000"
+}, {
+    "symbol": "PHBUSDT",
+    "bidPrice": "1.38900000",
+    "bidQty": "478.00000000",
+    "askPrice": "1.39050000",
+    "askQty": "143.00000000"
+}, {
+    "symbol": "VITEBUSD",
+    "bidPrice": "0.02664000",
+    "bidQty": "377.10000000",
+    "askPrice": "0.02669000",
+    "askQty": "1145.30000000"
+}, {
+    "symbol": "HOOKBUSD",
+    "bidPrice": "3.70090000",
+    "bidQty": "172.50000000",
+    "askPrice": "3.70470000",
+    "askQty": "62.60000000"
+}, {
+    "symbol": "MAGICBUSD",
+    "bidPrice": "1.96600000",
+    "bidQty": "215.80000000",
+    "askPrice": "1.96760000",
+    "askQty": "28.70000000"
+}, {
+    "symbol": "BUSDRON",
+    "bidPrice": "4.57800000",
+    "bidQty": "78.00000000",
+    "askPrice": "4.58700000",
+    "askQty": "151.00000000"
+}, {
+    "symbol": "RPLBUSD",
+    "bidPrice": "42.10000000",
+    "bidQty": "2.37000000",
+    "askPrice": "42.24000000",
+    "askQty": "1.87000000"
+}]

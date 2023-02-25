@@ -1,0 +1,783 @@
+[{
+    "symbol": "BNB_BUSD"
+}, {
+    "symbol": "BTC_BUSD"
+}, {
+    "symbol": "BUSD_USDT"
+}, {
+    "symbol": "XRP_BUSD"
+}, {
+    "symbol": "ETH_BUSD"
+}, {
+    "symbol": "BCHABC_BUSD"
+}, {
+    "symbol": "LTC_BUSD"
+}, {
+    "symbol": "LINK_BUSD"
+}, {
+    "symbol": "ETC_BUSD"
+}, {
+    "symbol": "BUSD_NGN"
+}, {
+    "symbol": "TRX_BUSD"
+}, {
+    "symbol": "EOS_BUSD"
+}, {
+    "symbol": "XLM_BUSD"
+}, {
+    "symbol": "ADA_BUSD"
+}, {
+    "symbol": "BCH_BUSD"
+}, {
+    "symbol": "BUSD_RUB"
+}, {
+    "symbol": "QTUM_BUSD"
+}, {
+    "symbol": "VET_BUSD"
+}, {
+    "symbol": "BUSD_TRY"
+}, {
+    "symbol": "EUR_BUSD"
+}, {
+    "symbol": "BULL_BUSD"
+}, {
+    "symbol": "BEAR_BUSD"
+}, {
+    "symbol": "ETHBULL_BUSD"
+}, {
+    "symbol": "ETHBEAR_BUSD"
+}, {
+    "symbol": "ICX_BUSD"
+}, {
+    "symbol": "BTS_BUSD"
+}, {
+    "symbol": "BNT_BUSD"
+}, {
+    "symbol": "ATOM_BUSD"
+}, {
+    "symbol": "DASH_BUSD"
+}, {
+    "symbol": "NEO_BUSD"
+}, {
+    "symbol": "WAVES_BUSD"
+}, {
+    "symbol": "XTZ_BUSD"
+}, {
+    "symbol": "EOSBULL_BUSD"
+}, {
+    "symbol": "EOSBEAR_BUSD"
+}, {
+    "symbol": "XRPBULL_BUSD"
+}, {
+    "symbol": "XRPBEAR_BUSD"
+}, {
+    "symbol": "BAT_BUSD"
+}, {
+    "symbol": "ENJ_BUSD"
+}, {
+    "symbol": "NANO_BUSD"
+}, {
+    "symbol": "ONT_BUSD"
+}, {
+    "symbol": "RVN_BUSD"
+}, {
+    "symbol": "STRAT_BUSD"
+}, {
+    "symbol": "AION_BUSD"
+}, {
+    "symbol": "ALGO_BUSD"
+}, {
+    "symbol": "BTT_BUSD"
+}, {
+    "symbol": "TOMO_BUSD"
+}, {
+    "symbol": "XMR_BUSD"
+}, {
+    "symbol": "ZEC_BUSD"
+}, {
+    "symbol": "BNBBULL_BUSD"
+}, {
+    "symbol": "BNBBEAR_BUSD"
+}, {
+    "symbol": "BUSD_ZAR"
+}, {
+    "symbol": "DATA_BUSD"
+}, {
+    "symbol": "SOL_BUSD"
+}, {
+    "symbol": "BUSD_IDRT"
+}, {
+    "symbol": "CTSI_BUSD"
+}, {
+    "symbol": "ERD_BUSD"
+}, {
+    "symbol": "HBAR_BUSD"
+}, {
+    "symbol": "MATIC_BUSD"
+}, {
+    "symbol": "WRX_BUSD"
+}, {
+    "symbol": "ZIL_BUSD"
+}, {
+    "symbol": "KNC_BUSD"
+}, {
+    "symbol": "REP_BUSD"
+}, {
+    "symbol": "LRC_BUSD"
+}, {
+    "symbol": "IQ_BUSD"
+}, {
+    "symbol": "GBP_BUSD"
+}, {
+    "symbol": "DGB_BUSD"
+}, {
+    "symbol": "COMP_BUSD"
+}, {
+    "symbol": "BUSD_BIDR"
+}, {
+    "symbol": "BKRW_BUSD"
+}, {
+    "symbol": "SXP_BUSD"
+}, {
+    "symbol": "SNX_BUSD"
+}, {
+    "symbol": "VTHO_BUSD"
+}, {
+    "symbol": "DCR_BUSD"
+}, {
+    "symbol": "STORJ_BUSD"
+}, {
+    "symbol": "IRIS_BUSD"
+}, {
+    "symbol": "MKR_BUSD"
+}, {
+    "symbol": "DAI_BUSD"
+}, {
+    "symbol": "RUNE_BUSD"
+}, {
+    "symbol": "MANA_BUSD"
+}, {
+    "symbol": "DOGE_BUSD"
+}, {
+    "symbol": "LEND_BUSD"
+}, {
+    "symbol": "ZRX_BUSD"
+}, {
+    "symbol": "AUD_BUSD"
+}, {
+    "symbol": "FIO_BUSD"
+}, {
+    "symbol": "AVA_BUSD"
+}, {
+    "symbol": "BUSD_BKRW"
+}, {
+    "symbol": "IOTA_BUSD"
+}, {
+    "symbol": "BAL_BUSD"
+}, {
+    "symbol": "YFI_BUSD"
+}, {
+    "symbol": "BLZ_BUSD"
+}, {
+    "symbol": "KMD_BUSD"
+}, {
+    "symbol": "BUSD_DAI"
+}, {
+    "symbol": "JST_BUSD"
+}, {
+    "symbol": "SRM_BUSD"
+}, {
+    "symbol": "ANT_BUSD"
+}, {
+    "symbol": "CRV_BUSD"
+}, {
+    "symbol": "SAND_BUSD"
+}, {
+    "symbol": "OCEAN_BUSD"
+}, {
+    "symbol": "NMR_BUSD"
+}, {
+    "symbol": "DOT_BUSD"
+}, {
+    "symbol": "LUNA_BUSD"
+}, {
+    "symbol": "IDEX_BUSD"
+}, {
+    "symbol": "RSR_BUSD"
+}, {
+    "symbol": "PAXG_BUSD"
+}, {
+    "symbol": "WNXM_BUSD"
+}, {
+    "symbol": "TRB_BUSD"
+}, {
+    "symbol": "BZRX_BUSD"
+}, {
+    "symbol": "SUSHI_BUSD"
+}, {
+    "symbol": "YFII_BUSD"
+}, {
+    "symbol": "KSM_BUSD"
+}, {
+    "symbol": "EGLD_BUSD"
+}, {
+    "symbol": "DIA_BUSD"
+}, {
+    "symbol": "BEL_BUSD"
+}, {
+    "symbol": "SWRV_BUSD"
+}, {
+    "symbol": "WING_BUSD"
+}, {
+    "symbol": "CREAM_BUSD"
+}, {
+    "symbol": "UNI_BUSD"
+}, {
+    "symbol": "AVAX_BUSD"
+}, {
+    "symbol": "FLM_BUSD"
+}, {
+    "symbol": "CAKE_BUSD"
+}, {
+    "symbol": "XVS_BUSD"
+}, {
+    "symbol": "ALPHA_BUSD"
+}, {
+    "symbol": "VIDT_BUSD"
+}, {
+    "symbol": "AAVE_BUSD"
+}, {
+    "symbol": "NEAR_BUSD"
+}, {
+    "symbol": "FIL_BUSD"
+}, {
+    "symbol": "INJ_BUSD"
+}, {
+    "symbol": "AERGO_BUSD"
+}, {
+    "symbol": "ONE_BUSD"
+}, {
+    "symbol": "AUDIO_BUSD"
+}, {
+    "symbol": "CTK_BUSD"
+}, {
+    "symbol": "BOT_BUSD"
+}, {
+    "symbol": "KP3R_BUSD"
+}, {
+    "symbol": "AXS_BUSD"
+}, {
+    "symbol": "HARD_BUSD"
+}, {
+    "symbol": "DNT_BUSD"
+}, {
+    "symbol": "CVP_BUSD"
+}, {
+    "symbol": "STRAX_BUSD"
+}, {
+    "symbol": "FOR_BUSD"
+}, {
+    "symbol": "UNFI_BUSD"
+}, {
+    "symbol": "FRONT_BUSD"
+}, {
+    "symbol": "BCHA_BUSD"
+}, {
+    "symbol": "ROSE_BUSD"
+}, {
+    "symbol": "BUSD_BRL"
+}, {
+    "symbol": "SYS_BUSD"
+}, {
+    "symbol": "HEGIC_BUSD"
+}, {
+    "symbol": "PROM_BUSD"
+}, {
+    "symbol": "SKL_BUSD"
+}, {
+    "symbol": "COVER_BUSD"
+}, {
+    "symbol": "GHST_BUSD"
+}, {
+    "symbol": "DF_BUSD"
+}, {
+    "symbol": "JUV_BUSD"
+}, {
+    "symbol": "PSG_BUSD"
+}, {
+    "symbol": "BUSD_BVND"
+}, {
+    "symbol": "BTCST_BUSD"
+}, {
+    "symbol": "TRU_BUSD"
+}, {
+    "symbol": "DEXE_BUSD"
+}, {
+    "symbol": "USDC_BUSD"
+}, {
+    "symbol": "TUSD_BUSD"
+}, {
+    "symbol": "PAX_BUSD"
+}, {
+    "symbol": "CKB_BUSD"
+},{
+    "symbol": "TWT_BUSD"
+}, {
+    "symbol": "LIT_BUSD"
+}, {
+    "symbol": "BUSD_VAI"
+}, {
+    "symbol": "SFP_BUSD"
+}, {
+    "symbol": "FXS_BUSD"
+}, {
+    "symbol": "DODO_BUSD"
+}, {
+    "symbol": "BAKE_BUSD"
+}, {
+    "symbol": "UFT_BUSD"
+}, {
+    "symbol": "1INCH_BUSD"
+}, {
+    "symbol": "BAND_BUSD"
+}, {
+    "symbol": "GRT_BUSD"
+}, {
+    "symbol": "IOST_BUSD"
+}, {
+    "symbol": "OMG_BUSD"
+}, {
+    "symbol": "REEF_BUSD"
+}, {
+    "symbol": "ACM_BUSD"
+}, {
+    "symbol": "AUCTION_BUSD"
+}, {
+    "symbol": "PHA_BUSD"
+}, {
+    "symbol": "TVK_BUSD"
+}, {
+    "symbol": "BADGER_BUSD"
+}, {
+    "symbol": "FIS_BUSD"
+}, {
+    "symbol": "OM_BUSD"
+}, {
+    "symbol": "POND_BUSD"
+}, {
+    "symbol": "DEGO_BUSD"
+}, {
+    "symbol": "ALICE_BUSD"
+}, {
+    "symbol": "CHZ_BUSD"
+}, {
+    "symbol": "BIFI_BUSD"
+}, {
+    "symbol": "LINA_BUSD"
+}, {
+    "symbol": "PERP_BUSD"
+}, {
+    "symbol": "RAMP_BUSD"
+}, {
+    "symbol": "SUPER_BUSD"
+}, {
+    "symbol": "CFX_BUSD"
+}, {
+    "symbol": "XVG_BUSD"
+}, {
+    "symbol": "EPS_BUSD"
+}, {
+    "symbol": "AUTO_BUSD"
+}, {
+    "symbol": "TKO_BUSD"
+}, {
+    "symbol": "TLM_BUSD"
+}, {
+    "symbol": "BTG_BUSD"
+}, {
+    "symbol": "HOT_BUSD"
+}, {
+    "symbol": "MIR_BUSD"
+}, {
+    "symbol": "BAR_BUSD"
+}, {
+    "symbol": "FORTH_BUSD"
+}, {
+    "symbol": "BURGER_BUSD"
+}, {
+    "symbol": "SLP_BUSD"
+}, {
+    "symbol": "SHIB_BUSD"
+}, {
+    "symbol": "ICP_BUSD"
+}, {
+    "symbol": "AR_BUSD"
+}, {
+    "symbol": "POLS_BUSD"
+}, {
+    "symbol": "MDX_BUSD"
+}, {
+    "symbol": "MASK_BUSD"
+}, {
+    "symbol": "LPT_BUSD"
+}, {
+    "symbol": "NU_BUSD"
+}, {
+    "symbol": "RLC_BUSD"
+}, {
+    "symbol": "CELR_BUSD"
+}, {
+    "symbol": "ATM_BUSD"
+}, {
+    "symbol": "ZEN_BUSD"
+}, {
+    "symbol": "FTM_BUSD"
+}, {
+    "symbol": "THETA_BUSD"
+}, {
+    "symbol": "WIN_BUSD"
+}, {
+    "symbol": "KAVA_BUSD"
+}, {
+    "symbol": "XEM_BUSD"
+}, {
+    "symbol": "ATA_BUSD"
+}, {
+    "symbol": "GTC_BUSD"
+}, {
+    "symbol": "TORN_BUSD"
+}, {
+    "symbol": "COTI_BUSD"
+}, {
+    "symbol": "KEEP_BUSD"
+}, {
+    "symbol": "SC_BUSD"
+}, {
+    "symbol": "CHR_BUSD"
+}, {
+    "symbol": "STMX_BUSD"
+}, {
+    "symbol": "HNT_BUSD"
+}, {
+    "symbol": "FTT_BUSD"
+}, {
+    "symbol": "DOCK_BUSD"
+}, {
+    "symbol": "ERN_BUSD"
+}, {
+    "symbol": "KLAY_BUSD"
+}, {
+    "symbol": "UTK_BUSD"
+}, {
+    "symbol": "IOTX_BUSD"
+}, {
+    "symbol": "BUSD_UAH"
+}, {
+    "symbol": "BOND_BUSD"
+}, {
+    "symbol": "MLN_BUSD"
+}, {
+    "symbol": "LTO_BUSD"
+}, {
+    "symbol": "ADX_BUSD"
+}, {
+    "symbol": "QUICK_BUSD"
+}, {
+    "symbol": "C98_BUSD"
+}, {
+    "symbol": "CLV_BUSD"
+}, {
+    "symbol": "QNT_BUSD"
+}, {
+    "symbol": "FLOW_BUSD"
+}, {
+    "symbol": "XEC_BUSD"
+}, {
+    "symbol": "MINA_BUSD"
+}, {
+    "symbol": "RAY_BUSD"
+}, {
+    "symbol": "FARM_BUSD"
+}, {
+    "symbol": "ALPACA_BUSD"
+}, {
+    "symbol": "ORN_BUSD"
+}, {
+    "symbol": "MBOX_BUSD"
+}, {
+    "symbol": "WAXP_BUSD"
+}, {
+    "symbol": "TRIBE_BUSD"
+}, {
+    "symbol": "GNO_BUSD"
+}, {
+    "symbol": "MTL_BUSD"
+}, {
+    "symbol": "OGN_BUSD"
+}, {
+    "symbol": "POLY_BUSD"
+}, {
+    "symbol": "DYDX_BUSD"
+}, {
+    "symbol": "ELF_BUSD"
+}, {
+    "symbol": "USDP_BUSD"
+}, {
+    "symbol": "GALA_BUSD"
+}, {
+    "symbol": "SUN_BUSD"
+}, {
+    "symbol": "ILV_BUSD"
+}, {
+    "symbol": "REN_BUSD"
+}, {
+    "symbol": "YGG_BUSD"
+}, {
+    "symbol": "STX_BUSD"
+}, {
+    "symbol": "FET_BUSD"
+}, {
+    "symbol": "ARPA_BUSD"
+}, {
+    "symbol": "LSK_BUSD"
+}, {
+    "symbol": "FIDA_BUSD"
+}, {
+    "symbol": "DENT_BUSD"
+}, {
+    "symbol": "AGLD_BUSD"
+}, {
+    "symbol": "RAD_BUSD"
+}, {
+    "symbol": "HIVE_BUSD"
+}, {
+    "symbol": "STPT_BUSD"
+}, {
+    "symbol": "BETA_BUSD"
+}, {
+    "symbol": "RARE_BUSD"
+}, {
+    "symbol": "TROY_BUSD"
+}, {
+    "symbol": "CHESS_BUSD"
+}, {
+    "symbol": "SCRT_BUSD"
+}, {
+    "symbol": "CELO_BUSD"
+}, {
+    "symbol": "DAR_BUSD"
+}, {
+    "symbol": "BNX_BUSD"
+}, {
+    "symbol": "RGT_BUSD"
+}, {
+    "symbol": "LAZIO_BUSD"
+}, {
+    "symbol": "OXT_BUSD"
+}, {
+    "symbol": "MOVR_BUSD"
+}, {
+    "symbol": "CITY_BUSD"
+}, {
+    "symbol": "ENS_BUSD"
+}, {
+    "symbol": "ANKR_BUSD"
+}, {
+    "symbol": "QI_BUSD"
+}, {
+    "symbol": "POWR_BUSD"
+}, {
+    "symbol": "JASMY_BUSD"
+}, {
+    "symbol": "AMP_BUSD"
+}, {
+    "symbol": "PLA_BUSD"
+}, {
+    "symbol": "PYR_BUSD"
+}, {
+    "symbol": "RNDR_BUSD"
+}, {
+    "symbol": "ALCX_BUSD"
+}, {
+    "symbol": "MC_BUSD"
+}, {
+    "symbol": "COCOS_BUSD"
+}, {
+    "symbol": "ANY_BUSD"
+}, {
+    "symbol": "BICO_BUSD"
+}, {
+    "symbol": "FLUX_BUSD"
+}, {
+    "symbol": "REQ_BUSD"
+}, {
+    "symbol": "VOXEL_BUSD"
+}, {
+    "symbol": "COS_BUSD"
+}, {
+    "symbol": "CTXC_BUSD"
+}, {
+    "symbol": "HIGH_BUSD"
+}, {
+    "symbol": "CVX_BUSD"
+}, {
+    "symbol": "PEOPLE_BUSD"
+}, {
+    "symbol": "OOKI_BUSD"
+}, {
+    "symbol": "MDT_BUSD"
+}, {
+    "symbol": "NULS_BUSD"
+}, {
+    "symbol": "SPELL_BUSD"
+}, {
+    "symbol": "UST_BUSD"
+}, {
+    "symbol": "JOE_BUSD"
+}, {
+    "symbol": "DUSK_BUSD"
+}, {
+    "symbol": "ACH_BUSD"
+}, {
+    "symbol": "IMX_BUSD"
+}, {
+    "symbol": "GLMR_BUSD"
+}, {
+    "symbol": "UMA_BUSD"
+}, {
+    "symbol": "LOKA_BUSD"
+}, {
+    "symbol": "API3_BUSD"
+}, {
+    "symbol": "ACA_BUSD"
+}, {
+    "symbol": "ANC_BUSD"
+}, {
+    "symbol": "XNO_BUSD"
+}, {
+    "symbol": "WOO_BUSD"
+}, {
+    "symbol": "TFUEL_BUSD"
+}, {
+    "symbol": "T_BUSD"
+}, {
+    "symbol": "ASTR_BUSD"
+}, {
+    "symbol": "GMT_BUSD"
+}, {
+    "symbol": "KDA_BUSD"
+}, {
+    "symbol": "APE_BUSD"
+}, {
+    "symbol": "ALPINE_BUSD"
+}, {
+    "symbol": "BSW_BUSD"
+}, {
+    "symbol": "SANTOS_BUSD"
+}, {
+    "symbol": "MULTI_BUSD"
+}, {
+    "symbol": "PORTO_BUSD"
+}, {
+    "symbol": "BTTC_BUSD"
+}, {
+    "symbol": "MBL_BUSD"
+},{
+    "symbol": "MOB_BUSD"
+}, {
+    "symbol": "NEXO_BUSD"
+}, {
+    "symbol": "GAL_BUSD"
+}, {
+    "symbol": "LDO_BUSD"
+}, {
+    "symbol": "EPX_BUSD"
+}, {
+    "symbol": "STEEM_BUSD"
+}, {
+    "symbol": "CVC_BUSD"
+}, {
+    "symbol": "REI_BUSD"
+}, {
+    "symbol": "DREP_BUSD"
+}, {
+    "symbol": "AKRO_BUSD"
+}, {
+    "symbol": "PUNDIX_BUSD"
+}, {
+    "symbol": "LUNC_BUSD"
+}, {
+    "symbol": "USTC_BUSD"
+}, {
+    "symbol": "OP_BUSD"
+}, {
+    "symbol": "OG_BUSD"
+}, {
+    "symbol": "KEY_BUSD"
+}, {
+    "symbol": "ASR_BUSD"
+}, {
+    "symbol": "FIRO_BUSD"
+}, {
+    "symbol": "NKN_BUSD"
+}, {
+    "symbol": "GTO_BUSD"
+}, {
+    "symbol": "WBTC_BUSD"
+}, {
+    "symbol": "LEVER_BUSD"
+}, {
+    "symbol": "GLM_BUSD"
+}, {
+    "symbol": "SSV_BUSD"
+}, {
+    "symbol": "STG_BUSD"
+}, {
+    "symbol": "ARK_BUSD"
+}, {
+    "symbol": "BETH_BUSD"
+}, {
+    "symbol": "LOOM_BUSD"
+}, {
+    "symbol": "SNM_BUSD"
+}, {
+    "symbol": "AMB_BUSD"
+}, {
+    "symbol": "PHB_BUSD"
+}, {
+    "symbol": "GAS_BUSD"
+}, {
+    "symbol": "NEBL_BUSD"
+}, {
+    "symbol": "PROS_BUSD"
+}, {
+    "symbol": "VIB_BUSD"
+}, {
+    "symbol": "GMX_BUSD"
+}, {
+    "symbol": "AGIX_BUSD"
+}, {
+    "symbol": "SNT_BUSD"
+}, {
+    "symbol": "POLYX_BUSD"
+}, {
+    "symbol": "APT_BUSD"
+}, {
+    "symbol": "BUSD_PLN"
+}, {
+    "symbol": "QKC_BUSD"
+}, {
+    "symbol": "OSMO_BUSD"
+}, {
+    "symbol": "HFT_BUSD"
+}, {
+    "symbol": "VITE_BUSD"
+}, {
+    "symbol": "HOOK_BUSD"
+}, {
+    "symbol": "MAGIC_BUSD"
+}, {
+    "symbol": "BUSD_RON"
+}, {
+    "symbol": "RPL_BUSD"
+}]

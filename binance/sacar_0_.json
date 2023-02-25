@@ -1,0 +1,5525 @@
+[{
+    "symbol": "BNB_BUSD",
+    "bidPrice": "331.70000000",
+    "askPrice": "331.80000000"
+}, {
+    "symbol": "BTC_BUSD",
+    "bidPrice": "23219.66000000",
+    "askPrice": "23221.00000000"
+}, {
+    "symbol": "BUSD_USDT",
+    "bidPrice": "0.99990000",
+    "askPrice": "1.00000000"
+}, {
+    "symbol": "XRP_BUSD",
+    "bidPrice": "0.40120000",
+    "askPrice": "0.40130000"
+}, {
+    "symbol": "ETH_BUSD",
+    "bidPrice": "1675.41000000",
+    "askPrice": "1675.42000000"
+}, {
+    "symbol": "LTC_BUSD",
+    "bidPrice": "101.34000000",
+    "askPrice": "101.35000000"
+}, {
+    "symbol": "LINK_BUSD",
+    "bidPrice": "7.19800000",
+    "askPrice": "7.19900000"
+}, {
+    "symbol": "ETC_BUSD",
+    "bidPrice": "22.93000000",
+    "askPrice": "22.95000000"
+}, {
+    "symbol": "BUSD_NGN",
+    "bidPrice": "460.49000000",
+    "askPrice": "476.85000000"
+}, {
+    "symbol": "TRX_BUSD",
+    "bidPrice": "0.06597000",
+    "askPrice": "0.06598000"
+}, {
+    "symbol": "EOS_BUSD",
+    "bidPrice": "1.10500000",
+    "askPrice": "1.10700000"
+}, {
+    "symbol": "XLM_BUSD",
+    "bidPrice": "0.09190000",
+    "askPrice": "0.09200000"
+}, {
+    "symbol": "ADA_BUSD",
+    "bidPrice": "0.39770000",
+    "askPrice": "0.39780000"
+}, {
+    "symbol": "BCH_BUSD",
+    "bidPrice": "134.70000000",
+    "askPrice": "134.80000000"
+}, {
+    "symbol": "BUSD_RUB",
+    "bidPrice": "71.28000000",
+    "askPrice": "71.33000000"
+}, {
+    "symbol": "QTUM_BUSD",
+    "bidPrice": "2.96800000",
+    "askPrice": "2.97100000"
+}, {
+    "symbol": "VET_BUSD",
+    "bidPrice": "0.02619000",
+    "askPrice": "0.02620000"
+}, {
+    "symbol": "BUSD_TRY",
+    "bidPrice": "19.06000000",
+    "askPrice": "19.07000000"
+}, {
+    "symbol": "EUR_BUSD",
+    "bidPrice": "1.07330000",
+    "askPrice": "1.07340000"
+}, {
+    "symbol": "ICX_BUSD",
+    "bidPrice": "0.23450000",
+    "askPrice": "0.23480000"
+}, {
+    "symbol": "BNT_BUSD",
+    "bidPrice": "0.47800000",
+    "askPrice": "0.48200000"
+}, {
+    "symbol": "ATOM_BUSD",
+    "bidPrice": "14.88100000",
+    "askPrice": "14.88200000"
+}, {
+    "symbol": "DASH_BUSD",
+    "bidPrice": "65.47000000",
+    "askPrice": "65.52000000"
+}, {
+    "symbol": "NEO_BUSD",
+    "bidPrice": "9.13000000",
+    "askPrice": "9.14000000"
+}, {
+    "symbol": "WAVES_BUSD",
+    "bidPrice": "2.80100000",
+    "askPrice": "2.80200000"
+}, {
+    "symbol": "XTZ_BUSD",
+    "bidPrice": "1.23300000",
+    "askPrice": "1.23500000"
+}, {
+    "symbol": "BAT_BUSD",
+    "bidPrice": "0.30970000",
+    "askPrice": "0.31010000"
+}, {
+    "symbol": "ENJ_BUSD",
+    "bidPrice": "0.51530000",
+    "askPrice": "0.51560000"
+}, {
+    "symbol": "ONT_BUSD",
+    "bidPrice": "0.24200000",
+    "askPrice": "0.24220000"
+}, {
+    "symbol": "RVN_BUSD",
+    "bidPrice": "0.03214000",
+    "askPrice": "0.03218000"
+}, {
+    "symbol": "ALGO_BUSD",
+    "bidPrice": "0.27930000",
+    "askPrice": "0.27940000"
+}, {
+    "symbol": "TOMO_BUSD",
+    "bidPrice": "0.45880000",
+    "askPrice": "0.45980000"
+}, {
+    "symbol": "XMR_BUSD",
+    "bidPrice": "167.10000000",
+    "askPrice": "167.20000000"
+}, {
+    "symbol": "ZEC_BUSD",
+    "bidPrice": "46.30000000",
+    "askPrice": "46.40000000"
+}, {
+    "symbol": "BUSD_ZAR",
+    "bidPrice": "17.71000000",
+    "askPrice": "17.74000000"
+}, {
+    "symbol": "DATA_BUSD",
+    "bidPrice": "0.04518000",
+    "askPrice": "0.04520000"
+}, {
+    "symbol": "SOL_BUSD",
+    "bidPrice": "23.66000000",
+    "askPrice": "23.67000000"
+}, {
+    "symbol": "BUSD_IDRT",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "CTSI_BUSD",
+    "bidPrice": "0.17300000",
+    "askPrice": "0.17320000"
+}, {
+    "symbol": "HBAR_BUSD",
+    "bidPrice": "0.07480000",
+    "askPrice": "0.07490000"
+}, {
+    "symbol": "MATIC_BUSD",
+    "bidPrice": "1.27780000",
+    "askPrice": "1.27790000"
+}, {
+    "symbol": "WRX_BUSD",
+    "bidPrice": "0.19320000",
+    "askPrice": "0.19360000"
+}, {
+    "symbol": "ZIL_BUSD",
+    "bidPrice": "0.03069000",
+    "askPrice": "0.03072000"
+}, {
+    "symbol": "KNC_BUSD",
+    "bidPrice": "0.92100000",
+    "askPrice": "0.92200000"
+}, {
+    "symbol": "LRC_BUSD",
+    "bidPrice": "0.38890000",
+    "askPrice": "0.38930000"
+}, {
+    "symbol": "IQ_BUSD",
+    "bidPrice": "0.00664000",
+    "askPrice": "0.00666000"
+}, {
+    "symbol": "GBP_BUSD",
+    "bidPrice": "1.20500000",
+    "askPrice": "1.20600000"
+}, {
+    "symbol": "DGB_BUSD",
+    "bidPrice": "0.01141000",
+    "askPrice": "0.01142000"
+}, {
+    "symbol": "COMP_BUSD",
+    "bidPrice": "57.84000000",
+    "askPrice": "57.94000000"
+}, {
+    "symbol": "BUSD_BIDR",
+    "bidPrice": "15140.00",
+    "askPrice": "15141.00"
+}, {
+    "symbol": "SXP_BUSD",
+    "bidPrice": "0.32520000",
+    "askPrice": "0.32550000"
+}, {
+    "symbol": "SNX_BUSD",
+    "bidPrice": "2.95600000",
+    "askPrice": "2.95700000"
+}, {
+    "symbol": "STORJ_BUSD",
+    "bidPrice": "0.48370000",
+    "askPrice": "0.48380000"
+}, {
+    "symbol": "MKR_BUSD",
+    "bidPrice": "810.00000000",
+    "askPrice": "811.00000000"
+}, {
+    "symbol": "RUNE_BUSD",
+    "bidPrice": "1.93300000",
+    "askPrice": "1.93500000"
+}, {
+    "symbol": "MANA_BUSD",
+    "bidPrice": "0.79120000",
+    "askPrice": "0.79130000"
+}, {
+    "symbol": "DOGE_BUSD",
+    "bidPrice": "0.09210000",
+    "askPrice": "0.09211000"
+}, {
+    "symbol": "ZRX_BUSD",
+    "bidPrice": "0.25770000",
+    "askPrice": "0.25800000"
+}, {
+    "symbol": "AUD_BUSD",
+    "bidPrice": "0.69730000",
+    "askPrice": "0.69740000"
+}, {
+    "symbol": "FIO_BUSD",
+    "bidPrice": "0.03960000",
+    "askPrice": "0.03980000"
+}, {
+    "symbol": "AVA_BUSD",
+    "bidPrice": "0.73000000",
+    "askPrice": "0.73200000"
+}, {
+    "symbol": "IOTA_BUSD",
+    "bidPrice": "0.25200000",
+    "askPrice": "0.25220000"
+}, {
+    "symbol": "BAL_BUSD",
+    "bidPrice": "7.08100000",
+    "askPrice": "7.09700000"
+}, {
+    "symbol": "YFI_BUSD",
+    "bidPrice": "7806.00000000",
+    "askPrice": "7812.00000000"
+}, {
+    "symbol": "BLZ_BUSD",
+    "bidPrice": "0.11750000",
+    "askPrice": "0.11760000"
+}, {
+    "symbol": "BUSD_DAI",
+    "bidPrice": "1.00000000",
+    "askPrice": "1.00010000"
+}, {
+    "symbol": "JST_BUSD",
+    "bidPrice": "0.02931000",
+    "askPrice": "0.02937000"
+}, {
+    "symbol": "SRM_BUSD",
+    "bidPrice": "0.38834000",
+    "askPrice": "0.38889000"
+}, {
+    "symbol": "ANT_BUSD",
+    "bidPrice": "3.06700000",
+    "askPrice": "3.07000000"
+}, {
+    "symbol": "CRV_BUSD",
+    "bidPrice": "1.10400000",
+    "askPrice": "1.10500000"
+}, {
+    "symbol": "SAND_BUSD",
+    "bidPrice": "0.89530000",
+    "askPrice": "0.89540000"
+}, {
+    "symbol": "OCEAN_BUSD",
+    "bidPrice": "0.52480000",
+    "askPrice": "0.52530000"
+}, {
+    "symbol": "NMR_BUSD",
+    "bidPrice": "24.00000000",
+    "askPrice": "24.04000000"
+}, {
+    "symbol": "DOT_BUSD",
+    "bidPrice": "6.88100000",
+    "askPrice": "6.88200000"
+}, {
+    "symbol": "LUNA_BUSD",
+    "bidPrice": "2.11890000",
+    "askPrice": "2.12040000"
+}, {
+    "symbol": "IDEX_BUSD",
+    "bidPrice": "0.05742000",
+    "askPrice": "0.05748000"
+}, {
+    "symbol": "RSR_BUSD",
+    "bidPrice": "0.00472200",
+    "askPrice": "0.00472300"
+}, {
+    "symbol": "PAXG_BUSD",
+    "bidPrice": "1857.00000000",
+    "askPrice": "1858.00000000"
+}, {
+    "symbol": "TRB_BUSD",
+    "bidPrice": "19.28000000",
+    "askPrice": "19.32000000"
+}, {
+    "symbol": "SUSHI_BUSD",
+    "bidPrice": "1.51700000",
+    "askPrice": "1.51900000"
+}, {
+    "symbol": "KSM_BUSD",
+    "bidPrice": "37.12000000",
+    "askPrice": "37.15000000"
+}, {
+    "symbol": "EGLD_BUSD",
+    "bidPrice": "47.18000000",
+    "askPrice": "47.20000000"
+}, {
+    "symbol": "DIA_BUSD",
+    "bidPrice": "0.41500000",
+    "askPrice": "0.41700000"
+}, {
+    "symbol": "BEL_BUSD",
+    "bidPrice": "0.65300000",
+    "askPrice": "0.65400000"
+}, {
+    "symbol": "WING_BUSD",
+    "bidPrice": "7.92000000",
+    "askPrice": "7.94000000"
+}, {
+    "symbol": "CREAM_BUSD",
+    "bidPrice": "13.10000000",
+    "askPrice": "13.12000000"
+}, {
+    "symbol": "UNI_BUSD",
+    "bidPrice": "6.96800000",
+    "askPrice": "6.97000000"
+}, {
+    "symbol": "AVAX_BUSD",
+    "bidPrice": "20.63000000",
+    "askPrice": "20.64000000"
+}, {
+    "symbol": "CAKE_BUSD",
+    "bidPrice": "4.56400000",
+    "askPrice": "4.56500000"
+}, {
+    "symbol": "XVS_BUSD",
+    "bidPrice": "6.00000000",
+    "askPrice": "6.01000000"
+}, {
+    "symbol": "ALPHA_BUSD",
+    "bidPrice": "0.14040000",
+    "askPrice": "0.14060000"
+}, {
+    "symbol": "VIDT_BUSD",
+    "bidPrice": "0.05814000",
+    "askPrice": "0.05831000"
+}, {
+    "symbol": "AAVE_BUSD",
+    "bidPrice": "88.50000000",
+    "askPrice": "88.60000000"
+}, {
+    "symbol": "NEAR_BUSD",
+    "bidPrice": "2.54700000",
+    "askPrice": "2.54800000"
+}, {
+    "symbol": "FIL_BUSD",
+    "bidPrice": "5.53500000",
+    "askPrice": "5.53800000"
+}, {
+    "symbol": "INJ_BUSD",
+    "bidPrice": "4.25300000",
+    "askPrice": "4.25600000"
+}, {
+    "symbol": "AERGO_BUSD",
+    "bidPrice": "0.14820000",
+    "askPrice": "0.14870000"
+}, {
+    "symbol": "ONE_BUSD",
+    "bidPrice": "0.02790000",
+    "askPrice": "0.02792000"
+}, {
+    "symbol": "AUDIO_BUSD",
+    "bidPrice": "0.32240000",
+    "askPrice": "0.32250000"
+}, {
+    "symbol": "CTK_BUSD",
+    "bidPrice": "0.87800000",
+    "askPrice": "0.87900000"
+}, {
+    "symbol": "KP3R_BUSD",
+    "bidPrice": "85.80000000",
+    "askPrice": "85.91000000"
+}, {
+    "symbol": "AXS_BUSD",
+    "bidPrice": "11.61000000",
+    "askPrice": "11.62000000"
+}, {
+    "symbol": "HARD_BUSD",
+    "bidPrice": "0.20920000",
+    "askPrice": "0.20960000"
+}, {
+    "symbol": "CVP_BUSD",
+    "bidPrice": "0.45600000",
+    "askPrice": "0.45630000"
+}, {
+    "symbol": "STRAX_BUSD",
+    "bidPrice": "0.59300000",
+    "askPrice": "0.59400000"
+}, {
+    "symbol": "FOR_BUSD",
+    "bidPrice": "0.02275000",
+    "askPrice": "0.02292000"
+}, {
+    "symbol": "UNFI_BUSD",
+    "bidPrice": "6.30500000",
+    "askPrice": "6.31000000"
+}, {
+    "symbol": "FRONT_BUSD",
+    "bidPrice": "0.25040000",
+    "askPrice": "0.25070000"
+}, {
+    "symbol": "ROSE_BUSD",
+    "bidPrice": "0.06707000",
+    "askPrice": "0.06715000"
+}, {
+    "symbol": "BUSD_BRL",
+    "bidPrice": "5.18800000",
+    "askPrice": "5.18900000"
+}, {
+    "symbol": "SYS_BUSD",
+    "bidPrice": "0.17390000",
+    "askPrice": "0.17450000"
+}, {
+    "symbol": "PROM_BUSD",
+    "bidPrice": "5.35000000",
+    "askPrice": "5.37000000"
+}, {
+    "symbol": "SKL_BUSD",
+    "bidPrice": "0.04273000",
+    "askPrice": "0.04279000"
+}, {
+    "symbol": "GHST_BUSD",
+    "bidPrice": "1.12800000",
+    "askPrice": "1.12900000"
+}, {
+    "symbol": "DF_BUSD",
+    "bidPrice": "0.04980000",
+    "askPrice": "0.05000000"
+}, {
+    "symbol": "JUV_BUSD",
+    "bidPrice": "3.12000000",
+    "askPrice": "3.13000000"
+}, {
+    "symbol": "PSG_BUSD",
+    "bidPrice": "6.70000000",
+    "askPrice": "6.71000000"
+}, {
+    "symbol": "BUSD_BVND",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "DEXE_BUSD",
+    "bidPrice": "3.05000000",
+    "askPrice": "3.05600000"
+}, {
+    "symbol": "CKB_BUSD",
+    "bidPrice": "0.00387000",
+    "askPrice": "0.00388000"
+}, {
+    "symbol": "TWT_BUSD",
+    "bidPrice": "1.60020000",
+    "askPrice": "1.60130000"
+}, {
+    "symbol": "LIT_BUSD",
+    "bidPrice": "1.09100000",
+    "askPrice": "1.09200000"
+}, {
+    "symbol": "BUSD_VAI",
+    "bidPrice": "1.02300000",
+    "askPrice": "1.02700000"
+}, {
+    "symbol": "SFP_BUSD",
+    "bidPrice": "0.56930000",
+    "askPrice": "0.56940000"
+}, {
+    "symbol": "FXS_BUSD",
+    "bidPrice": "12.78800000",
+    "askPrice": "12.79900000"
+}, {
+    "symbol": "DODO_BUSD",
+    "bidPrice": "0.16620000",
+    "askPrice": "0.16650000"
+}, {
+    "symbol": "BAKE_BUSD",
+    "bidPrice": "0.24910000",
+    "askPrice": "0.24930000"
+}, {
+    "symbol": "UFT_BUSD",
+    "bidPrice": "0.38280000",
+    "askPrice": "0.38290000"
+}, {
+    "symbol": "1INCH_BUSD",
+    "bidPrice": "0.58400000",
+    "askPrice": "0.58500000"
+}, {
+    "symbol": "BAND_BUSD",
+    "bidPrice": "2.28800000",
+    "askPrice": "2.28900000"
+}, {
+    "symbol": "GRT_BUSD",
+    "bidPrice": "0.19280000",
+    "askPrice": "0.19290000"
+}, {
+    "symbol": "IOST_BUSD",
+    "bidPrice": "0.01137000",
+    "askPrice": "0.01140000"
+}, {
+    "symbol": "OMG_BUSD",
+    "bidPrice": "1.66800000",
+    "askPrice": "1.67000000"
+}, {
+    "symbol": "REEF_BUSD",
+    "bidPrice": "0.00361800",
+    "askPrice": "0.00362200"
+}, {
+    "symbol": "ACM_BUSD",
+    "bidPrice": "2.86300000",
+    "askPrice": "2.86700000"
+}, {
+    "symbol": "AUCTION_BUSD",
+    "bidPrice": "6.20000000",
+    "askPrice": "6.21000000"
+}, {
+    "symbol": "PHA_BUSD",
+    "bidPrice": "0.20360000",
+    "askPrice": "0.20370000"
+}, {
+    "symbol": "TVK_BUSD",
+    "bidPrice": "0.06150000",
+    "askPrice": "0.06160000"
+}, {
+    "symbol": "BADGER_BUSD",
+    "bidPrice": "3.26000000",
+    "askPrice": "3.28000000"
+}, {
+    "symbol": "FIS_BUSD",
+    "bidPrice": "0.81090000",
+    "askPrice": "0.81160000"
+}, {
+    "symbol": "OM_BUSD",
+    "bidPrice": "0.04310000",
+    "askPrice": "0.04320000"
+}, {
+    "symbol": "POND_BUSD",
+    "bidPrice": "0.01152000",
+    "askPrice": "0.01154000"
+}, {
+    "symbol": "DEGO_BUSD",
+    "bidPrice": "2.85600000",
+    "askPrice": "2.85900000"
+}, {
+    "symbol": "ALICE_BUSD",
+    "bidPrice": "2.11900000",
+    "askPrice": "2.12100000"
+}, {
+    "symbol": "CHZ_BUSD",
+    "bidPrice": "0.16610000",
+    "askPrice": "0.16620000"
+}, {
+    "symbol": "BIFI_BUSD",
+    "bidPrice": "512.90000000",
+    "askPrice": "513.60000000"
+}, {
+    "symbol": "LINA_BUSD",
+    "bidPrice": "0.00834700",
+    "askPrice": "0.00835800"
+}, {
+    "symbol": "PERP_BUSD",
+    "bidPrice": "0.69103000",
+    "askPrice": "0.69120000"
+}, {
+    "symbol": "SUPER_BUSD",
+    "bidPrice": "0.14830000",
+    "askPrice": "0.14860000"
+}, {
+    "symbol": "CFX_BUSD",
+    "bidPrice": "0.06940000",
+    "askPrice": "0.06960000"
+}, {
+    "symbol": "XVG_BUSD",
+    "bidPrice": "0.00335000",
+    "askPrice": "0.00336000"
+}, {
+    "symbol": "AUTO_BUSD",
+    "bidPrice": "329.20000000",
+    "askPrice": "329.30000000"
+}, {
+    "symbol": "TKO_BUSD",
+    "bidPrice": "0.36800000",
+    "askPrice": "0.36850000"
+}, {
+    "symbol": "TLM_BUSD",
+    "bidPrice": "0.02474000",
+    "askPrice": "0.02476000"
+}, {
+    "symbol": "HOT_BUSD",
+    "bidPrice": "0.00223900",
+    "askPrice": "0.00224200"
+}, {
+    "symbol": "MIR_BUSD",
+    "bidPrice": "0.17729000",
+    "askPrice": "0.17759000"
+}, {
+    "symbol": "BAR_BUSD",
+    "bidPrice": "4.42000000",
+    "askPrice": "4.43000000"
+}, {
+    "symbol": "FORTH_BUSD",
+    "bidPrice": "4.05000000",
+    "askPrice": "4.06000000"
+}, {
+    "symbol": "BURGER_BUSD",
+    "bidPrice": "0.73700000",
+    "askPrice": "0.73800000"
+}, {
+    "symbol": "SLP_BUSD",
+    "bidPrice": "0.00340600",
+    "askPrice": "0.00340700"
+}, {
+    "symbol": "SHIB_BUSD",
+    "bidPrice": "0.00001421",
+    "askPrice": "0.00001422"
+}, {
+    "symbol": "ICP_BUSD",
+    "bidPrice": "5.81900000",
+    "askPrice": "5.82500000"
+}, {
+    "symbol": "AR_BUSD",
+    "bidPrice": "12.77000000",
+    "askPrice": "12.78000000"
+}, {
+    "symbol": "POLS_BUSD",
+    "bidPrice": "0.47700000",
+    "askPrice": "0.47900000"
+}, {
+    "symbol": "MDX_BUSD",
+    "bidPrice": "0.10020000",
+    "askPrice": "0.10040000"
+}, {
+    "symbol": "MASK_BUSD",
+    "bidPrice": "4.69300000",
+    "askPrice": "4.69600000"
+}, {
+    "symbol": "LPT_BUSD",
+    "bidPrice": "10.19000000",
+    "askPrice": "10.21000000"
+}, {
+    "symbol": "CELR_BUSD",
+    "bidPrice": "0.01927000",
+    "askPrice": "0.01931000"
+}, {
+    "symbol": "ATM_BUSD",
+    "bidPrice": "3.38000000",
+    "askPrice": "3.39000000"
+}, {
+    "symbol": "ZEN_BUSD",
+    "bidPrice": "11.75000000",
+    "askPrice": "11.77000000"
+}, {
+    "symbol": "FTM_BUSD",
+    "bidPrice": "0.57600000",
+    "askPrice": "0.57610000"
+}, {
+    "symbol": "THETA_BUSD",
+    "bidPrice": "1.18400000",
+    "askPrice": "1.18500000"
+}, {
+    "symbol": "WIN_BUSD",
+    "bidPrice": "0.00009920",
+    "askPrice": "0.00009940"
+}, {
+    "symbol": "KAVA_BUSD",
+    "bidPrice": "1.03000000",
+    "askPrice": "1.03200000"
+}, {
+    "symbol": "ATA_BUSD",
+    "bidPrice": "0.18220000",
+    "askPrice": "0.18240000"
+}, {
+    "symbol": "GTC_BUSD",
+    "bidPrice": "2.16600000",
+    "askPrice": "2.17000000"
+}, {
+    "symbol": "TORN_BUSD",
+    "bidPrice": "7.36000000",
+    "askPrice": "7.37000000"
+}, {
+    "symbol": "COTI_BUSD",
+    "bidPrice": "0.10370000",
+    "askPrice": "0.10380000"
+}, {
+    "symbol": "SC_BUSD",
+    "bidPrice": "0.00557000",
+    "askPrice": "0.00558000"
+}, {
+    "symbol": "CHR_BUSD",
+    "bidPrice": "0.19950000",
+    "askPrice": "0.19970000"
+}, {
+    "symbol": "STMX_BUSD",
+    "bidPrice": "0.00673000",
+    "askPrice": "0.00674300"
+}, {
+    "symbol": "HNT_BUSD",
+    "bidPrice": "3.01600000",
+    "askPrice": "3.01900000"
+}, {
+    "symbol": "FTT_BUSD",
+    "bidPrice": "2.02730000",
+    "askPrice": "2.03030000"
+}, {
+    "symbol": "DOCK_BUSD",
+    "bidPrice": "0.02492000",
+    "askPrice": "0.02495000"
+}, {
+    "symbol": "ERN_BUSD",
+    "bidPrice": "2.41500000",
+    "askPrice": "2.41900000"
+}, {
+    "symbol": "KLAY_BUSD",
+    "bidPrice": "0.21550000",
+    "askPrice": "0.21580000"
+}, {
+    "symbol": "UTK_BUSD",
+    "bidPrice": "0.11110000",
+    "askPrice": "0.11140000"
+}, {
+    "symbol": "IOTX_BUSD",
+    "bidPrice": "0.03385000",
+    "askPrice": "0.03387000"
+}, {
+    "symbol": "BUSD_UAH",
+    "bidPrice": "39.65000000",
+    "askPrice": "39.66000000"
+}, {
+    "symbol": "BOND_BUSD",
+    "bidPrice": "4.72600000",
+    "askPrice": "4.73500000"
+}, {
+    "symbol": "MLN_BUSD",
+    "bidPrice": "25.80000000",
+    "askPrice": "25.87000000"
+}, {
+    "symbol": "LTO_BUSD",
+    "bidPrice": "0.10340000",
+    "askPrice": "0.10360000"
+}, {
+    "symbol": "ADX_BUSD",
+    "bidPrice": "0.19600000",
+    "askPrice": "0.19620000"
+}, {
+    "symbol": "QUICK_BUSD",
+    "bidPrice": "58.50000000",
+    "askPrice": "58.60000000"
+}, {
+    "symbol": "C98_BUSD",
+    "bidPrice": "0.28630000",
+    "askPrice": "0.28670000"
+}, {
+    "symbol": "CLV_BUSD",
+    "bidPrice": "0.07975000",
+    "askPrice": "0.07990000"
+}, {
+    "symbol": "QNT_BUSD",
+    "bidPrice": "140.90000000",
+    "askPrice": "141.00000000"
+}, {
+    "symbol": "FLOW_BUSD",
+    "bidPrice": "1.24400000",
+    "askPrice": "1.24500000"
+}, {
+    "symbol": "XEC_BUSD",
+    "bidPrice": "0.00003789",
+    "askPrice": "0.00003793"
+}, {
+    "symbol": "MINA_BUSD",
+    "bidPrice": "0.85100000",
+    "askPrice": "0.85300000"
+}, {
+    "symbol": "RAY_BUSD",
+    "bidPrice": "0.31420000",
+    "askPrice": "0.31480000"
+}, {
+    "symbol": "FARM_BUSD",
+    "bidPrice": "40.00000000",
+    "askPrice": "40.10000000"
+}, {
+    "symbol": "ALPACA_BUSD",
+    "bidPrice": "0.29500000",
+    "askPrice": "0.29510000"
+}, {
+    "symbol": "ORN_BUSD",
+    "bidPrice": "1.01700000",
+    "askPrice": "1.02000000"
+}, {
+    "symbol": "MBOX_BUSD",
+    "bidPrice": "0.60000000",
+    "askPrice": "0.60100000"
+}, {
+    "symbol": "WAXP_BUSD",
+    "bidPrice": "0.08090000",
+    "askPrice": "0.08100000"
+}, {
+    "symbol": "MTL_BUSD",
+    "bidPrice": "1.13600000",
+    "askPrice": "1.13700000"
+}, {
+    "symbol": "OGN_BUSD",
+    "bidPrice": "0.14720000",
+    "askPrice": "0.14730000"
+}, {
+    "symbol": "DYDX_BUSD",
+    "bidPrice": "3.09600000",
+    "askPrice": "3.09800000"
+}, {
+    "symbol": "ELF_BUSD",
+    "bidPrice": "0.20510000",
+    "askPrice": "0.20530000"
+}, {
+    "symbol": "GALA_BUSD",
+    "bidPrice": "0.05498000",
+    "askPrice": "0.05499000"
+}, {
+    "symbol": "SUN_BUSD",
+    "bidPrice": "0.00647000",
+    "askPrice": "0.00649000"
+}, {
+    "symbol": "ILV_BUSD",
+    "bidPrice": "96.74000000",
+    "askPrice": "96.75000000"
+}, {
+    "symbol": "REN_BUSD",
+    "bidPrice": "0.10681300",
+    "askPrice": "0.10688900"
+}, {
+    "symbol": "YGG_BUSD",
+    "bidPrice": "0.34140000",
+    "askPrice": "0.34200000"
+}, {
+    "symbol": "STX_BUSD",
+    "bidPrice": "0.31600000",
+    "askPrice": "0.31700000"
+}, {
+    "symbol": "FET_BUSD",
+    "bidPrice": "0.53530000",
+    "askPrice": "0.53570000"
+}, {
+    "symbol": "ARPA_BUSD",
+    "bidPrice": "0.04595000",
+    "askPrice": "0.04600000"
+}, {
+    "symbol": "LSK_BUSD",
+    "bidPrice": "1.13100000",
+    "askPrice": "1.13400000"
+}, {
+    "symbol": "FIDA_BUSD",
+    "bidPrice": "0.45650000",
+    "askPrice": "0.45690000"
+}, {
+    "symbol": "DENT_BUSD",
+    "bidPrice": "0.00105100",
+    "askPrice": "0.00105200"
+}, {
+    "symbol": "AGLD_BUSD",
+    "bidPrice": "0.54100000",
+    "askPrice": "0.54200000"
+}, {
+    "symbol": "RAD_BUSD",
+    "bidPrice": "2.11100000",
+    "askPrice": "2.11600000"
+}, {
+    "symbol": "HIVE_BUSD",
+    "bidPrice": "0.45390000",
+    "askPrice": "0.45460000"
+}, {
+    "symbol": "STPT_BUSD",
+    "bidPrice": "0.04569000",
+    "askPrice": "0.04576000"
+}, {
+    "symbol": "BETA_BUSD",
+    "bidPrice": "0.10702000",
+    "askPrice": "0.10722000"
+}, {
+    "symbol": "RARE_BUSD",
+    "bidPrice": "0.17010000",
+    "askPrice": "0.17070000"
+}, {
+    "symbol": "TROY_BUSD",
+    "bidPrice": "0.00335600",
+    "askPrice": "0.00336000"
+}, {
+    "symbol": "CHESS_BUSD",
+    "bidPrice": "0.27800000",
+    "askPrice": "0.27870000"
+}, {
+    "symbol": "SCRT_BUSD",
+    "bidPrice": "0.84100000",
+    "askPrice": "0.84300000"
+}, {
+    "symbol": "CELO_BUSD",
+    "bidPrice": "0.80600000",
+    "askPrice": "0.80700000"
+}, {
+    "symbol": "DAR_BUSD",
+    "bidPrice": "0.25224000",
+    "askPrice": "0.25244000"
+}, {
+    "symbol": "BNX_BUSD",
+    "bidPrice": "101.00000000",
+    "askPrice": "101.10000000"
+}, {
+    "symbol": "LAZIO_BUSD",
+    "bidPrice": "3.57640000",
+    "askPrice": "3.58210000"
+}, {
+    "symbol": "OXT_BUSD",
+    "bidPrice": "0.10020000",
+    "askPrice": "0.10040000"
+}, {
+    "symbol": "MOVR_BUSD",
+    "bidPrice": "9.75000000",
+    "askPrice": "9.77000000"
+}, {
+    "symbol": "CITY_BUSD",
+    "bidPrice": "4.50000000",
+    "askPrice": "4.51000000"
+}, {
+    "symbol": "ENS_BUSD",
+    "bidPrice": "15.90000000",
+    "askPrice": "15.92000000"
+}, {
+    "symbol": "ANKR_BUSD",
+    "bidPrice": "0.03241000",
+    "askPrice": "0.03245000"
+}, {
+    "symbol": "QI_BUSD",
+    "bidPrice": "0.01030000",
+    "askPrice": "0.01031000"
+}, {
+    "symbol": "POWR_BUSD",
+    "bidPrice": "0.20650000",
+    "askPrice": "0.20690000"
+}, {
+    "symbol": "JASMY_BUSD",
+    "bidPrice": "0.00800100",
+    "askPrice": "0.00800500"
+}, {
+    "symbol": "AMP_BUSD",
+    "bidPrice": "0.00510000",
+    "askPrice": "0.00511000"
+}, {
+    "symbol": "PLA_BUSD",
+    "bidPrice": "0.26490000",
+    "askPrice": "0.26560000"
+}, {
+    "symbol": "PYR_BUSD",
+    "bidPrice": "4.33000000",
+    "askPrice": "4.34000000"
+}, {
+    "symbol": "RNDR_BUSD",
+    "bidPrice": "2.03000000",
+    "askPrice": "2.03200000"
+}, {
+    "symbol": "ALCX_BUSD",
+    "bidPrice": "21.93000000",
+    "askPrice": "21.96000000"
+}, {
+    "symbol": "MC_BUSD",
+    "bidPrice": "0.40700000",
+    "askPrice": "0.40800000"
+}, {
+    "symbol": "COCOS_BUSD",
+    "bidPrice": "0.70060000",
+    "askPrice": "0.70150000"
+}, {
+    "symbol": "BICO_BUSD",
+    "bidPrice": "0.40800000",
+    "askPrice": "0.40900000"
+}, {
+    "symbol": "FLUX_BUSD",
+    "bidPrice": "0.96700000",
+    "askPrice": "0.96900000"
+}, {
+    "symbol": "REQ_BUSD",
+    "bidPrice": "0.11500000",
+    "askPrice": "0.11540000"
+}, {
+    "symbol": "VOXEL_BUSD",
+    "bidPrice": "0.39240000",
+    "askPrice": "0.39300000"
+}, {
+    "symbol": "COS_BUSD",
+    "bidPrice": "0.00733000",
+    "askPrice": "0.00735000"
+}, {
+    "symbol": "CTXC_BUSD",
+    "bidPrice": "0.33820000",
+    "askPrice": "0.33840000"
+}, {
+    "symbol": "HIGH_BUSD",
+    "bidPrice": "4.35000000",
+    "askPrice": "4.35300000"
+}, {
+    "symbol": "CVX_BUSD",
+    "bidPrice": "6.57200000",
+    "askPrice": "6.58500000"
+}, {
+    "symbol": "PEOPLE_BUSD",
+    "bidPrice": "0.03055000",
+    "askPrice": "0.03059000"
+}, {
+    "symbol": "OOKI_BUSD",
+    "bidPrice": "0.00473000",
+    "askPrice": "0.00475000"
+}, {
+    "symbol": "MDT_BUSD",
+    "bidPrice": "0.06371000",
+    "askPrice": "0.06377000"
+}, {
+    "symbol": "NULS_BUSD",
+    "bidPrice": "0.28220000",
+    "askPrice": "0.28260000"
+}, {
+    "symbol": "SPELL_BUSD",
+    "bidPrice": "0.00086210",
+    "askPrice": "0.00086300"
+}, {
+    "symbol": "JOE_BUSD",
+    "bidPrice": "0.27800000",
+    "askPrice": "0.27840000"
+}, {
+    "symbol": "DUSK_BUSD",
+    "bidPrice": "0.16990000",
+    "askPrice": "0.17010000"
+}, {
+    "symbol": "ACH_BUSD",
+    "bidPrice": "0.01881000",
+    "askPrice": "0.01884000"
+}, {
+    "symbol": "IMX_BUSD",
+    "bidPrice": "1.09100000",
+    "askPrice": "1.09200000"
+}, {
+    "symbol": "GLMR_BUSD",
+    "bidPrice": "0.50190000",
+    "askPrice": "0.50280000"
+}, {
+    "symbol": "UMA_BUSD",
+    "bidPrice": "2.16600000",
+    "askPrice": "2.17000000"
+}, {
+    "symbol": "LOKA_BUSD",
+    "bidPrice": "0.74290000",
+    "askPrice": "0.74380000"
+}, {
+    "symbol": "API3_BUSD",
+    "bidPrice": "1.85100000",
+    "askPrice": "1.85200000"
+}, {
+    "symbol": "ACA_BUSD",
+    "bidPrice": "0.14100000",
+    "askPrice": "0.14150000"
+}, {
+    "symbol": "ANC_BUSD",
+    "bidPrice": "0.05420000",
+    "askPrice": "0.05428000"
+}, {
+    "symbol": "XNO_BUSD",
+    "bidPrice": "0.90800000",
+    "askPrice": "0.91000000"
+}, {
+    "symbol": "WOO_BUSD",
+    "bidPrice": "0.24400000",
+    "askPrice": "0.24430000"
+}, {
+    "symbol": "TFUEL_BUSD",
+    "bidPrice": "0.05790000",
+    "askPrice": "0.05800000"
+}, {
+    "symbol": "T_BUSD",
+    "bidPrice": "0.04476000",
+    "askPrice": "0.04480000"
+}, {
+    "symbol": "ASTR_BUSD",
+    "bidPrice": "0.06210000",
+    "askPrice": "0.06220000"
+}, {
+    "symbol": "GMT_BUSD",
+    "bidPrice": "0.53900000",
+    "askPrice": "0.53910000"
+}, {
+    "symbol": "KDA_BUSD",
+    "bidPrice": "1.22000000",
+    "askPrice": "1.22100000"
+}, {
+    "symbol": "APE_BUSD",
+    "bidPrice": "5.94700000",
+    "askPrice": "5.94800000"
+}, {
+    "symbol": "ALPINE_BUSD",
+    "bidPrice": "2.92890000",
+    "askPrice": "2.93060000"
+}, {
+    "symbol": "BSW_BUSD",
+    "bidPrice": "0.22560000",
+    "askPrice": "0.22590000"
+}, {
+    "symbol": "SANTOS_BUSD",
+    "bidPrice": "6.02500000",
+    "askPrice": "6.03600000"
+}, {
+    "symbol": "MULTI_BUSD",
+    "bidPrice": "10.14000000",
+    "askPrice": "10.17000000"
+}, {
+    "symbol": "PORTO_BUSD",
+    "bidPrice": "3.14920000",
+    "askPrice": "3.15540000"
+}, {
+    "symbol": "BTTC_BUSD",
+    "bidPrice": "0.00000075",
+    "askPrice": "0.00000076"
+}, {
+    "symbol": "MBL_BUSD",
+    "bidPrice": "0.00405000",
+    "askPrice": "0.00406300"
+}, {
+    "symbol": "MOB_BUSD",
+    "bidPrice": "1.54200000",
+    "askPrice": "1.54600000"
+}, {
+    "symbol": "NEXO_BUSD",
+    "bidPrice": "0.76800000",
+    "askPrice": "0.76900000"
+}, {
+    "symbol": "GAL_BUSD",
+    "bidPrice": "2.56000000",
+    "askPrice": "2.56200000"
+}, {
+    "symbol": "LDO_BUSD",
+    "bidPrice": "2.64300000",
+    "askPrice": "2.64400000"
+}, {
+    "symbol": "EPX_BUSD",
+    "bidPrice": "0.00045800",
+    "askPrice": "0.00045900"
+}, {
+    "symbol": "STEEM_BUSD",
+    "bidPrice": "0.23010000",
+    "askPrice": "0.23060000"
+}, {
+    "symbol": "CVC_BUSD",
+    "bidPrice": "0.12620000",
+    "askPrice": "0.12650000"
+}, {
+    "symbol": "REI_BUSD",
+    "bidPrice": "0.03820000",
+    "askPrice": "0.03830000"
+}, {
+    "symbol": "DREP_BUSD",
+    "bidPrice": "0.40460000",
+    "askPrice": "0.40560000"
+}, {
+    "symbol": "AKRO_BUSD",
+    "bidPrice": "0.00385000",
+    "askPrice": "0.00386000"
+}, {
+    "symbol": "PUNDIX_BUSD",
+    "bidPrice": "0.50200000",
+    "askPrice": "0.50400000"
+}, {
+    "symbol": "LUNC_BUSD",
+    "bidPrice": "0.00018421",
+    "askPrice": "0.00018427"
+}, {
+    "symbol": "USTC_BUSD",
+    "bidPrice": "0.03109421",
+    "askPrice": "0.03113274"
+}, {
+    "symbol": "OP_BUSD",
+    "bidPrice": "3.01500000",
+    "askPrice": "3.01600000"
+}, {
+    "symbol": "OG_BUSD",
+    "bidPrice": "2.86800000",
+    "askPrice": "2.87200000"
+}, {
+    "symbol": "KEY_BUSD",
+    "bidPrice": "0.00417600",
+    "askPrice": "0.00419000"
+}, {
+    "symbol": "ASR_BUSD",
+    "bidPrice": "2.96000000",
+    "askPrice": "2.96300000"
+}, {
+    "symbol": "FIRO_BUSD",
+    "bidPrice": "2.30000000",
+    "askPrice": "2.30400000"
+}, {
+    "symbol": "NKN_BUSD",
+    "bidPrice": "0.12200000",
+    "askPrice": "0.12220000"
+}, {
+    "symbol": "WBTC_BUSD",
+    "bidPrice": "23210.77000000",
+    "askPrice": "23226.77000000"
+}, {
+    "symbol": "LEVER_BUSD",
+    "bidPrice": "0.00262900",
+    "askPrice": "0.00263000"
+}, {
+    "symbol": "GLM_BUSD",
+    "bidPrice": "0.26340000",
+    "askPrice": "0.26410000"
+}, {
+    "symbol": "SSV_BUSD",
+    "bidPrice": "30.09000000",
+    "askPrice": "30.13000000"
+}, {
+    "symbol": "STG_BUSD",
+    "bidPrice": "0.85360000",
+    "askPrice": "0.85470000"
+}, {
+    "symbol": "ARK_BUSD",
+    "bidPrice": "0.35790000",
+    "askPrice": "0.35860000"
+}, {
+    "symbol": "BETH_BUSD",
+    "bidPrice": "1650.99000000",
+    "askPrice": "1651.12000000"
+}, {
+    "symbol": "LOOM_BUSD",
+    "bidPrice": "0.05546000",
+    "askPrice": "0.05552000"
+}, {
+    "symbol": "SNM_BUSD",
+    "bidPrice": "1.10400000",
+    "askPrice": "1.10450000"
+}, {
+    "symbol": "AMB_BUSD",
+    "bidPrice": "0.02016000",
+    "askPrice": "0.02019000"
+}, {
+    "symbol": "PHB_BUSD",
+    "bidPrice": "1.40570000",
+    "askPrice": "1.40780000"
+}, {
+    "symbol": "GAS_BUSD",
+    "bidPrice": "2.67600000",
+    "askPrice": "2.68000000"
+}, {
+    "symbol": "NEBL_BUSD",
+    "bidPrice": "1.69200000",
+    "askPrice": "1.69800000"
+}, {
+    "symbol": "PROS_BUSD",
+    "bidPrice": "0.63780000",
+    "askPrice": "0.63860000"
+}, {
+    "symbol": "VIB_BUSD",
+    "bidPrice": "0.09627000",
+    "askPrice": "0.09645000"
+}, {
+    "symbol": "GMX_BUSD",
+    "bidPrice": "70.08000000",
+    "askPrice": "70.18000000"
+}, {
+    "symbol": "AGIX_BUSD",
+    "bidPrice": "0.56276000",
+    "askPrice": "0.56304000"
+}, {
+    "symbol": "SNT_BUSD",
+    "bidPrice": "0.03046000",
+    "askPrice": "0.03049000"
+}, {
+    "symbol": "POLYX_BUSD",
+    "bidPrice": "0.20820000",
+    "askPrice": "0.20890000"
+}, {
+    "symbol": "APT_BUSD",
+    "bidPrice": "15.92920000",
+    "askPrice": "15.93000000"
+}, {
+    "symbol": "BUSD_PLN",
+    "bidPrice": "4.43500000",
+    "askPrice": "4.43900000"
+}, {
+    "symbol": "QKC_BUSD",
+    "bidPrice": "0.01170100",
+    "askPrice": "0.01173100"
+}, {
+    "symbol": "OSMO_BUSD",
+    "bidPrice": "1.09100000",
+    "askPrice": "1.09300000"
+}, {
+    "symbol": "HFT_BUSD",
+    "bidPrice": "0.59580000",
+    "askPrice": "0.59620000"
+}, {
+    "symbol": "VITE_BUSD",
+    "bidPrice": "0.02698000",
+    "askPrice": "0.02706000"
+}, {
+    "symbol": "HOOK_BUSD",
+    "bidPrice": "3.78810000",
+    "askPrice": "3.79050000"
+}, {
+    "symbol": "MAGIC_BUSD",
+    "bidPrice": "1.99910000",
+    "askPrice": "2.00100000"
+}, {
+    "symbol": "BUSD_RON",
+    "bidPrice": "4.58000000",
+    "askPrice": "4.58700000"
+}, {
+    "symbol": "RPL_BUSD",
+    "bidPrice": "42.52000000",
+    "askPrice": "42.63000000"
+}, {
+    "symbol": "ALPACA_BTC",
+    "bidPrice": "0.00001270",
+    "askPrice": "0.00001273"
+}, {
+    "symbol": "BNB_BIDR",
+    "bidPrice": "5018999.00",
+    "askPrice": "5022000.00"
+}, {
+    "symbol": "GRT_USDT",
+    "bidPrice": "0.19280000",
+    "askPrice": "0.19290000"
+}, {
+    "symbol": "ANT_BTC",
+    "bidPrice": "0.00013196",
+    "askPrice": "0.00013224"
+}, {
+    "symbol": "BNB_BRL",
+    "bidPrice": "1721.00000000",
+    "askPrice": "1722.00000000"
+}, {
+    "symbol": "GALA_USDT",
+    "bidPrice": "0.05496000",
+    "askPrice": "0.05497000"
+}, {
+    "symbol": "SOL_USDT",
+    "bidPrice": "23.66000000",
+    "askPrice": "23.67000000"
+}, {
+    "symbol": "CHZ_TRY",
+    "bidPrice": "3.16800000",
+    "askPrice": "3.17000000"
+}, {
+    "symbol": "IMX_BTC",
+    "bidPrice": "0.00004697",
+    "askPrice": "0.00004704"
+}, {
+    "symbol": "GMX_USDT",
+    "bidPrice": "70.13000000",
+    "askPrice": "70.18000000"
+}, {
+    "symbol": "PUNDIX_ETH",
+    "bidPrice": "0.00029990",
+    "askPrice": "0.00030100"
+}, {
+    "symbol": "BAT_USDT",
+    "bidPrice": "0.30980000",
+    "askPrice": "0.31000000"
+}, {
+    "symbol": "LTC_EUR",
+    "bidPrice": "94.36000000",
+    "askPrice": "94.44000000"
+}, {
+    "symbol": "ANT_BNB",
+    "bidPrice": "0.00923000",
+    "askPrice": "0.00925000"
+}, {
+    "symbol": "PAXG_BNB",
+    "bidPrice": "5.58900000",
+    "askPrice": "5.61100000"
+}, {
+    "symbol": "ATOM_TRY",
+    "bidPrice": "283.40000000",
+    "askPrice": "283.70000000"
+}, {
+    "symbol": "TWT_USDT",
+    "bidPrice": "1.60050000",
+    "askPrice": "1.60070000"
+}, {
+    "symbol": "SXP_TRY",
+    "bidPrice": "6.20000000",
+    "askPrice": "6.20400000"
+}, {
+    "symbol": "SOL_ETH",
+    "bidPrice": "0.01412000",
+    "askPrice": "0.01414000"
+}, {
+    "symbol": "RUNE_BNB",
+    "bidPrice": "0.00582000",
+    "askPrice": "0.00583000"
+}, {
+    "symbol": "GMT_USDT",
+    "bidPrice": "0.53890000",
+    "askPrice": "0.53900000"
+}, {
+    "symbol": "ACH_BTC",
+    "bidPrice": "0.00000081",
+    "askPrice": "0.00000082"
+}, {
+    "symbol": "LSK_USDT",
+    "bidPrice": "1.13100000",
+    "askPrice": "1.13400000"
+}, {
+    "symbol": "BAKE_USDT",
+    "bidPrice": "0.24920000",
+    "askPrice": "0.24940000"
+}, {
+    "symbol": "MATIC_ETH",
+    "bidPrice": "0.00076240",
+    "askPrice": "0.00076300"
+}, {
+    "symbol": "XLM_USDT",
+    "bidPrice": "0.09190000",
+    "askPrice": "0.09200000"
+}, {
+    "symbol": "BNT_USDT",
+    "bidPrice": "0.47900000",
+    "askPrice": "0.48000000"
+}, {
+    "symbol": "ETC_BNB",
+    "bidPrice": "0.06900000",
+    "askPrice": "0.06920000"
+}, {
+    "symbol": "SUPER_BTC",
+    "bidPrice": "0.00000639",
+    "askPrice": "0.00000642"
+}, {
+    "symbol": "LDO_USDT",
+    "bidPrice": "2.64200000",
+    "askPrice": "2.64400000"
+}, {
+    "symbol": "OCEAN_USDT",
+    "bidPrice": "0.52500000",
+    "askPrice": "0.52540000"
+}, {
+    "symbol": "ICP_USDT",
+    "bidPrice": "5.82100000",
+    "askPrice": "5.82200000"
+}, {
+    "symbol": "BNX_BTC",
+    "bidPrice": "0.00434400",
+    "askPrice": "0.00436500"
+}, {
+    "symbol": "CHZ_USDT",
+    "bidPrice": "0.16610000",
+    "askPrice": "0.16620000"
+}, {
+    "symbol": "ACM_USDT",
+    "bidPrice": "2.86300000",
+    "askPrice": "2.86600000"
+}, {
+    "symbol": "KP3R_USDT",
+    "bidPrice": "85.82000000",
+    "askPrice": "85.97000000"
+}, {
+    "symbol": "DENT_ETH",
+    "bidPrice": "0.00000062",
+    "askPrice": "0.00000063"
+}, {
+    "symbol": "EOS_USDT",
+    "bidPrice": "1.10500000",
+    "askPrice": "1.10600000"
+}, {
+    "symbol": "GNO_USDT",
+    "bidPrice": "121.60000000",
+    "askPrice": "121.90000000"
+}, {
+    "symbol": "XRP_NGN",
+    "bidPrice": "165.00000000",
+    "askPrice": "1280.00000000"
+}, {
+    "symbol": "ETH_BIDR",
+    "bidPrice": "25350516.00",
+    "askPrice": "25370797.00"
+}, {
+    "symbol": "POND_USDT",
+    "bidPrice": "0.01152000",
+    "askPrice": "0.01154000"
+}, {
+    "symbol": "BNB_AUD",
+    "bidPrice": "475.50000000",
+    "askPrice": "475.90000000"
+}, {
+    "symbol": "COTI_USDT",
+    "bidPrice": "0.10370000",
+    "askPrice": "0.10380000"
+}, {
+    "symbol": "OOKI_USDT",
+    "bidPrice": "0.00473000",
+    "askPrice": "0.00474000"
+}, {
+    "symbol": "TRU_BTC",
+    "bidPrice": "0.00000212",
+    "askPrice": "0.00000213"
+}, {
+    "symbol": "ADA_AUD",
+    "bidPrice": "0.57000000",
+    "askPrice": "0.57070000"
+}, {
+    "symbol": "DIA_BTC",
+    "bidPrice": "0.00001783",
+    "askPrice": "0.00001800"
+}, {
+    "symbol": "LINK_BNB",
+    "bidPrice": "0.02164000",
+    "askPrice": "0.02174000"
+}, {
+    "symbol": "RARE_BTC",
+    "bidPrice": "0.00000732",
+    "askPrice": "0.00000736"
+}, {
+    "symbol": "COCOS_TRY",
+    "bidPrice": "13.35000000",
+    "askPrice": "13.37000000"
+}, {
+    "symbol": "DENT_USDT",
+    "bidPrice": "0.00105100",
+    "askPrice": "0.00105200"
+}, {
+    "symbol": "BNB_BTC",
+    "bidPrice": "0.01428800",
+    "askPrice": "0.01428900"
+}, {
+    "symbol": "MTL_ETH",
+    "bidPrice": "0.00067590",
+    "askPrice": "0.00068120"
+}, {
+    "symbol": "VET_TRY",
+    "bidPrice": "0.49890000",
+    "askPrice": "0.49980000"
+}, {
+    "symbol": "HIGH_BTC",
+    "bidPrice": "0.00018719",
+    "askPrice": "0.00018757"
+}, {
+    "symbol": "ETH_PLN",
+    "bidPrice": "7431.00000000",
+    "askPrice": "7438.00000000"
+}, {
+    "symbol": "XRP_BNB",
+    "bidPrice": "0.00120800",
+    "askPrice": "0.00121000"
+}, {
+    "symbol": "CHESS_USDT",
+    "bidPrice": "0.27810000",
+    "askPrice": "0.27870000"
+}, {
+    "symbol": "ALCX_BTC",
+    "bidPrice": "0.00094400",
+    "askPrice": "0.00094600"
+}, {
+    "symbol": "EOS_BTC",
+    "bidPrice": "0.00004750",
+    "askPrice": "0.00004770"
+}, {
+    "symbol": "STPT_BTC",
+    "bidPrice": "0.00000196",
+    "askPrice": "0.00000197"
+}, {
+    "symbol": "C98_BTC",
+    "bidPrice": "0.00001233",
+    "askPrice": "0.00001235"
+}, {
+    "symbol": "KSM_USDT",
+    "bidPrice": "37.12000000",
+    "askPrice": "37.13000000"
+}, {
+    "symbol": "BNB_UAH",
+    "bidPrice": "13153.00000000",
+    "askPrice": "13167.00000000"
+}, {
+    "symbol": "ETH_ZAR",
+    "bidPrice": "29685.00000000",
+    "askPrice": "29732.00000000"
+}, {
+    "symbol": "THETA_BNB",
+    "bidPrice": "0.00356000",
+    "askPrice": "0.00358000"
+}, {
+    "symbol": "TROY_USDT",
+    "bidPrice": "0.00335600",
+    "askPrice": "0.00335800"
+}, {
+    "symbol": "SOL_BNB",
+    "bidPrice": "0.07130000",
+    "askPrice": "0.07140000"
+}, {
+    "symbol": "DCR_USDT",
+    "bidPrice": "24.20000000",
+    "askPrice": "24.30000000"
+}, {
+    "symbol": "BLZ_USDT",
+    "bidPrice": "0.11760000",
+    "askPrice": "0.11770000"
+}, {
+    "symbol": "SAND_BRL",
+    "bidPrice": "4.63000000",
+    "askPrice": "4.65000000"
+}, {
+    "symbol": "OSMO_USDT",
+    "bidPrice": "1.09200000",
+    "askPrice": "1.09300000"
+}, {
+    "symbol": "FRONT_BTC",
+    "bidPrice": "0.00001077",
+    "askPrice": "0.00001079"
+}, {
+    "symbol": "MAGIC_BTC",
+    "bidPrice": "0.00008613",
+    "askPrice": "0.00008625"
+}, {
+    "symbol": "ETH_RUB",
+    "bidPrice": "119411.50000000",
+    "askPrice": "119600.60000000"
+}, {
+    "symbol": "ENJ_ETH",
+    "bidPrice": "0.00030670",
+    "askPrice": "0.00030850"
+}, {
+    "symbol": "WIN_EUR",
+    "bidPrice": "0.00009240",
+    "askPrice": "0.00009260"
+}, {
+    "symbol": "LINK_USDT",
+    "bidPrice": "7.19700000",
+    "askPrice": "7.19800000"
+}, {
+    "symbol": "STORJ_BTC",
+    "bidPrice": "0.00002080",
+    "askPrice": "0.00002085"
+}, {
+    "symbol": "BEL_BTC",
+    "bidPrice": "0.00002809",
+    "askPrice": "0.00002816"
+}, {
+    "symbol": "COS_TRY",
+    "bidPrice": "0.13990000",
+    "askPrice": "0.14000000"
+}, {
+    "symbol": "BOND_USDT",
+    "bidPrice": "4.72500000",
+    "askPrice": "4.72900000"
+}, {
+    "symbol": "GHST_USDT",
+    "bidPrice": "1.12800000",
+    "askPrice": "1.13000000"
+}, {
+    "symbol": "XMR_BNB",
+    "bidPrice": "0.50330000",
+    "askPrice": "0.50530000"
+}, {
+    "symbol": "SOL_BRL",
+    "bidPrice": "122.70000000",
+    "askPrice": "122.90000000"
+}, {
+    "symbol": "POLS_BNB",
+    "bidPrice": "0.00143800",
+    "askPrice": "0.00144900"
+}, {
+    "symbol": "API3_BTC",
+    "bidPrice": "0.00007973",
+    "askPrice": "0.00007980"
+}, {
+    "symbol": "ATA_BTC",
+    "bidPrice": "0.00000784",
+    "askPrice": "0.00000786"
+}, {
+    "symbol": "LTC_NGN",
+    "bidPrice": "76565.00000000",
+    "askPrice": "255382.00000000"
+}, {
+    "symbol": "XTZ_USDT",
+    "bidPrice": "1.23300000",
+    "askPrice": "1.23400000"
+}, {
+    "symbol": "PHB_BTC",
+    "bidPrice": "0.00006043",
+    "askPrice": "0.00006064"
+}, {
+    "symbol": "UNFI_BTC",
+    "bidPrice": "0.00027160",
+    "askPrice": "0.00027200"
+}, {
+    "symbol": "QKC_BTC",
+    "bidPrice": "0.00000050",
+    "askPrice": "0.00000051"
+}, {
+    "symbol": "HARD_BNB",
+    "bidPrice": "0.00063000",
+    "askPrice": "0.00063200"
+}, {
+    "symbol": "DOCK_BTC",
+    "bidPrice": "0.00000107",
+    "askPrice": "0.00000108"
+}, {
+    "symbol": "CELR_BTC",
+    "bidPrice": "0.00000083",
+    "askPrice": "0.00000084"
+}, {
+    "symbol": "MC_USDT",
+    "bidPrice": "0.40700000",
+    "askPrice": "0.40800000"
+}, {
+    "symbol": "KDA_USDT",
+    "bidPrice": "1.22100000",
+    "askPrice": "1.22200000"
+}, {
+    "symbol": "HIVE_BTC",
+    "bidPrice": "0.00001954",
+    "askPrice": "0.00001958"
+}, {
+    "symbol": "IRIS_BTC",
+    "bidPrice": "0.00000085",
+    "askPrice": "0.00000086"
+}, {
+    "symbol": "WIN_BRL",
+    "bidPrice": "0.00051400",
+    "askPrice": "0.00051600"
+}, {
+    "symbol": "AAVE_BTC",
+    "bidPrice": "0.00381300",
+    "askPrice": "0.00381600"
+}, {
+    "symbol": "BICO_USDT",
+    "bidPrice": "0.40700000",
+    "askPrice": "0.40800000"
+}, {
+    "symbol": "BNX_BNB",
+    "bidPrice": "0.30320000",
+    "askPrice": "0.30990000"
+}, {
+    "symbol": "OSMO_BTC",
+    "bidPrice": "0.00004703",
+    "askPrice": "0.00004709"
+}, {
+    "symbol": "LAZIO_EUR",
+    "bidPrice": "3.32870000",
+    "askPrice": "3.33750000"
+}, {
+    "symbol": "ETC_USDT",
+    "bidPrice": "22.93000000",
+    "askPrice": "22.94000000"
+}, {
+    "symbol": "ATOM_ETH",
+    "bidPrice": "0.00887400",
+    "askPrice": "0.00889600"
+}, {
+    "symbol": "NKN_USDT",
+    "bidPrice": "0.12210000",
+    "askPrice": "0.12220000"
+}, {
+    "symbol": "BCH_USDT",
+    "bidPrice": "134.70000000",
+    "askPrice": "134.80000000"
+}, {
+    "symbol": "ENJ_USDT",
+    "bidPrice": "0.51520000",
+    "askPrice": "0.51540000"
+}, {
+    "symbol": "GAL_BTC",
+    "bidPrice": "0.00011018",
+    "askPrice": "0.00011038"
+}, {
+    "symbol": "PROM_BNB",
+    "bidPrice": "0.01610000",
+    "askPrice": "0.01619000"
+}, {
+    "symbol": "FARM_BTC",
+    "bidPrice": "0.00172300",
+    "askPrice": "0.00173400"
+}, {
+    "symbol": "EOS_BNB",
+    "bidPrice": "0.00333000",
+    "askPrice": "0.00334000"
+}, {
+    "symbol": "ENJ_BTC",
+    "bidPrice": "0.00002218",
+    "askPrice": "0.00002221"
+}, {
+    "symbol": "VET_GBP",
+    "bidPrice": "0.02163000",
+    "askPrice": "0.02182000"
+}, {
+    "symbol": "ICX_BTC",
+    "bidPrice": "0.00001009",
+    "askPrice": "0.00001011"
+}, {
+    "symbol": "JASMY_BNB",
+    "bidPrice": "0.00002411",
+    "askPrice": "0.00002413"
+}, {
+    "symbol": "ALGO_USDT",
+    "bidPrice": "0.27930000",
+    "askPrice": "0.27940000"
+}, {
+    "symbol": "LINK_BTC",
+    "bidPrice": "0.00030990",
+    "askPrice": "0.00031010"
+}, {
+    "symbol": "CHZ_BRL",
+    "bidPrice": "0.86100000",
+    "askPrice": "0.86300000"
+}, {
+    "symbol": "LUNA_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "MATIC_BRL",
+    "bidPrice": "6.62500000",
+    "askPrice": "6.63600000"
+}, {
+    "symbol": "NMR_USDT",
+    "bidPrice": "24.00000000",
+    "askPrice": "24.04000000"
+}, {
+    "symbol": "OCEAN_BTC",
+    "bidPrice": "0.00002260",
+    "askPrice": "0.00002264"
+}, {
+    "symbol": "PERP_BTC",
+    "bidPrice": "0.00002975",
+    "askPrice": "0.00002977"
+}, {
+    "symbol": "IMX_BNB",
+    "bidPrice": "0.00328200",
+    "askPrice": "0.00330400"
+}, {
+    "symbol": "MASK_USDT",
+    "bidPrice": "4.69400000",
+    "askPrice": "4.69500000"
+}, {
+    "symbol": "AMP_USDT",
+    "bidPrice": "0.00509000",
+    "askPrice": "0.00510000"
+}, {
+    "symbol": "XRP_USDT",
+    "bidPrice": "0.40110000",
+    "askPrice": "0.40120000"
+}, {
+    "symbol": "BAKE_BTC",
+    "bidPrice": "0.00001072",
+    "askPrice": "0.00001073"
+}, {
+    "symbol": "ALICE_USDT",
+    "bidPrice": "2.12000000",
+    "askPrice": "2.12100000"
+}, {
+    "symbol": "XVS_BNB",
+    "bidPrice": "0.01805000",
+    "askPrice": "0.01817000"
+}, {
+    "symbol": "MATIC_RUB",
+    "bidPrice": "91.08000000",
+    "askPrice": "91.33000000"
+}, {
+    "symbol": "TWT_BTC",
+    "bidPrice": "0.00006884",
+    "askPrice": "0.00006904"
+}, {
+    "symbol": "BETH_ETH",
+    "bidPrice": "0.98500000",
+    "askPrice": "0.98540000"
+}, {
+    "symbol": "ETC_TRY",
+    "bidPrice": "436.20000000",
+    "askPrice": "438.10000000"
+}, {
+    "symbol": "FET_USDT",
+    "bidPrice": "0.53520000",
+    "askPrice": "0.53540000"
+}, {
+    "symbol": "OP_ETH",
+    "bidPrice": "0.00179900",
+    "askPrice": "0.00180100"
+}, {
+    "symbol": "LTC_RUB",
+    "bidPrice": "7216.40000000",
+    "askPrice": "7238.10000000"
+}, {
+    "symbol": "RLC_USDT",
+    "bidPrice": "2.25700000",
+    "askPrice": "2.25900000"
+}, {
+    "symbol": "DCR_BTC",
+    "bidPrice": "0.00104300",
+    "askPrice": "0.00104800"
+}, {
+    "symbol": "JST_USDT",
+    "bidPrice": "0.02933000",
+    "askPrice": "0.02934000"
+}, {
+    "symbol": "TFUEL_USDT",
+    "bidPrice": "0.05790000",
+    "askPrice": "0.05810000"
+}, {
+    "symbol": "GAL_EUR",
+    "bidPrice": "2.38000000",
+    "askPrice": "2.41400000"
+}, {
+    "symbol": "NEO_TRY",
+    "bidPrice": "173.90000000",
+    "askPrice": "174.40000000"
+}, {
+    "symbol": "ATOM_USDT",
+    "bidPrice": "14.88300000",
+    "askPrice": "14.88400000"
+}, {
+    "symbol": "XLM_BNB",
+    "bidPrice": "0.00027670",
+    "askPrice": "0.00027770"
+}, {
+    "symbol": "FOR_BTC",
+    "bidPrice": "0.00000098",
+    "askPrice": "0.00000099"
+}, {
+    "symbol": "RUNE_EUR",
+    "bidPrice": "1.80000000",
+    "askPrice": "1.80300000"
+}, {
+    "symbol": "BNB_IDRT",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "ANKR_USDT",
+    "bidPrice": "0.03243000",
+    "askPrice": "0.03244000"
+}, {
+    "symbol": "BURGER_ETH",
+    "bidPrice": "0.00044000",
+    "askPrice": "0.00044200"
+}, {
+    "symbol": "DOT_BRL",
+    "bidPrice": "35.67000000",
+    "askPrice": "35.71000000"
+}, {
+    "symbol": "GAL_BNB",
+    "bidPrice": "0.00770900",
+    "askPrice": "0.00774300"
+}, {
+    "symbol": "AR_BNB",
+    "bidPrice": "0.03840000",
+    "askPrice": "0.03853000"
+}, {
+    "symbol": "MANA_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "WAVES_BTC",
+    "bidPrice": "0.00012060",
+    "askPrice": "0.00012070"
+}, {
+    "symbol": "CHESS_BTC",
+    "bidPrice": "0.00001195",
+    "askPrice": "0.00001199"
+}, {
+    "symbol": "MINA_USDT",
+    "bidPrice": "0.85200000",
+    "askPrice": "0.85300000"
+}, {
+    "symbol": "ONE_BTC",
+    "bidPrice": "0.00000120",
+    "askPrice": "0.00000121"
+}, {
+    "symbol": "AVAX_BRL",
+    "bidPrice": "107.00000000",
+    "askPrice": "107.20000000"
+}, {
+    "symbol": "AUDIO_TRY",
+    "bidPrice": "6.14000000",
+    "askPrice": "6.15100000"
+}, {
+    "symbol": "ADA_RUB",
+    "bidPrice": "28.32000000",
+    "askPrice": "28.43000000"
+}, {
+    "symbol": "GMT_ETH",
+    "bidPrice": "0.00032160",
+    "askPrice": "0.00032190"
+}, {
+    "symbol": "QTUM_USDT",
+    "bidPrice": "2.96800000",
+    "askPrice": "2.97000000"
+}, {
+    "symbol": "RUNE_TRY",
+    "bidPrice": "36.85000000",
+    "askPrice": "36.90000000"
+}, {
+    "symbol": "ADA_EUR",
+    "bidPrice": "0.37040000",
+    "askPrice": "0.37050000"
+}, {
+    "symbol": "JASMY_ETH",
+    "bidPrice": "0.00000477",
+    "askPrice": "0.00000478"
+}, {
+    "symbol": "NEAR_BNB",
+    "bidPrice": "0.00766800",
+    "askPrice": "0.00771700"
+}, {
+    "symbol": "FIS_USDT",
+    "bidPrice": "0.80990000",
+    "askPrice": "0.81210000"
+}, {
+    "symbol": "UNI_USDT",
+    "bidPrice": "6.96700000",
+    "askPrice": "6.96800000"
+}, {
+    "symbol": "VET_BTC",
+    "bidPrice": "0.00000112",
+    "askPrice": "0.00000113"
+}, {
+    "symbol": "NEO_ETH",
+    "bidPrice": "0.00544000",
+    "askPrice": "0.00546000"
+}, {
+    "symbol": "LTC_UAH",
+    "bidPrice": "4005.00000000",
+    "askPrice": "4022.00000000"
+}, {
+    "symbol": "ADX_BTC",
+    "bidPrice": "0.00000844",
+    "askPrice": "0.00000845"
+}, {
+    "symbol": "KAVA_BTC",
+    "bidPrice": "0.00004430",
+    "askPrice": "0.00004440"
+}, {
+    "symbol": "YFI_EUR",
+    "bidPrice": "7264.00000000",
+    "askPrice": "7283.00000000"
+}, {
+    "symbol": "DOGE_GBP",
+    "bidPrice": "0.07640000",
+    "askPrice": "0.07647000"
+}, {
+    "symbol": "CTK_BNB",
+    "bidPrice": "0.00264500",
+    "askPrice": "0.00264900"
+}, {
+    "symbol": "BETA_ETH",
+    "bidPrice": "0.00006380",
+    "askPrice": "0.00006410"
+}, {
+    "symbol": "CTK_USDT",
+    "bidPrice": "0.87800000",
+    "askPrice": "0.87900000"
+}, {
+    "symbol": "VET_EUR",
+    "bidPrice": "0.02439000",
+    "askPrice": "0.02441000"
+}, {
+    "symbol": "IOTA_USDT",
+    "bidPrice": "0.25200000",
+    "askPrice": "0.25210000"
+}, {
+    "symbol": "JUV_USDT",
+    "bidPrice": "3.12000000",
+    "askPrice": "3.13000000"
+}, {
+    "symbol": "FIS_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "BNB_TRY",
+    "bidPrice": "6325.00000000",
+    "askPrice": "6327.00000000"
+}, {
+    "symbol": "ERN_USDT",
+    "bidPrice": "2.41600000",
+    "askPrice": "2.41900000"
+}, {
+    "symbol": "AKRO_USDT",
+    "bidPrice": "0.00384000",
+    "askPrice": "0.00385000"
+}, {
+    "symbol": "ONE_USDT",
+    "bidPrice": "0.02791000",
+    "askPrice": "0.02792000"
+}, {
+    "symbol": "FIO_BTC",
+    "bidPrice": "0.00000171",
+    "askPrice": "0.00000172"
+}, {
+    "symbol": "BTC_BIDR",
+    "bidPrice": "351242329.00",
+    "askPrice": "351601658.00"
+}, {
+    "symbol": "AVAX_GBP",
+    "bidPrice": "17.12000000",
+    "askPrice": "17.17000000"
+}, {
+    "symbol": "XRP_BRL",
+    "bidPrice": "2.08000000",
+    "askPrice": "2.08200000"
+}, {
+    "symbol": "ETH_UAH",
+    "bidPrice": "66375.00000000",
+    "askPrice": "66479.00000000"
+}, {
+    "symbol": "DEXE_ETH",
+    "bidPrice": "0.00181800",
+    "askPrice": "0.00182400"
+}, {
+    "symbol": "WBTC_BTC",
+    "bidPrice": "0.99970000",
+    "askPrice": "0.99980000"
+}, {
+    "symbol": "UNI_BNB",
+    "bidPrice": "0.02100000",
+    "askPrice": "0.02102000"
+}, {
+    "symbol": "XTZ_TRY",
+    "bidPrice": "23.38000000",
+    "askPrice": "23.54000000"
+}, {
+    "symbol": "JASMY_EUR",
+    "bidPrice": "0.00744500",
+    "askPrice": "0.00746400"
+}, {
+    "symbol": "BETA_BNB",
+    "bidPrice": "0.00032140",
+    "askPrice": "0.00032600"
+}, {
+    "symbol": "OMG_BTC",
+    "bidPrice": "0.00007180",
+    "askPrice": "0.00007200"
+}, {
+    "symbol": "ZIL_TRY",
+    "bidPrice": "0.58500000",
+    "askPrice": "0.58600000"
+}, {
+    "symbol": "PYR_USDT",
+    "bidPrice": "4.33000000",
+    "askPrice": "4.34000000"
+}, {
+    "symbol": "NULS_BTC",
+    "bidPrice": "0.00001213",
+    "askPrice": "0.00001217"
+}, {
+    "symbol": "XVG_ETH",
+    "bidPrice": "0.00000200",
+    "askPrice": "0.00000201"
+}, {
+    "symbol": "ILV_BNB",
+    "bidPrice": "0.29030000",
+    "askPrice": "0.29180000"
+}, {
+    "symbol": "APT_BRL",
+    "bidPrice": "82.49000000",
+    "askPrice": "82.69000000"
+}, {
+    "symbol": "ARPA_BTC",
+    "bidPrice": "0.00000198",
+    "askPrice": "0.00000199"
+}, {
+    "symbol": "TRX_BTC",
+    "bidPrice": "0.00000284",
+    "askPrice": "0.00000285"
+}, {
+    "symbol": "SXP_BTC",
+    "bidPrice": "0.00001401",
+    "askPrice": "0.00001402"
+}, {
+    "symbol": "HOOK_BTC",
+    "bidPrice": "0.00016298",
+    "askPrice": "0.00016337"
+}, {
+    "symbol": "TLM_BTC",
+    "bidPrice": "0.00000106",
+    "askPrice": "0.00000107"
+}, {
+    "symbol": "LOKA_BNB",
+    "bidPrice": "0.00223820",
+    "askPrice": "0.00224430"
+}, {
+    "symbol": "ENJ_TRY",
+    "bidPrice": "9.80000000",
+    "askPrice": "9.83000000"
+}, {
+    "symbol": "DOGE_TRY",
+    "bidPrice": "1.75500000",
+    "askPrice": "1.75600000"
+}, {
+    "symbol": "LTC_ETH",
+    "bidPrice": "0.06048000",
+    "askPrice": "0.06050000"
+}, {
+    "symbol": "SAND_ETH",
+    "bidPrice": "0.00053430",
+    "askPrice": "0.00053460"
+}, {
+    "symbol": "NEAR_TRY",
+    "bidPrice": "48.49000000",
+    "askPrice": "48.50000000"
+}, {
+    "symbol": "HOOK_USDT",
+    "bidPrice": "3.78800000",
+    "askPrice": "3.78990000"
+}, {
+    "symbol": "API3_USDT",
+    "bidPrice": "1.85300000",
+    "askPrice": "1.85400000"
+}, {
+    "symbol": "FIL_BNB",
+    "bidPrice": "0.01668000",
+    "askPrice": "0.01670000"
+}, {
+    "symbol": "MOB_BTC",
+    "bidPrice": "0.00006648",
+    "askPrice": "0.00006649"
+}, {
+    "symbol": "ENJ_EUR",
+    "bidPrice": "0.47960000",
+    "askPrice": "0.48050000"
+}, {
+    "symbol": "ONE_TRY",
+    "bidPrice": "0.53200000",
+    "askPrice": "0.53300000"
+}, {
+    "symbol": "TLM_TRY",
+    "bidPrice": "0.47190000",
+    "askPrice": "0.47210000"
+}, {
+    "symbol": "ZIL_USDT",
+    "bidPrice": "0.03069000",
+    "askPrice": "0.03070000"
+}, {
+    "symbol": "FTM_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "SKL_USDT",
+    "bidPrice": "0.04275000",
+    "askPrice": "0.04278000"
+}, {
+    "symbol": "WAXP_USDT",
+    "bidPrice": "0.08080000",
+    "askPrice": "0.08090000"
+}, {
+    "symbol": "LSK_ETH",
+    "bidPrice": "0.00067400",
+    "askPrice": "0.00067800"
+}, {
+    "symbol": "STEEM_ETH",
+    "bidPrice": "0.00013730",
+    "askPrice": "0.00013770"
+}, {
+    "symbol": "UNFI_ETH",
+    "bidPrice": "0.00375900",
+    "askPrice": "0.00376900"
+}, {
+    "symbol": "APT_EUR",
+    "bidPrice": "14.83170000",
+    "askPrice": "14.84570000"
+}, {
+    "symbol": "QKC_ETH",
+    "bidPrice": "0.00000697",
+    "askPrice": "0.00000701"
+}, {
+    "symbol": "SXP_EUR",
+    "bidPrice": "0.30270000",
+    "askPrice": "0.30840000"
+}, {
+    "symbol": "ICX_USDT",
+    "bidPrice": "0.23460000",
+    "askPrice": "0.23470000"
+}, {
+    "symbol": "STPT_USDT",
+    "bidPrice": "0.04572000",
+    "askPrice": "0.04576000"
+}, {
+    "symbol": "MTL_BTC",
+    "bidPrice": "0.00004889",
+    "askPrice": "0.00004896"
+}, {
+    "symbol": "BTTC_TRY",
+    "bidPrice": "0.00001436",
+    "askPrice": "0.00001438"
+}, {
+    "symbol": "ALPINE_EUR",
+    "bidPrice": "2.72550000",
+    "askPrice": "2.73210000"
+}, {
+    "symbol": "XTZ_BNB",
+    "bidPrice": "0.00371300",
+    "askPrice": "0.00373500"
+}, {
+    "symbol": "AMP_BTC",
+    "bidPrice": "0.00000021",
+    "askPrice": "0.00000022"
+}, {
+    "symbol": "SPELL_TRY",
+    "bidPrice": "0.01644000",
+    "askPrice": "0.01646000"
+}, {
+    "symbol": "BEL_ETH",
+    "bidPrice": "0.00038860",
+    "askPrice": "0.00039070"
+}, {
+    "symbol": "STEEM_USDT",
+    "bidPrice": "0.23030000",
+    "askPrice": "0.23050000"
+}, {
+    "symbol": "ZRX_USDT",
+    "bidPrice": "0.25780000",
+    "askPrice": "0.25790000"
+}, {
+    "symbol": "AVAX_ETH",
+    "bidPrice": "0.01231000",
+    "askPrice": "0.01233000"
+}, {
+    "symbol": "DOGE_USDT",
+    "bidPrice": "0.09209000",
+    "askPrice": "0.09210000"
+}, {
+    "symbol": "LINK_ETH",
+    "bidPrice": "0.00429500",
+    "askPrice": "0.00429700"
+}, {
+    "symbol": "DREP_BTC",
+    "bidPrice": "0.00001742",
+    "askPrice": "0.00001748"
+}, {
+    "symbol": "RNDR_BTC",
+    "bidPrice": "0.00008740",
+    "askPrice": "0.00008760"
+}, {
+    "symbol": "MANA_BRL",
+    "bidPrice": "4.07700000",
+    "askPrice": "4.14800000"
+}, {
+    "symbol": "SAND_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "GMT_BNB",
+    "bidPrice": "0.00162400",
+    "askPrice": "0.00162600"
+}, {
+    "symbol": "ETC_BTC",
+    "bidPrice": "0.00098700",
+    "askPrice": "0.00098800"
+}, {
+    "symbol": "CTXC_BTC",
+    "bidPrice": "0.00001456",
+    "askPrice": "0.00001458"
+}, {
+    "symbol": "GRT_TRY",
+    "bidPrice": "3.67600000",
+    "askPrice": "3.68300000"
+}, {
+    "symbol": "REQ_BTC",
+    "bidPrice": "0.00000495",
+    "askPrice": "0.00000496"
+}, {
+    "symbol": "ILV_BTC",
+    "bidPrice": "0.00416100",
+    "askPrice": "0.00416700"
+}, {
+    "symbol": "FXS_USDT",
+    "bidPrice": "12.79600000",
+    "askPrice": "12.79700000"
+}, {
+    "symbol": "GALA_EUR",
+    "bidPrice": "0.05117000",
+    "askPrice": "0.05121000"
+}, {
+    "symbol": "CTSI_BNB",
+    "bidPrice": "0.00052000",
+    "askPrice": "0.00052200"
+}, {
+    "symbol": "JASMY_USDT",
+    "bidPrice": "0.00800400",
+    "askPrice": "0.00800500"
+}, {
+    "symbol": "DIA_USDT",
+    "bidPrice": "0.41500000",
+    "askPrice": "0.41600000"
+}, {
+    "symbol": "SOL_RUB",
+    "bidPrice": "1688.00000000",
+    "askPrice": "1691.00000000"
+}, {
+    "symbol": "MOVR_USDT",
+    "bidPrice": "9.76000000",
+    "askPrice": "9.78000000"
+}, {
+    "symbol": "JASMY_TRY",
+    "bidPrice": "0.15245600",
+    "askPrice": "0.15269300"
+}, {
+    "symbol": "APE_BRL",
+    "bidPrice": "30.84000000",
+    "askPrice": "30.90000000"
+}, {
+    "symbol": "GAL_USDT",
+    "bidPrice": "2.55900000",
+    "askPrice": "2.56100000"
+}, {
+    "symbol": "ADA_TRY",
+    "bidPrice": "7.58000000",
+    "askPrice": "7.59000000"
+}, {
+    "symbol": "WIN_TRX",
+    "bidPrice": "0.00150300",
+    "askPrice": "0.00150500"
+}, {
+    "symbol": "XLM_BTC",
+    "bidPrice": "0.00000396",
+    "askPrice": "0.00000397"
+}, {
+    "symbol": "MOB_USDT",
+    "bidPrice": "1.54100000",
+    "askPrice": "1.54400000"
+}, {
+    "symbol": "CHR_USDT",
+    "bidPrice": "0.19950000",
+    "askPrice": "0.19970000"
+}, {
+    "symbol": "SHIB_TRY",
+    "bidPrice": "0.00027097",
+    "askPrice": "0.00027103"
+}, {
+    "symbol": "CRV_ETH",
+    "bidPrice": "0.00065800",
+    "askPrice": "0.00066000"
+}, {
+    "symbol": "FTM_RUB",
+    "bidPrice": "40.92000000",
+    "askPrice": "41.24000000"
+}, {
+    "symbol": "CAKE_BNB",
+    "bidPrice": "0.01376000",
+    "askPrice": "0.01377000"
+}, {
+    "symbol": "SCRT_ETH",
+    "bidPrice": "0.00049980",
+    "askPrice": "0.00050270"
+}, {
+    "symbol": "MANA_TRY",
+    "bidPrice": "15.08000000",
+    "askPrice": "15.09000000"
+}, {
+    "symbol": "FTM_BTC",
+    "bidPrice": "0.00002480",
+    "askPrice": "0.00002481"
+}, {
+    "symbol": "MC_BNB",
+    "bidPrice": "0.00122400",
+    "askPrice": "0.00123200"
+}, {
+    "symbol": "LINK_BRL",
+    "bidPrice": "37.31000000",
+    "askPrice": "37.36000000"
+}, {
+    "symbol": "WING_ETH",
+    "bidPrice": "0.00471400",
+    "askPrice": "0.00482800"
+}, {
+    "symbol": "HOT_ETH",
+    "bidPrice": "0.00000133",
+    "askPrice": "0.00000134"
+}, {
+    "symbol": "DEGO_USDT",
+    "bidPrice": "2.85700000",
+    "askPrice": "2.85800000"
+}, {
+    "symbol": "MATIC_TRY",
+    "bidPrice": "24.36000000",
+    "askPrice": "24.37100000"
+}, {
+    "symbol": "KLAY_BNB",
+    "bidPrice": "0.00064900",
+    "askPrice": "0.00065200"
+}, {
+    "symbol": "DATA_BTC",
+    "bidPrice": "0.00000194",
+    "askPrice": "0.00000195"
+}, {
+    "symbol": "CHZ_BTC",
+    "bidPrice": "0.00000715",
+    "askPrice": "0.00000716"
+}, {
+    "symbol": "BOND_ETH",
+    "bidPrice": "0.00280900",
+    "askPrice": "0.00282600"
+}, {
+    "symbol": "BTC_AUD",
+    "bidPrice": "33288.32000000",
+    "askPrice": "33292.86000000"
+}, {
+    "symbol": "ALPINE_TRY",
+    "bidPrice": "55.76000000",
+    "askPrice": "55.92000000"
+}, {
+    "symbol": "ALGO_TRY",
+    "bidPrice": "5.32400000",
+    "askPrice": "5.32700000"
+}, {
+    "symbol": "SLP_USDT",
+    "bidPrice": "0.00340300",
+    "askPrice": "0.00340600"
+}, {
+    "symbol": "LUNC_USDT",
+    "bidPrice": "0.00018426",
+    "askPrice": "0.00018433"
+}, {
+    "symbol": "TOMO_BTC",
+    "bidPrice": "0.00001975",
+    "askPrice": "0.00001980"
+}, {
+    "symbol": "USDT_BVND",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "VIB_BTC",
+    "bidPrice": "0.00000414",
+    "askPrice": "0.00000416"
+}, {
+    "symbol": "C98_BRL",
+    "bidPrice": "1.47900000",
+    "askPrice": "1.50500000"
+}, {
+    "symbol": "DOCK_USDT",
+    "bidPrice": "0.02491000",
+    "askPrice": "0.02493000"
+}, {
+    "symbol": "SANTOS_BTC",
+    "bidPrice": "0.00025939",
+    "askPrice": "0.00025974"
+}, {
+    "symbol": "PUNDIX_USDT",
+    "bidPrice": "0.50200000",
+    "askPrice": "0.50400000"
+}, {
+    "symbol": "SAND_BTC",
+    "bidPrice": "0.00003855",
+    "askPrice": "0.00003856"
+}, {
+    "symbol": "ADA_BIDR",
+    "bidPrice": "6016.00",
+    "askPrice": "6024.00"
+}, {
+    "symbol": "VET_BNB",
+    "bidPrice": "0.00007890",
+    "askPrice": "0.00007910"
+}, {
+    "symbol": "LPT_BNB",
+    "bidPrice": "0.03073000",
+    "askPrice": "0.03080000"
+}, {
+    "symbol": "NEAR_RUB",
+    "bidPrice": "181.00000000",
+    "askPrice": "181.90000000"
+}, {
+    "symbol": "TUSD_T",
+    "bidPrice": "0.04476000",
+    "askPrice": "0.04479000"
+}, {
+    "symbol": "SUSHI_BTC",
+    "bidPrice": "0.00006530",
+    "askPrice": "0.00006540"
+}, {
+    "symbol": "ASR_USDT",
+    "bidPrice": "2.96100000",
+    "askPrice": "2.96200000"
+}, {
+    "symbol": "ONE_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "AAVE_USDT",
+    "bidPrice": "88.50000000",
+    "askPrice": "88.60000000"
+}, {
+    "symbol": "GALA_BRL",
+    "bidPrice": "0.28450000",
+    "askPrice": "0.28520000"
+}, {
+    "symbol": "SHIB_AUD",
+    "bidPrice": "0.00002037",
+    "askPrice": "0.00002040"
+}, {
+    "symbol": "RAD_USDT",
+    "bidPrice": "2.11200000",
+    "askPrice": "2.11400000"
+}, {
+    "symbol": "SXP_USDT",
+    "bidPrice": "0.32530000",
+    "askPrice": "0.32540000"
+}, {
+    "symbol": "MINA_BTC",
+    "bidPrice": "0.00003668",
+    "askPrice": "0.00003675"
+}, {
+    "symbol": "DOGE_RUB",
+    "bidPrice": "6.56200000",
+    "askPrice": "6.60500000"
+}, {
+    "symbol": "SSV_ETH",
+    "bidPrice": "0.01791700",
+    "askPrice": "0.01800700"
+}, {
+    "symbol": "AMB_BTC",
+    "bidPrice": "0.00000086",
+    "askPrice": "0.00000087"
+}, {
+    "symbol": "PHB_USDT",
+    "bidPrice": "1.40550000",
+    "askPrice": "1.40680000"
+}, {
+    "symbol": "OG_USDT",
+    "bidPrice": "2.86700000",
+    "askPrice": "2.86800000"
+}, {
+    "symbol": "AXS_AUD",
+    "bidPrice": "16.60000000",
+    "askPrice": "16.75000000"
+}, {
+    "symbol": "NULS_USDT",
+    "bidPrice": "0.28230000",
+    "askPrice": "0.28250000"
+}, {
+    "symbol": "SUSHI_USDT",
+    "bidPrice": "1.51700000",
+    "askPrice": "1.51800000"
+}, {
+    "symbol": "BAT_BTC",
+    "bidPrice": "0.00001334",
+    "askPrice": "0.00001337"
+}, {
+    "symbol": "ONT_TRY",
+    "bidPrice": "4.60900000",
+    "askPrice": "4.62700000"
+}, {
+    "symbol": "GMT_BRL",
+    "bidPrice": "2.79200000",
+    "askPrice": "2.79900000"
+}, {
+    "symbol": "VOXEL_BNB",
+    "bidPrice": "0.00118210",
+    "askPrice": "0.00118520"
+}, {
+    "symbol": "JASMY_BTC",
+    "bidPrice": "0.00000034",
+    "askPrice": "0.00000035"
+}, {
+    "symbol": "LINK_GBP",
+    "bidPrice": "5.96900000",
+    "askPrice": "5.97900000"
+}, {
+    "symbol": "FET_BTC",
+    "bidPrice": "0.00002305",
+    "askPrice": "0.00002308"
+}, {
+    "symbol": "VOXEL_BTC",
+    "bidPrice": "0.00001689",
+    "askPrice": "0.00001694"
+}, {
+    "symbol": "STX_BTC",
+    "bidPrice": "0.00001361",
+    "askPrice": "0.00001363"
+}, {
+    "symbol": "NEXO_USDT",
+    "bidPrice": "0.76800000",
+    "askPrice": "0.76900000"
+}, {
+    "symbol": "BSW_ETH",
+    "bidPrice": "0.00013430",
+    "askPrice": "0.00013490"
+}, {
+    "symbol": "ADA_BRL",
+    "bidPrice": "2.06100000",
+    "askPrice": "2.06400000"
+}, {
+    "symbol": "AION_USDT",
+    "bidPrice": "0.04543000",
+    "askPrice": "0.04550000"
+}, {
+    "symbol": "ICP_BTC",
+    "bidPrice": "0.00025050",
+    "askPrice": "0.00025090"
+}, {
+    "symbol": "QUICK_BTC",
+    "bidPrice": "0.00252200",
+    "askPrice": "0.00252600"
+}, {
+    "symbol": "YGG_BTC",
+    "bidPrice": "0.00001470",
+    "askPrice": "0.00001474"
+}, {
+    "symbol": "NEO_RUB",
+    "bidPrice": "652.00000000",
+    "askPrice": "657.00000000"
+}, {
+    "symbol": "DOGE_BRL",
+    "bidPrice": "0.47720000",
+    "askPrice": "0.47790000"
+}, {
+    "symbol": "GMT_BTC",
+    "bidPrice": "0.00002321",
+    "askPrice": "0.00002322"
+}, {
+    "symbol": "UMA_BTC",
+    "bidPrice": "0.00009320",
+    "askPrice": "0.00009340"
+}, {
+    "symbol": "MBOX_USDT",
+    "bidPrice": "0.60000000",
+    "askPrice": "0.60100000"
+}, {
+    "symbol": "GRT_BTC",
+    "bidPrice": "0.00000830",
+    "askPrice": "0.00000831"
+}, {
+    "symbol": "GLMR_BNB",
+    "bidPrice": "0.00151100",
+    "askPrice": "0.00151700"
+}, {
+    "symbol": "ALICE_TRY",
+    "bidPrice": "40.30000000",
+    "askPrice": "40.46000000"
+}, {
+    "symbol": "WAVES_ETH",
+    "bidPrice": "0.00167000",
+    "askPrice": "0.00167300"
+}, {
+    "symbol": "GTC_USDT",
+    "bidPrice": "2.16800000",
+    "askPrice": "2.16900000"
+}, {
+    "symbol": "OGN_USDT",
+    "bidPrice": "0.14720000",
+    "askPrice": "0.14730000"
+}, {
+    "symbol": "DF_USDT",
+    "bidPrice": "0.04980000",
+    "askPrice": "0.05000000"
+}, {
+    "symbol": "FET_BNB",
+    "bidPrice": "0.00161300",
+    "askPrice": "0.00161500"
+}, {
+    "symbol": "APE_TRY",
+    "bidPrice": "113.40000000",
+    "askPrice": "113.50000000"
+}, {
+    "symbol": "XRP_AUD",
+    "bidPrice": "0.57490000",
+    "askPrice": "0.57560000"
+}, {
+    "symbol": "LPT_USDT",
+    "bidPrice": "10.20000000",
+    "askPrice": "10.21000000"
+}, {
+    "symbol": "MKR_USDT",
+    "bidPrice": "810.00000000",
+    "askPrice": "811.00000000"
+}, {
+    "symbol": "HARD_BTC",
+    "bidPrice": "0.00000901",
+    "askPrice": "0.00000903"
+}, {
+    "symbol": "BTC_PLN",
+    "bidPrice": "102995.00000000",
+    "askPrice": "103071.00000000"
+}, {
+    "symbol": "SKL_BTC",
+    "bidPrice": "0.00000184",
+    "askPrice": "0.00000185"
+}, {
+    "symbol": "LOOM_BTC",
+    "bidPrice": "0.00000238",
+    "askPrice": "0.00000239"
+}, {
+    "symbol": "GRT_EUR",
+    "bidPrice": "0.17950000",
+    "askPrice": "0.17980000"
+}, {
+    "symbol": "BLZ_BTC",
+    "bidPrice": "0.00000506",
+    "askPrice": "0.00000508"
+}, {
+    "symbol": "POWR_USDT",
+    "bidPrice": "0.20670000",
+    "askPrice": "0.20710000"
+}, {
+    "symbol": "OG_BTC",
+    "bidPrice": "0.00012340",
+    "askPrice": "0.00012370"
+}, {
+    "symbol": "XMR_ETH",
+    "bidPrice": "0.09973000",
+    "askPrice": "0.09983000"
+}, {
+    "symbol": "UNI_BTC",
+    "bidPrice": "0.00030000",
+    "askPrice": "0.00030020"
+}, {
+    "symbol": "GMT_GBP",
+    "bidPrice": "0.44630000",
+    "askPrice": "0.44810000"
+}, {
+    "symbol": "ATOM_EUR",
+    "bidPrice": "13.85600000",
+    "askPrice": "13.86900000"
+}, {
+    "symbol": "PEOPLE_BTC",
+    "bidPrice": "0.00000131",
+    "askPrice": "0.00000132"
+}, {
+    "symbol": "ZIL_BIDR",
+    "bidPrice": "464.00",
+    "askPrice": "466.00"
+}, {
+    "symbol": "ALCX_USDT",
+    "bidPrice": "21.93000000",
+    "askPrice": "21.95000000"
+}, {
+    "symbol": "HOT_EUR",
+    "bidPrice": "0.00207800",
+    "askPrice": "0.00211100"
+}, {
+    "symbol": "WING_BTC",
+    "bidPrice": "0.00034080",
+    "askPrice": "0.00034200"
+}, {
+    "symbol": "DYDX_BTC",
+    "bidPrice": "0.00013336",
+    "askPrice": "0.00013343"
+}, {
+    "symbol": "CITY_USDT",
+    "bidPrice": "4.50000000",
+    "askPrice": "4.51000000"
+}, {
+    "symbol": "CTXC_USDT",
+    "bidPrice": "0.33820000",
+    "askPrice": "0.33850000"
+}, {
+    "symbol": "MINA_BNB",
+    "bidPrice": "0.00256500",
+    "askPrice": "0.00257100"
+}, {
+    "symbol": "LUNA_TRY",
+    "bidPrice": "40.37000000",
+    "askPrice": "40.40000000"
+}, {
+    "symbol": "MDT_USDT",
+    "bidPrice": "0.06367000",
+    "askPrice": "0.06375000"
+}, {
+    "symbol": "RVN_BTC",
+    "bidPrice": "0.00000138",
+    "askPrice": "0.00000139"
+}, {
+    "symbol": "1INCH_BTC",
+    "bidPrice": "0.00002515",
+    "askPrice": "0.00002518"
+}, {
+    "symbol": "NKN_BTC",
+    "bidPrice": "0.00000525",
+    "askPrice": "0.00000526"
+}, {
+    "symbol": "DOGE_AUD",
+    "bidPrice": "0.13196000",
+    "askPrice": "0.13215000"
+}, {
+    "symbol": "FARM_USDT",
+    "bidPrice": "40.10000000",
+    "askPrice": "40.20000000"
+}, {
+    "symbol": "HFT_USDT",
+    "bidPrice": "0.59570000",
+    "askPrice": "0.59640000"
+}, {
+    "symbol": "SOL_BIDR",
+    "bidPrice": "358014.00",
+    "askPrice": "358760.00"
+}, {
+    "symbol": "AVA_USDT",
+    "bidPrice": "0.73000000",
+    "askPrice": "0.73100000"
+}, {
+    "symbol": "TKO_BTC",
+    "bidPrice": "0.00001584",
+    "askPrice": "0.00001588"
+}, {
+    "symbol": "LRC_ETH",
+    "bidPrice": "0.00023166",
+    "askPrice": "0.00023272"
+}, {
+    "symbol": "FLM_BTC",
+    "bidPrice": "0.00000475",
+    "askPrice": "0.00000476"
+}, {
+    "symbol": "CHR_ETH",
+    "bidPrice": "0.00011900",
+    "askPrice": "0.00011930"
+}, {
+    "symbol": "QNT_BNB",
+    "bidPrice": "0.42380000",
+    "askPrice": "0.42520000"
+}, {
+    "symbol": "PHA_USDT",
+    "bidPrice": "0.20350000",
+    "askPrice": "0.20360000"
+}, {
+    "symbol": "ATOM_BNB",
+    "bidPrice": "0.04481000",
+    "askPrice": "0.04492000"
+}, {
+    "symbol": "PROM_BTC",
+    "bidPrice": "0.00023050",
+    "askPrice": "0.00023090"
+}, {
+    "symbol": "STX_USDT",
+    "bidPrice": "0.31600000",
+    "askPrice": "0.31700000"
+}, {
+    "symbol": "ZIL_BNB",
+    "bidPrice": "0.00009220",
+    "askPrice": "0.00009310"
+}, {
+    "symbol": "ICP_BNB",
+    "bidPrice": "0.01754000",
+    "askPrice": "0.01756000"
+}, {
+    "symbol": "ACH_USDT",
+    "bidPrice": "0.01882000",
+    "askPrice": "0.01883000"
+}, {
+    "symbol": "AERGO_BTC",
+    "bidPrice": "0.00000638",
+    "askPrice": "0.00000640"
+}, {
+    "symbol": "CVX_USDT",
+    "bidPrice": "6.57400000",
+    "askPrice": "6.57700000"
+}, {
+    "symbol": "LUNA_USDT",
+    "bidPrice": "2.11900000",
+    "askPrice": "2.11960000"
+}, {
+    "symbol": "AUTO_USDT",
+    "bidPrice": "329.30000000",
+    "askPrice": "329.40000000"
+}, {
+    "symbol": "TRU_USDT",
+    "bidPrice": "0.04920000",
+    "askPrice": "0.04940000"
+}, {
+    "symbol": "PLA_BTC",
+    "bidPrice": "0.00001140",
+    "askPrice": "0.00001144"
+}, {
+    "symbol": "TVK_USDT",
+    "bidPrice": "0.06150000",
+    "askPrice": "0.06160000"
+}, {
+    "symbol": "FORTH_USDT",
+    "bidPrice": "4.05000000",
+    "askPrice": "4.06000000"
+}, {
+    "symbol": "HFT_BTC",
+    "bidPrice": "0.00002566",
+    "askPrice": "0.00002567"
+}, {
+    "symbol": "WRX_BTC",
+    "bidPrice": "0.00000832",
+    "askPrice": "0.00000833"
+}, {
+    "symbol": "CHZ_GBP",
+    "bidPrice": "0.13780000",
+    "askPrice": "0.13810000"
+}, {
+    "symbol": "LTC_BTC",
+    "bidPrice": "0.00436500",
+    "askPrice": "0.00436600"
+}, {
+    "symbol": "ATOM_BTC",
+    "bidPrice": "0.00064090",
+    "askPrice": "0.00064110"
+}, {
+    "symbol": "STX_BNB",
+    "bidPrice": "0.00095100",
+    "askPrice": "0.00095500"
+}, {
+    "symbol": "DEXE_USDT",
+    "bidPrice": "3.04900000",
+    "askPrice": "3.05000000"
+}, {
+    "symbol": "AUTO_BTC",
+    "bidPrice": "0.01418000",
+    "askPrice": "0.01420000"
+}, {
+    "symbol": "POWR_ETH",
+    "bidPrice": "0.00012310",
+    "askPrice": "0.00012400"
+}, {
+    "symbol": "AVAX_USDT",
+    "bidPrice": "20.63000000",
+    "askPrice": "20.64000000"
+}, {
+    "symbol": "FTM_ETH",
+    "bidPrice": "0.00034360",
+    "askPrice": "0.00034400"
+}, {
+    "symbol": "THETA_ETH",
+    "bidPrice": "0.00070600",
+    "askPrice": "0.00070700"
+}, {
+    "symbol": "POWR_BTC",
+    "bidPrice": "0.00000889",
+    "askPrice": "0.00000892"
+}, {
+    "symbol": "XNO_ETH",
+    "bidPrice": "0.00053960",
+    "askPrice": "0.00054460"
+}, {
+    "symbol": "FIL_BTC",
+    "bidPrice": "0.00023830",
+    "askPrice": "0.00023850"
+}, {
+    "symbol": "SFP_BTC",
+    "bidPrice": "0.00002449",
+    "askPrice": "0.00002453"
+}, {
+    "symbol": "BADGER_BTC",
+    "bidPrice": "0.00014040",
+    "askPrice": "0.00014090"
+}, {
+    "symbol": "BEL_BNB",
+    "bidPrice": "0.00196600",
+    "askPrice": "0.00197200"
+}, {
+    "symbol": "JUV_BTC",
+    "bidPrice": "0.00013460",
+    "askPrice": "0.00013490"
+}, {
+    "symbol": "KLAY_BTC",
+    "bidPrice": "0.00000928",
+    "askPrice": "0.00000930"
+}, {
+    "symbol": "LTO_USDT",
+    "bidPrice": "0.10340000",
+    "askPrice": "0.10350000"
+}, {
+    "symbol": "APE_AUD",
+    "bidPrice": "8.51700000",
+    "askPrice": "8.54300000"
+}, {
+    "symbol": "ANKR_BNB",
+    "bidPrice": "0.00009770",
+    "askPrice": "0.00009790"
+}, {
+    "symbol": "SAND_AUD",
+    "bidPrice": "1.28020000",
+    "askPrice": "1.28560000"
+}, {
+    "symbol": "FIL_USDT",
+    "bidPrice": "5.53500000",
+    "askPrice": "5.53600000"
+}, {
+    "symbol": "DGB_BTC",
+    "bidPrice": "0.00000049",
+    "askPrice": "0.00000050"
+}, {
+    "symbol": "DOT_TRY",
+    "bidPrice": "131.10000000",
+    "askPrice": "131.30000000"
+}, {
+    "symbol": "LIT_BTC",
+    "bidPrice": "0.00004675",
+    "askPrice": "0.00004699"
+}, {
+    "symbol": "APE_ETH",
+    "bidPrice": "0.00354900",
+    "askPrice": "0.00355200"
+}, {
+    "symbol": "MTL_USDT",
+    "bidPrice": "1.13500000",
+    "askPrice": "1.13600000"
+}, {
+    "symbol": "MC_BTC",
+    "bidPrice": "0.00001752",
+    "askPrice": "0.00001754"
+}, {
+    "symbol": "COCOS_USDT",
+    "bidPrice": "0.70050000",
+    "askPrice": "0.70160000"
+}, {
+    "symbol": "SOL_GBP",
+    "bidPrice": "19.63000000",
+    "askPrice": "19.66000000"
+}, {
+    "symbol": "VET_USDT",
+    "bidPrice": "0.02619000",
+    "askPrice": "0.02620000"
+}, {
+    "symbol": "DREP_USDT",
+    "bidPrice": "0.40450000",
+    "askPrice": "0.40520000"
+}, {
+    "symbol": "SANTOS_USDT",
+    "bidPrice": "6.02700000",
+    "askPrice": "6.03300000"
+}, {
+    "symbol": "GRT_ETH",
+    "bidPrice": "0.00011500",
+    "askPrice": "0.00011550"
+}, {
+    "symbol": "XTZ_BTC",
+    "bidPrice": "0.00005311",
+    "askPrice": "0.00005317"
+}, {
+    "symbol": "CVP_ETH",
+    "bidPrice": "0.00027190",
+    "askPrice": "0.00027230"
+}, {
+    "symbol": "ONT_USDT",
+    "bidPrice": "0.24210000",
+    "askPrice": "0.24220000"
+}, {
+    "symbol": "AVAX_AUD",
+    "bidPrice": "29.57000000",
+    "askPrice": "29.63000000"
+}, {
+    "symbol": "MANA_ETH",
+    "bidPrice": "0.00047210",
+    "askPrice": "0.00047300"
+}, {
+    "symbol": "ATM_USDT",
+    "bidPrice": "3.38000000",
+    "askPrice": "3.39000000"
+}, {
+    "symbol": "EGLD_EUR",
+    "bidPrice": "43.95000000",
+    "askPrice": "43.97000000"
+}, {
+    "symbol": "ARPA_RUB",
+    "bidPrice": "3.26900000",
+    "askPrice": "3.31000000"
+}, {
+    "symbol": "IOTX_BTC",
+    "bidPrice": "0.00000145",
+    "askPrice": "0.00000146"
+}, {
+    "symbol": "MAGIC_USDT",
+    "bidPrice": "1.99930000",
+    "askPrice": "2.00100000"
+}, {
+    "symbol": "FORTH_BTC",
+    "bidPrice": "0.00017430",
+    "askPrice": "0.00017520"
+}, {
+    "symbol": "XRP_TRY",
+    "bidPrice": "7.64600000",
+    "askPrice": "7.65100000"
+}, {
+    "symbol": "ENJ_BRL",
+    "bidPrice": "2.66600000",
+    "askPrice": "2.68100000"
+}, {
+    "symbol": "EOS_EUR",
+    "bidPrice": "1.03000000",
+    "askPrice": "1.03100000"
+}, {
+    "symbol": "AAVE_ETH",
+    "bidPrice": "0.05280000",
+    "askPrice": "0.05290000"
+}, {
+    "symbol": "ALICE_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "ENS_USDT",
+    "bidPrice": "15.91000000",
+    "askPrice": "15.92000000"
+}, {
+    "symbol": "RAD_BNB",
+    "bidPrice": "0.00634000",
+    "askPrice": "0.00640000"
+}, {
+    "symbol": "YFII_USDT",
+    "bidPrice": "1338.50000000",
+    "askPrice": "1339.50000000"
+}, {
+    "symbol": "HOT_USDT",
+    "bidPrice": "0.00224000",
+    "askPrice": "0.00224100"
+}, {
+    "symbol": "PEOPLE_BNB",
+    "bidPrice": "0.00009195",
+    "askPrice": "0.00009242"
+}, {
+    "symbol": "HOT_TRY",
+    "bidPrice": "0.04267000",
+    "askPrice": "0.04272000"
+}, {
+    "symbol": "SNX_BNB",
+    "bidPrice": "0.00890000",
+    "askPrice": "0.00894000"
+}, {
+    "symbol": "PORTO_USDT",
+    "bidPrice": "3.15280000",
+    "askPrice": "3.15460000"
+}, {
+    "symbol": "MINA_TRY",
+    "bidPrice": "16.23000000",
+    "askPrice": "16.26000000"
+}, {
+    "symbol": "MDX_USDT",
+    "bidPrice": "0.10010000",
+    "askPrice": "0.10030000"
+}, {
+    "symbol": "ZEN_USDT",
+    "bidPrice": "11.75000000",
+    "askPrice": "11.77000000"
+}, {
+    "symbol": "BURGER_USDT",
+    "bidPrice": "0.73700000",
+    "askPrice": "0.73900000"
+}, {
+    "symbol": "FIL_TRY",
+    "bidPrice": "105.37000000",
+    "askPrice": "105.71000000"
+}, {
+    "symbol": "AVAX_BTC",
+    "bidPrice": "0.00088850",
+    "askPrice": "0.00088910"
+}, {
+    "symbol": "ADA_BNB",
+    "bidPrice": "0.00119800",
+    "askPrice": "0.00120000"
+}, {
+    "symbol": "JOE_BTC",
+    "bidPrice": "0.00001197",
+    "askPrice": "0.00001200"
+}, {
+    "symbol": "ALICE_BTC",
+    "bidPrice": "0.00009120",
+    "askPrice": "0.00009140"
+}, {
+    "symbol": "BETA_USDT",
+    "bidPrice": "0.10702000",
+    "askPrice": "0.10721000"
+}, {
+    "symbol": "LINK_AUD",
+    "bidPrice": "10.31400000",
+    "askPrice": "10.33100000"
+}, {
+    "symbol": "STG_USDT",
+    "bidPrice": "0.85370000",
+    "askPrice": "0.85440000"
+}, {
+    "symbol": "LRC_TRY",
+    "bidPrice": "7.41000000",
+    "askPrice": "7.43000000"
+}, {
+    "symbol": "KNC_USDT",
+    "bidPrice": "0.92100000",
+    "askPrice": "0.92200000"
+}, {
+    "symbol": "GAL_BRL",
+    "bidPrice": "13.15000000",
+    "askPrice": "13.44000000"
+}, {
+    "symbol": "ELF_ETH",
+    "bidPrice": "0.00012210",
+    "askPrice": "0.00012290"
+}, {
+    "symbol": "XLM_EUR",
+    "bidPrice": "0.08560000",
+    "askPrice": "0.08570000"
+}, {
+    "symbol": "MATIC_AUD",
+    "bidPrice": "1.83060000",
+    "askPrice": "1.83420000"
+}, {
+    "symbol": "DASH_BNB",
+    "bidPrice": "0.19730000",
+    "askPrice": "0.19790000"
+}, {
+    "symbol": "WAVES_TRY",
+    "bidPrice": "53.40000000",
+    "askPrice": "53.50000000"
+}, {
+    "symbol": "FLUX_BTC",
+    "bidPrice": "0.00004171",
+    "askPrice": "0.00004177"
+}, {
+    "symbol": "OP_BTC",
+    "bidPrice": "0.00012982",
+    "askPrice": "0.00012992"
+}, {
+    "symbol": "KDA_BTC",
+    "bidPrice": "0.00005250",
+    "askPrice": "0.00005260"
+}, {
+    "symbol": "ATOM_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "LAZIO_USDT",
+    "bidPrice": "3.57750000",
+    "askPrice": "3.57860000"
+}, {
+    "symbol": "FIDA_USDT",
+    "bidPrice": "0.45670000",
+    "askPrice": "0.45690000"
+}, {
+    "symbol": "DOT_RUB",
+    "bidPrice": "490.20000000",
+    "askPrice": "491.60000000"
+}, {
+    "symbol": "ELF_USDT",
+    "bidPrice": "0.20510000",
+    "askPrice": "0.20530000"
+}, {
+    "symbol": "MOVR_BTC",
+    "bidPrice": "0.00041960",
+    "askPrice": "0.00042050"
+}, {
+    "symbol": "BTC_TRY",
+    "bidPrice": "442608.00000000",
+    "askPrice": "442781.00000000"
+}, {
+    "symbol": "QI_BTC",
+    "bidPrice": "0.00000044",
+    "askPrice": "0.00000045"
+}, {
+    "symbol": "LINK_TRY",
+    "bidPrice": "137.10000000",
+    "askPrice": "137.30000000"
+}, {
+    "symbol": "SC_ETH",
+    "bidPrice": "0.00000331",
+    "askPrice": "0.00000333"
+}, {
+    "symbol": "AVAX_BNB",
+    "bidPrice": "0.06218000",
+    "askPrice": "0.06223000"
+}, {
+    "symbol": "RUNE_BTC",
+    "bidPrice": "0.00008320",
+    "askPrice": "0.00008340"
+}, {
+    "symbol": "KNC_ETH",
+    "bidPrice": "0.00054930",
+    "askPrice": "0.00055080"
+}, {
+    "symbol": "DUSK_BTC",
+    "bidPrice": "0.00000732",
+    "askPrice": "0.00000733"
+}, {
+    "symbol": "AGLD_USDT",
+    "bidPrice": "0.54100000",
+    "askPrice": "0.54200000"
+}, {
+    "symbol": "MANA_BTC",
+    "bidPrice": "0.00003407",
+    "askPrice": "0.00003409"
+}, {
+    "symbol": "OXT_BTC",
+    "bidPrice": "0.00000432",
+    "askPrice": "0.00000433"
+}, {
+    "symbol": "PORTO_TRY",
+    "bidPrice": "60.10000000",
+    "askPrice": "60.13000000"
+}, {
+    "symbol": "CTSI_BTC",
+    "bidPrice": "0.00000744",
+    "askPrice": "0.00000746"
+}, {
+    "symbol": "BTS_USDT",
+    "bidPrice": "0.01154000",
+    "askPrice": "0.01157000"
+}, {
+    "symbol": "ALGO_RUB",
+    "bidPrice": "19.90000000",
+    "askPrice": "20.19000000"
+}, {
+    "symbol": "USDT_TRY",
+    "bidPrice": "19.06000000",
+    "askPrice": "19.07000000"
+}, {
+    "symbol": "ALGO_BNB",
+    "bidPrice": "0.00084100",
+    "askPrice": "0.00084300"
+}, {
+    "symbol": "MANA_USDT",
+    "bidPrice": "0.79110000",
+    "askPrice": "0.79120000"
+}, {
+    "symbol": "PORTO_EUR",
+    "bidPrice": "2.93510000",
+    "askPrice": "2.94020000"
+}, {
+    "symbol": "RUNE_GBP",
+    "bidPrice": "1.60100000",
+    "askPrice": "1.60800000"
+}, {
+    "symbol": "DAR_BTC",
+    "bidPrice": "0.00001086",
+    "askPrice": "0.00001088"
+}, {
+    "symbol": "AGIX_BTC",
+    "bidPrice": "0.00002422",
+    "askPrice": "0.00002428"
+}, {
+    "symbol": "AGLD_BTC",
+    "bidPrice": "0.00002331",
+    "askPrice": "0.00002335"
+}, {
+    "symbol": "STEEM_BTC",
+    "bidPrice": "0.00000991",
+    "askPrice": "0.00000994"
+}, {
+    "symbol": "GALA_TRY",
+    "bidPrice": "1.04500000",
+    "askPrice": "1.04770000"
+}, {
+    "symbol": "ICP_TRY",
+    "bidPrice": "110.90000000",
+    "askPrice": "111.20000000"
+}, {
+    "symbol": "AXS_TRY",
+    "bidPrice": "221.20000000",
+    "askPrice": "221.50000000"
+}, {
+    "symbol": "BNB_ETH",
+    "bidPrice": "0.19790000",
+    "askPrice": "0.19810000"
+}, {
+    "symbol": "MATIC_GBP",
+    "bidPrice": "1.06050000",
+    "askPrice": "1.06090000"
+}, {
+    "symbol": "OGN_BTC",
+    "bidPrice": "0.00000633",
+    "askPrice": "0.00000635"
+}, {
+    "symbol": "BTC_IDRT",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "ASTR_USDT",
+    "bidPrice": "0.06210000",
+    "askPrice": "0.06230000"
+}, {
+    "symbol": "JOE_USDT",
+    "bidPrice": "0.27810000",
+    "askPrice": "0.27820000"
+}, {
+    "symbol": "CKB_USDT",
+    "bidPrice": "0.00387000",
+    "askPrice": "0.00388000"
+}, {
+    "symbol": "CELO_USDT",
+    "bidPrice": "0.80600000",
+    "askPrice": "0.80700000"
+}, {
+    "symbol": "LINA_USDT",
+    "bidPrice": "0.00834900",
+    "askPrice": "0.00835600"
+}, {
+    "symbol": "KNC_BNB",
+    "bidPrice": "0.00277400",
+    "askPrice": "0.00279000"
+}, {
+    "symbol": "STORJ_TRY",
+    "bidPrice": "9.19000000",
+    "askPrice": "9.23000000"
+}, {
+    "symbol": "TRU_RUB",
+    "bidPrice": "3.48000000",
+    "askPrice": "3.53000000"
+}, {
+    "symbol": "ENJ_GBP",
+    "bidPrice": "0.42370000",
+    "askPrice": "0.42940000"
+}, {
+    "symbol": "CTSI_USDT",
+    "bidPrice": "0.17300000",
+    "askPrice": "0.17310000"
+}, {
+    "symbol": "PAXG_BTC",
+    "bidPrice": "0.07993000",
+    "askPrice": "0.07999000"
+}, {
+    "symbol": "LTC_BNB",
+    "bidPrice": "0.30530000",
+    "askPrice": "0.30550000"
+}, {
+    "symbol": "WRX_BNB",
+    "bidPrice": "0.00058200",
+    "askPrice": "0.00058500"
+}, {
+    "symbol": "ENS_BNB",
+    "bidPrice": "0.04774000",
+    "askPrice": "0.04817000"
+}, {
+    "symbol": "FLUX_USDT",
+    "bidPrice": "0.96800000",
+    "askPrice": "0.96900000"
+}, {
+    "symbol": "CHR_BNB",
+    "bidPrice": "0.00060120",
+    "askPrice": "0.00060190"
+}, {
+    "symbol": "WBTC_ETH",
+    "bidPrice": "13.85000000",
+    "askPrice": "13.86000000"
+}, {
+    "symbol": "UTK_USDT",
+    "bidPrice": "0.11100000",
+    "askPrice": "0.11120000"
+}, {
+    "symbol": "BNB_DAI",
+    "bidPrice": "331.60000000",
+    "askPrice": "332.10000000"
+}, {
+    "symbol": "YFI_USDT",
+    "bidPrice": "7807.00000000",
+    "askPrice": "7810.00000000"
+}, {
+    "symbol": "APT_BTC",
+    "bidPrice": "0.00068584",
+    "askPrice": "0.00068613"
+}, {
+    "symbol": "MATIC_EUR",
+    "bidPrice": "1.19030000",
+    "askPrice": "1.19060000"
+}, {
+    "symbol": "XRP_EUR",
+    "bidPrice": "0.37370000",
+    "askPrice": "0.37380000"
+}, {
+    "symbol": "IRIS_USDT",
+    "bidPrice": "0.01977000",
+    "askPrice": "0.01978000"
+}, {
+    "symbol": "CAKE_USDT",
+    "bidPrice": "4.56300000",
+    "askPrice": "4.56600000"
+}, {
+    "symbol": "LAZIO_TRY",
+    "bidPrice": "68.11400000",
+    "askPrice": "68.27300000"
+}, {
+    "symbol": "ACA_USDT",
+    "bidPrice": "0.14120000",
+    "askPrice": "0.14130000"
+}, {
+    "symbol": "MDT_BTC",
+    "bidPrice": "0.00000274",
+    "askPrice": "0.00000275"
+}, {
+    "symbol": "FLOW_USDT",
+    "bidPrice": "1.24500000",
+    "askPrice": "1.24600000"
+}, {
+    "symbol": "AUCTION_BTC",
+    "bidPrice": "0.00026720",
+    "askPrice": "0.00026870"
+}, {
+    "symbol": "DOT_BNB",
+    "bidPrice": "0.02074000",
+    "askPrice": "0.02076000"
+}, {
+    "symbol": "USDT_DAI",
+    "bidPrice": "1.00020000",
+    "askPrice": "1.00040000"
+}, {
+    "symbol": "AVA_BTC",
+    "bidPrice": "0.00003142",
+    "askPrice": "0.00003149"
+}, {
+    "symbol": "VIDT_USDT",
+    "bidPrice": "0.05816000",
+    "askPrice": "0.05831000"
+}, {
+    "symbol": "SCRT_USDT",
+    "bidPrice": "0.84100000",
+    "askPrice": "0.84200000"
+}, {
+    "symbol": "BNB_RUB",
+    "bidPrice": "23638.87000000",
+    "askPrice": "23674.52000000"
+}, {
+    "symbol": "GAS_BTC",
+    "bidPrice": "0.00011530",
+    "askPrice": "0.00011550"
+}, {
+    "symbol": "C98_BNB",
+    "bidPrice": "0.00085900",
+    "askPrice": "0.00086800"
+}, {
+    "symbol": "FTM_AUD",
+    "bidPrice": "0.82520000",
+    "askPrice": "0.82660000"
+}, {
+    "symbol": "DODO_BTC",
+    "bidPrice": "0.00000715",
+    "askPrice": "0.00000718"
+}, {
+    "symbol": "PORTO_BTC",
+    "bidPrice": "0.00013562",
+    "askPrice": "0.00013596"
+}, {
+    "symbol": "BAT_ETH",
+    "bidPrice": "0.00018480",
+    "askPrice": "0.00018510"
+}, {
+    "symbol": "RLC_BTC",
+    "bidPrice": "0.00009724",
+    "askPrice": "0.00009742"
+}, {
+    "symbol": "ETH_GBP",
+    "bidPrice": "1390.28000000",
+    "askPrice": "1390.89000000"
+}, {
+    "symbol": "IOTX_ETH",
+    "bidPrice": "0.00002020",
+    "askPrice": "0.00002022"
+}, {
+    "symbol": "BNT_ETH",
+    "bidPrice": "0.00028600",
+    "askPrice": "0.00028700"
+}, {
+    "symbol": "GMT_AUD",
+    "bidPrice": "0.77210000",
+    "askPrice": "0.77290000"
+}, {
+    "symbol": "WAXP_BNB",
+    "bidPrice": "0.00024360",
+    "askPrice": "0.00024420"
+}, {
+    "symbol": "DOT_BTC",
+    "bidPrice": "0.00029630",
+    "askPrice": "0.00029640"
+}, {
+    "symbol": "TRX_XRP",
+    "bidPrice": "0.16432000",
+    "askPrice": "0.16456000"
+}, {
+    "symbol": "DASH_USDT",
+    "bidPrice": "65.50000000",
+    "askPrice": "65.51000000"
+}, {
+    "symbol": "ETH_EUR",
+    "bidPrice": "1560.90000000",
+    "askPrice": "1560.91000000"
+}, {
+    "symbol": "POND_BTC",
+    "bidPrice": "0.00000049",
+    "askPrice": "0.00000050"
+}, {
+    "symbol": "LDO_BTC",
+    "bidPrice": "0.00011377",
+    "askPrice": "0.00011388"
+}, {
+    "symbol": "XEM_USDT",
+    "bidPrice": "0.04300000",
+    "askPrice": "0.04310000"
+}, {
+    "symbol": "GAL_TRY",
+    "bidPrice": "48.70000000",
+    "askPrice": "48.90000000"
+}, {
+    "symbol": "OMG_ETH",
+    "bidPrice": "0.00099500",
+    "askPrice": "0.00099800"
+}, {
+    "symbol": "THETA_BTC",
+    "bidPrice": "0.00005100",
+    "askPrice": "0.00005110"
+}, {
+    "symbol": "BTC_DAI",
+    "bidPrice": "23213.85000000",
+    "askPrice": "23235.89000000"
+}, {
+    "symbol": "LTO_BTC",
+    "bidPrice": "0.00000445",
+    "askPrice": "0.00000446"
+}, {
+    "symbol": "XNO_USDT",
+    "bidPrice": "0.90800000",
+    "askPrice": "0.90900000"
+}, {
+    "symbol": "IOST_BTC",
+    "bidPrice": "0.00000048",
+    "askPrice": "0.00000050"
+}, {
+    "symbol": "KAVA_ETH",
+    "bidPrice": "0.00061400",
+    "askPrice": "0.00061600"
+}, {
+    "symbol": "XRP_BIDR",
+    "bidPrice": "6067.00",
+    "askPrice": "6076.00"
+}, {
+    "symbol": "BTC_GBP",
+    "bidPrice": "19270.63000000",
+    "askPrice": "19275.79000000"
+}, {
+    "symbol": "T_USDT",
+    "bidPrice": "0.04476000",
+    "askPrice": "0.04479000"
+}, {
+    "symbol": "SUSHI_BNB",
+    "bidPrice": "0.00457000",
+    "askPrice": "0.00458000"
+}, {
+    "symbol": "IDEX_USDT",
+    "bidPrice": "0.05742000",
+    "askPrice": "0.05746000"
+}, {
+    "symbol": "SAND_TRY",
+    "bidPrice": "17.07000000",
+    "askPrice": "17.08000000"
+}, {
+    "symbol": "ZEN_ETH",
+    "bidPrice": "0.00701000",
+    "askPrice": "0.00702000"
+}, {
+    "symbol": "ARPA_USDT",
+    "bidPrice": "0.04597000",
+    "askPrice": "0.04598000"
+}, {
+    "symbol": "ADA_ETH",
+    "bidPrice": "0.00023730",
+    "askPrice": "0.00023740"
+}, {
+    "symbol": "ROSE_TRY",
+    "bidPrice": "1.27800000",
+    "askPrice": "1.28000000"
+}, {
+    "symbol": "MBOX_BNB",
+    "bidPrice": "0.00180800",
+    "askPrice": "0.00181100"
+}, {
+    "symbol": "SPELL_USDT",
+    "bidPrice": "0.00086230",
+    "askPrice": "0.00086300"
+}, {
+    "symbol": "DOGE_BIDR",
+    "bidPrice": "1394.00",
+    "askPrice": "1395.00"
+}, {
+    "symbol": "AXS_BRL",
+    "bidPrice": "60.00000000",
+    "askPrice": "60.40000000"
+}, {
+    "symbol": "CFX_USDT",
+    "bidPrice": "0.06950000",
+    "askPrice": "0.06960000"
+}, {
+    "symbol": "WRX_USDT",
+    "bidPrice": "0.19340000",
+    "askPrice": "0.19360000"
+}, {
+    "symbol": "STORJ_USDT",
+    "bidPrice": "0.48360000",
+    "askPrice": "0.48400000"
+}, {
+    "symbol": "ACA_BTC",
+    "bidPrice": "0.00000607",
+    "askPrice": "0.00000609"
+}, {
+    "symbol": "POLS_BTC",
+    "bidPrice": "0.00002053",
+    "askPrice": "0.00002063"
+}, {
+    "symbol": "AUD_USDT",
+    "bidPrice": "0.69730000",
+    "askPrice": "0.69740000"
+}, {
+    "symbol": "LRC_BTC",
+    "bidPrice": "0.00001675",
+    "askPrice": "0.00001676"
+}, {
+    "symbol": "IOST_ETH",
+    "bidPrice": "0.00000677",
+    "askPrice": "0.00000680"
+}, {
+    "symbol": "LSK_BTC",
+    "bidPrice": "0.00004870",
+    "askPrice": "0.00004891"
+}, {
+    "symbol": "ROSE_USDT",
+    "bidPrice": "0.06707000",
+    "askPrice": "0.06709000"
+}, {
+    "symbol": "ZEC_BNB",
+    "bidPrice": "0.13940000",
+    "askPrice": "0.13970000"
+}, {
+    "symbol": "COCOS_BNB",
+    "bidPrice": "0.00210700",
+    "askPrice": "0.00211800"
+}, {
+    "symbol": "HBAR_BTC",
+    "bidPrice": "0.00000322",
+    "askPrice": "0.00000323"
+}, {
+    "symbol": "OXT_USDT",
+    "bidPrice": "0.10030000",
+    "askPrice": "0.10050000"
+}, {
+    "symbol": "ATM_BTC",
+    "bidPrice": "0.00014540",
+    "askPrice": "0.00014610"
+}, {
+    "symbol": "ENS_TRY",
+    "bidPrice": "302.50000000",
+    "askPrice": "306.60000000"
+}, {
+    "symbol": "XVS_BTC",
+    "bidPrice": "0.00025860",
+    "askPrice": "0.00025900"
+}, {
+    "symbol": "XMR_USDT",
+    "bidPrice": "167.10000000",
+    "askPrice": "167.20000000"
+}, {
+    "symbol": "GALA_ETH",
+    "bidPrice": "0.00003278",
+    "askPrice": "0.00003282"
+}, {
+    "symbol": "TFUEL_BTC",
+    "bidPrice": "0.00000249",
+    "askPrice": "0.00000250"
+}, {
+    "symbol": "BCH_BTC",
+    "bidPrice": "0.00580000",
+    "askPrice": "0.00581000"
+}, {
+    "symbol": "JST_BTC",
+    "bidPrice": "0.00000126",
+    "askPrice": "0.00000127"
+}, {
+    "symbol": "ATA_USDT",
+    "bidPrice": "0.18230000",
+    "askPrice": "0.18240000"
+}, {
+    "symbol": "CITY_BTC",
+    "bidPrice": "0.00019400",
+    "askPrice": "0.00019480"
+}, {
+    "symbol": "COS_BTC",
+    "bidPrice": "0.00000031",
+    "askPrice": "0.00000032"
+}, {
+    "symbol": "PEOPLE_ETH",
+    "bidPrice": "0.00001819",
+    "askPrice": "0.00001829"
+}, {
+    "symbol": "MATIC_BIDR",
+    "bidPrice": "19336.00",
+    "askPrice": "19362.00"
+}, {
+    "symbol": "KSM_BTC",
+    "bidPrice": "0.00159800",
+    "askPrice": "0.00160000"
+}, {
+    "symbol": "EGLD_BTC",
+    "bidPrice": "0.00203100",
+    "askPrice": "0.00203300"
+}, {
+    "symbol": "NEXO_BTC",
+    "bidPrice": "0.00003307",
+    "askPrice": "0.00003313"
+}, {
+    "symbol": "MLN_USDT",
+    "bidPrice": "25.77000000",
+    "askPrice": "25.81000000"
+}, {
+    "symbol": "WAVES_EUR",
+    "bidPrice": "2.60500000",
+    "askPrice": "2.61600000"
+}, {
+    "symbol": "BEL_USDT",
+    "bidPrice": "0.65300000",
+    "askPrice": "0.65400000"
+}, {
+    "symbol": "GBP_USDT",
+    "bidPrice": "1.20400000",
+    "askPrice": "1.20500000"
+}, {
+    "symbol": "ETC_ETH",
+    "bidPrice": "0.01367000",
+    "askPrice": "0.01371000"
+}, {
+    "symbol": "WING_USDT",
+    "bidPrice": "7.92000000",
+    "askPrice": "7.94000000"
+}, {
+    "symbol": "POLYX_BTC",
+    "bidPrice": "0.00000896",
+    "askPrice": "0.00000902"
+}, {
+    "symbol": "MBOX_BTC",
+    "bidPrice": "0.00002581",
+    "askPrice": "0.00002589"
+}, {
+    "symbol": "LOKA_BTC",
+    "bidPrice": "0.00003194",
+    "askPrice": "0.00003208"
+}, {
+    "symbol": "ROSE_BTC",
+    "bidPrice": "0.00000288",
+    "askPrice": "0.00000289"
+}, {
+    "symbol": "TVK_BTC",
+    "bidPrice": "0.00000265",
+    "askPrice": "0.00000266"
+}, {
+    "symbol": "GMT_TRY",
+    "bidPrice": "10.27000000",
+    "askPrice": "10.28000000"
+}, {
+    "symbol": "SUPER_USDT",
+    "bidPrice": "0.14830000",
+    "askPrice": "0.14850000"
+}, {
+    "symbol": "DOT_ETH",
+    "bidPrice": "0.00410300",
+    "askPrice": "0.00410800"
+}, {
+    "symbol": "NEAR_BTC",
+    "bidPrice": "0.00010965",
+    "askPrice": "0.00010970"
+}, {
+    "symbol": "BNB_EUR",
+    "bidPrice": "309.00000000",
+    "askPrice": "309.10000000"
+}, {
+    "symbol": "EOS_ETH",
+    "bidPrice": "0.00065900",
+    "askPrice": "0.00066100"
+}, {
+    "symbol": "USDT_UAH",
+    "bidPrice": "39.65000000",
+    "askPrice": "39.67000000"
+}, {
+    "symbol": "RVN_TRY",
+    "bidPrice": "0.61280000",
+    "askPrice": "0.61360000"
+}, {
+    "symbol": "FRONT_USDT",
+    "bidPrice": "0.25040000",
+    "askPrice": "0.25070000"
+}, {
+    "symbol": "CITY_BNB",
+    "bidPrice": "0.01352000",
+    "askPrice": "0.01365000"
+}, {
+    "symbol": "SSV_BTC",
+    "bidPrice": "0.00129610",
+    "askPrice": "0.00130050"
+}, {
+    "symbol": "FIRO_BTC",
+    "bidPrice": "0.00009910",
+    "askPrice": "0.00009920"
+}, {
+    "symbol": "AVAX_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "SHIB_EUR",
+    "bidPrice": "0.00001323",
+    "askPrice": "0.00001325"
+}, {
+    "symbol": "ALGO_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "ETC_EUR",
+    "bidPrice": "21.35000000",
+    "askPrice": "21.39000000"
+}, {
+    "symbol": "RNDR_USDT",
+    "bidPrice": "2.03000000",
+    "askPrice": "2.03200000"
+}, {
+    "symbol": "UMA_TRY",
+    "bidPrice": "41.30000000",
+    "askPrice": "41.40000000"
+}, {
+    "symbol": "SNX_BTC",
+    "bidPrice": "0.00012720",
+    "askPrice": "0.00012730"
+}, {
+    "symbol": "USDT_RUB",
+    "bidPrice": "71.34000000",
+    "askPrice": "71.35000000"
+}, {
+    "symbol": "ETH_AUD",
+    "bidPrice": "2401.62000000",
+    "askPrice": "2402.89000000"
+}, {
+    "symbol": "CLV_BTC",
+    "bidPrice": "0.00000343",
+    "askPrice": "0.00000346"
+}, {
+    "symbol": "FTM_BNB",
+    "bidPrice": "0.00173590",
+    "askPrice": "0.00173700"
+}, {
+    "symbol": "DEGO_BTC",
+    "bidPrice": "0.00012282",
+    "askPrice": "0.00012321"
+}, {
+    "symbol": "AXS_ETH",
+    "bidPrice": "0.00692000",
+    "askPrice": "0.00694000"
+}, {
+    "symbol": "OM_BTC",
+    "bidPrice": "0.00000185",
+    "askPrice": "0.00000186"
+}, {
+    "symbol": "INJ_BNB",
+    "bidPrice": "0.01281000",
+    "askPrice": "0.01282000"
+}, {
+    "symbol": "SOL_TRY",
+    "bidPrice": "451.10000000",
+    "askPrice": "451.50000000"
+}, {
+    "symbol": "TKO_USDT",
+    "bidPrice": "0.36810000",
+    "askPrice": "0.36830000"
+}, {
+    "symbol": "ALPINE_USDT",
+    "bidPrice": "2.93000000",
+    "askPrice": "2.93060000"
+}, {
+    "symbol": "SNT_ETH",
+    "bidPrice": "0.00001813",
+    "askPrice": "0.00001817"
+}, {
+    "symbol": "HBAR_BNB",
+    "bidPrice": "0.00022500",
+    "askPrice": "0.00022590"
+}, {
+    "symbol": "NEO_USDT",
+    "bidPrice": "9.13000000",
+    "askPrice": "9.14000000"
+}, {
+    "symbol": "ETH_NGN",
+    "bidPrice": "767360.00000000",
+    "askPrice": "809990.00000000"
+}, {
+    "symbol": "DAR_TRY",
+    "bidPrice": "4.80000000",
+    "askPrice": "4.82000000"
+}, {
+    "symbol": "TRB_USDT",
+    "bidPrice": "19.29000000",
+    "askPrice": "19.32000000"
+}, {
+    "symbol": "CFX_BTC",
+    "bidPrice": "0.00000298",
+    "askPrice": "0.00000300"
+}, {
+    "symbol": "SOL_BTC",
+    "bidPrice": "0.00101930",
+    "askPrice": "0.00101940"
+}, {
+    "symbol": "ALGO_ETH",
+    "bidPrice": "0.00016670",
+    "askPrice": "0.00016690"
+}, {
+    "symbol": "FIRO_USDT",
+    "bidPrice": "2.30300000",
+    "askPrice": "2.30700000"
+}, {
+    "symbol": "AUCTION_USDT",
+    "bidPrice": "6.20000000",
+    "askPrice": "6.21000000"
+}, {
+    "symbol": "REEF_USDT",
+    "bidPrice": "0.00362000",
+    "askPrice": "0.00362300"
+}, {
+    "symbol": "NMR_BTC",
+    "bidPrice": "0.00103300",
+    "askPrice": "0.00103600"
+}, {
+    "symbol": "IDEX_BTC",
+    "bidPrice": "0.00000247",
+    "askPrice": "0.00000248"
+}, {
+    "symbol": "PROS_ETH",
+    "bidPrice": "0.00037880",
+    "askPrice": "0.00038140"
+}, {
+    "symbol": "XRP_GBP",
+    "bidPrice": "0.33290000",
+    "askPrice": "0.33320000"
+}, {
+    "symbol": "SYS_BTC",
+    "bidPrice": "0.00000749",
+    "askPrice": "0.00000751"
+}, {
+    "symbol": "CLV_BNB",
+    "bidPrice": "0.00024020",
+    "askPrice": "0.00024120"
+}, {
+    "symbol": "DAR_USDT",
+    "bidPrice": "0.25241000",
+    "askPrice": "0.25251000"
+}, {
+    "symbol": "XLM_ETH",
+    "bidPrice": "0.00005480",
+    "askPrice": "0.00005490"
+}, {
+    "symbol": "CHZ_BNB",
+    "bidPrice": "0.00050070",
+    "askPrice": "0.00050100"
+}, {
+    "symbol": "VIDT_BTC",
+    "bidPrice": "0.00000250",
+    "askPrice": "0.00000251"
+}, {
+    "symbol": "BNX_USDT",
+    "bidPrice": "101.00000000",
+    "askPrice": "101.10000000"
+}, {
+    "symbol": "QUICK_USDT",
+    "bidPrice": "58.50000000",
+    "askPrice": "58.60000000"
+}, {
+    "symbol": "BAL_BTC",
+    "bidPrice": "0.00030500",
+    "askPrice": "0.00030550"
+}, {
+    "symbol": "USDT_IDRT",
+    "bidPrice": "15132.00",
+    "askPrice": "15140.00"
+}, {
+    "symbol": "TOMO_USDT",
+    "bidPrice": "0.45910000",
+    "askPrice": "0.45950000"
+}, {
+    "symbol": "GLMR_USDT",
+    "bidPrice": "0.50180000",
+    "askPrice": "0.50240000"
+}, {
+    "symbol": "PSG_BTC",
+    "bidPrice": "0.00028870",
+    "askPrice": "0.00028890"
+}, {
+    "symbol": "SNX_ETH",
+    "bidPrice": "0.00176000",
+    "askPrice": "0.00176500"
+}, {
+    "symbol": "CTK_BTC",
+    "bidPrice": "0.00003779",
+    "askPrice": "0.00003783"
+}, {
+    "symbol": "MASK_BNB",
+    "bidPrice": "0.01413000",
+    "askPrice": "0.01418000"
+}, {
+    "symbol": "FLOW_BNB",
+    "bidPrice": "0.00374100",
+    "askPrice": "0.00376200"
+}, {
+    "symbol": "BICO_BTC",
+    "bidPrice": "0.00001756",
+    "askPrice": "0.00001760"
+}, {
+    "symbol": "SLP_TRY",
+    "bidPrice": "0.06484000",
+    "askPrice": "0.06495000"
+}, {
+    "symbol": "ETH_BTC",
+    "bidPrice": "0.07215100",
+    "askPrice": "0.07215200"
+}, {
+    "symbol": "ZRX_ETH",
+    "bidPrice": "0.00015360",
+    "askPrice": "0.00015450"
+}, {
+    "symbol": "AVAX_TRY",
+    "bidPrice": "393.30000000",
+    "askPrice": "393.50000000"
+}, {
+    "symbol": "AR_USDT",
+    "bidPrice": "12.77000000",
+    "askPrice": "12.78000000"
+}, {
+    "symbol": "MLN_BTC",
+    "bidPrice": "0.00111000",
+    "askPrice": "0.00111900"
+}, {
+    "symbol": "PSG_USDT",
+    "bidPrice": "6.70000000",
+    "askPrice": "6.71000000"
+}, {
+    "symbol": "OCEAN_BNB",
+    "bidPrice": "0.00158100",
+    "askPrice": "0.00158400"
+}, {
+    "symbol": "SANTOS_BRL",
+    "bidPrice": "31.17000000",
+    "askPrice": "31.94000000"
+}, {
+    "symbol": "BAL_USDT",
+    "bidPrice": "7.08300000",
+    "askPrice": "7.08800000"
+}, {
+    "symbol": "ELF_BTC",
+    "bidPrice": "0.00000883",
+    "askPrice": "0.00000884"
+}, {
+    "symbol": "CELR_USDT",
+    "bidPrice": "0.01928000",
+    "askPrice": "0.01929000"
+}, {
+    "symbol": "ALICE_BNB",
+    "bidPrice": "0.00636600",
+    "askPrice": "0.00641100"
+}, {
+    "symbol": "ANT_USDT",
+    "bidPrice": "3.06700000",
+    "askPrice": "3.06900000"
+}, {
+    "symbol": "PROS_USDT",
+    "bidPrice": "0.63770000",
+    "askPrice": "0.63910000"
+}, {
+    "symbol": "REN_USDT",
+    "bidPrice": "0.10683300",
+    "askPrice": "0.10687100"
+}, {
+    "symbol": "DASH_ETH",
+    "bidPrice": "0.03906000",
+    "askPrice": "0.03913000"
+}, {
+    "symbol": "GALA_AUD",
+    "bidPrice": "0.07855000",
+    "askPrice": "0.07894000"
+}, {
+    "symbol": "BURGER_BNB",
+    "bidPrice": "0.00222000",
+    "askPrice": "0.00224000"
+}, {
+    "symbol": "ADA_GBP",
+    "bidPrice": "0.32980000",
+    "askPrice": "0.33030000"
+}, {
+    "symbol": "WNXM_USDT",
+    "bidPrice": "17.97000000",
+    "askPrice": "17.99000000"
+}, {
+    "symbol": "ASR_BTC",
+    "bidPrice": "0.00012720",
+    "askPrice": "0.00012780"
+}, {
+    "symbol": "VOXEL_USDT",
+    "bidPrice": "0.39250000",
+    "askPrice": "0.39300000"
+}, {
+    "symbol": "AUDIO_BTC",
+    "bidPrice": "0.00001388",
+    "askPrice": "0.00001390"
+}, {
+    "symbol": "ARPA_BNB",
+    "bidPrice": "0.00013850",
+    "askPrice": "0.00013870"
+}, {
+    "symbol": "MATIC_USDT",
+    "bidPrice": "1.27760000",
+    "askPrice": "1.27770000"
+}, {
+    "symbol": "CHZ_EUR",
+    "bidPrice": "0.15470000",
+    "askPrice": "0.15490000"
+}, {
+    "symbol": "FXS_BTC",
+    "bidPrice": "0.00055059",
+    "askPrice": "0.00055147"
+}, {
+    "symbol": "OP_USDT",
+    "bidPrice": "3.01500000",
+    "askPrice": "3.01600000"
+}, {
+    "symbol": "LTC_BRL",
+    "bidPrice": "524.60000000",
+    "askPrice": "526.00000000"
+}, {
+    "symbol": "QTUM_ETH",
+    "bidPrice": "0.00176800",
+    "askPrice": "0.00177400"
+}, {
+    "symbol": "SOL_EUR",
+    "bidPrice": "22.04000000",
+    "askPrice": "22.05000000"
+}, {
+    "symbol": "XEC_USDT",
+    "bidPrice": "0.00003792",
+    "askPrice": "0.00003793"
+}, {
+    "symbol": "CELR_BNB",
+    "bidPrice": "0.00005784",
+    "askPrice": "0.00005844"
+}, {
+    "symbol": "UFT_ETH",
+    "bidPrice": "0.00022770",
+    "askPrice": "0.00022910"
+}, {
+    "symbol": "EUR_USDT",
+    "bidPrice": "1.07330000",
+    "askPrice": "1.07340000"
+}, {
+    "symbol": "API3_TRY",
+    "bidPrice": "35.27000000",
+    "askPrice": "35.33000000"
+}, {
+    "symbol": "BNT_BTC",
+    "bidPrice": "0.00002061",
+    "askPrice": "0.00002070"
+}, {
+    "symbol": "BNB_USDT",
+    "bidPrice": "331.70000000",
+    "askPrice": "331.80000000"
+}, {
+    "symbol": "ALPHA_USDT",
+    "bidPrice": "0.14040000",
+    "askPrice": "0.14060000"
+}, {
+    "symbol": "TKO_BIDR",
+    "bidPrice": "5569.58",
+    "askPrice": "5580.26"
+}, {
+    "symbol": "ADX_USDT",
+    "bidPrice": "0.19590000",
+    "askPrice": "0.19600000"
+}, {
+    "symbol": "TRX_TRY",
+    "bidPrice": "1.25800000",
+    "askPrice": "1.25880000"
+}, {
+    "symbol": "RAY_BNB",
+    "bidPrice": "0.00094900",
+    "askPrice": "0.00095400"
+}, {
+    "symbol": "BTC_ZAR",
+    "bidPrice": "411452.00000000",
+    "askPrice": "411931.00000000"
+}, {
+    "symbol": "LEVER_USDT",
+    "bidPrice": "0.00262900",
+    "askPrice": "0.00263000"
+}, {
+    "symbol": "SFP_USDT",
+    "bidPrice": "0.56920000",
+    "askPrice": "0.56940000"
+}, {
+    "symbol": "GAL_ETH",
+    "bidPrice": "0.00152600",
+    "askPrice": "0.00153400"
+}, {
+    "symbol": "KP3R_BNB",
+    "bidPrice": "0.25780000",
+    "askPrice": "0.25920000"
+}, {
+    "symbol": "WOO_USDT",
+    "bidPrice": "0.24410000",
+    "askPrice": "0.24420000"
+}, {
+    "symbol": "COS_BNB",
+    "bidPrice": "0.00002211",
+    "askPrice": "0.00002218"
+}, {
+    "symbol": "ETH_DAI",
+    "bidPrice": "1675.19000000",
+    "askPrice": "1675.83000000"
+}, {
+    "symbol": "FTM_USDT",
+    "bidPrice": "0.57580000",
+    "askPrice": "0.57590000"
+}, {
+    "symbol": "QTUM_BTC",
+    "bidPrice": "0.00012770",
+    "askPrice": "0.00012790"
+}, {
+    "symbol": "LTC_USDT",
+    "bidPrice": "101.35000000",
+    "askPrice": "101.36000000"
+}, {
+    "symbol": "IOTX_USDT",
+    "bidPrice": "0.03385000",
+    "askPrice": "0.03386000"
+}, {
+    "symbol": "GTC_BTC",
+    "bidPrice": "0.00009320",
+    "askPrice": "0.00009340"
+}, {
+    "symbol": "XMR_BTC",
+    "bidPrice": "0.00719700",
+    "askPrice": "0.00720200"
+}, {
+    "symbol": "ARPA_TRY",
+    "bidPrice": "0.87680000",
+    "askPrice": "0.87710000"
+}, {
+    "symbol": "MDX_BTC",
+    "bidPrice": "0.00000430",
+    "askPrice": "0.00000433"
+}, {
+    "symbol": "VITE_USDT",
+    "bidPrice": "0.02702000",
+    "askPrice": "0.02706000"
+}, {
+    "symbol": "GLM_BTC",
+    "bidPrice": "0.00001134",
+    "askPrice": "0.00001137"
+}, {
+    "symbol": "COS_USDT",
+    "bidPrice": "0.00733000",
+    "askPrice": "0.00734000"
+}, {
+    "symbol": "CRV_USDT",
+    "bidPrice": "1.10400000",
+    "askPrice": "1.10500000"
+}, {
+    "symbol": "KAVA_USDT",
+    "bidPrice": "1.03000000",
+    "askPrice": "1.03100000"
+}, {
+    "symbol": "MATIC_BTC",
+    "bidPrice": "0.00005503",
+    "askPrice": "0.00005504"
+}, {
+    "symbol": "THETA_EUR",
+    "bidPrice": "1.10000000",
+    "askPrice": "1.10400000"
+}, {
+    "symbol": "ONE_BNB",
+    "bidPrice": "0.00008410",
+    "askPrice": "0.00008430"
+}, {
+    "symbol": "INJ_BTC",
+    "bidPrice": "0.00018300",
+    "askPrice": "0.00018330"
+}, {
+    "symbol": "IOTA_BTC",
+    "bidPrice": "0.00001084",
+    "askPrice": "0.00001086"
+}, {
+    "symbol": "ONT_ETH",
+    "bidPrice": "0.00014420",
+    "askPrice": "0.00014470"
+}, {
+    "symbol": "THETA_USDT",
+    "bidPrice": "1.18400000",
+    "askPrice": "1.18500000"
+}, {
+    "symbol": "DOT_GBP",
+    "bidPrice": "5.70700000",
+    "askPrice": "5.71800000"
+}, {
+    "symbol": "GMX_BTC",
+    "bidPrice": "0.00301800",
+    "askPrice": "0.00302300"
+}, {
+    "symbol": "ZEN_BTC",
+    "bidPrice": "0.00050600",
+    "askPrice": "0.00050700"
+}, {
+    "symbol": "ZRX_BTC",
+    "bidPrice": "0.00001109",
+    "askPrice": "0.00001112"
+}, {
+    "symbol": "BAKE_BNB",
+    "bidPrice": "0.00075000",
+    "askPrice": "0.00075100"
+}, {
+    "symbol": "ADX_ETH",
+    "bidPrice": "0.00011690",
+    "askPrice": "0.00011710"
+}, {
+    "symbol": "AXS_BIDR",
+    "bidPrice": "175008.00",
+    "askPrice": "179899.00"
+}, {
+    "symbol": "NEBL_USDT",
+    "bidPrice": "1.69200000",
+    "askPrice": "1.69600000"
+}, {
+    "symbol": "COTI_BTC",
+    "bidPrice": "0.00000446",
+    "askPrice": "0.00000447"
+}, {
+    "symbol": "IOST_USDT",
+    "bidPrice": "0.01138000",
+    "askPrice": "0.01139000"
+}, {
+    "symbol": "BCH_BNB",
+    "bidPrice": "0.40500000",
+    "askPrice": "0.40700000"
+}, {
+    "symbol": "FIDA_BTC",
+    "bidPrice": "0.00001965",
+    "askPrice": "0.00001971"
+}, {
+    "symbol": "ALGO_BTC",
+    "bidPrice": "0.00001203",
+    "askPrice": "0.00001204"
+}, {
+    "symbol": "SHIB_DOGE",
+    "bidPrice": "0.00015420",
+    "askPrice": "0.00015450"
+}, {
+    "symbol": "ZEC_BTC",
+    "bidPrice": "0.00199300",
+    "askPrice": "0.00199400"
+}, {
+    "symbol": "SHIB_BRL",
+    "bidPrice": "0.00007369",
+    "askPrice": "0.00007377"
+}, {
+    "symbol": "SOL_AUD",
+    "bidPrice": "33.92000000",
+    "askPrice": "33.97000000"
+}, {
+    "symbol": "REQ_USDT",
+    "bidPrice": "0.11510000",
+    "askPrice": "0.11530000"
+}, {
+    "symbol": "WAXP_BTC",
+    "bidPrice": "0.00000347",
+    "askPrice": "0.00000349"
+}, {
+    "symbol": "ONT_BTC",
+    "bidPrice": "0.00001042",
+    "askPrice": "0.00001044"
+}, {
+    "symbol": "TLM_USDT",
+    "bidPrice": "0.02473000",
+    "askPrice": "0.02475000"
+}, {
+    "symbol": "RSR_BNB",
+    "bidPrice": "0.00001418",
+    "askPrice": "0.00001425"
+}, {
+    "symbol": "AUDIO_USDT",
+    "bidPrice": "0.32250000",
+    "askPrice": "0.32260000"
+}, {
+    "symbol": "SRM_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "QI_USDT",
+    "bidPrice": "0.01029000",
+    "askPrice": "0.01031000"
+}, {
+    "symbol": "LRC_BNB",
+    "bidPrice": "0.00116900",
+    "askPrice": "0.00117600"
+}, {
+    "symbol": "SAND_USDT",
+    "bidPrice": "0.89530000",
+    "askPrice": "0.89540000"
+}, {
+    "symbol": "CELO_BTC",
+    "bidPrice": "0.00003470",
+    "askPrice": "0.00003476"
+}, {
+    "symbol": "BTC_EUR",
+    "bidPrice": "21630.01000000",
+    "askPrice": "21632.47000000"
+}, {
+    "symbol": "ERN_BNB",
+    "bidPrice": "0.00726000",
+    "askPrice": "0.00731000"
+}, {
+    "symbol": "UNI_EUR",
+    "bidPrice": "6.48500000",
+    "askPrice": "6.49500000"
+}, {
+    "symbol": "WAVES_USDT",
+    "bidPrice": "2.80000000",
+    "askPrice": "2.80100000"
+}, {
+    "symbol": "BAR_USDT",
+    "bidPrice": "4.42000000",
+    "askPrice": "4.43000000"
+}, {
+    "symbol": "ZIL_BTC",
+    "bidPrice": "0.00000132",
+    "askPrice": "0.00000133"
+}, {
+    "symbol": "MULTI_BTC",
+    "bidPrice": "0.00043690",
+    "askPrice": "0.00043760"
+}, {
+    "symbol": "SXP_BNB",
+    "bidPrice": "0.00098000",
+    "askPrice": "0.00098100"
+}, {
+    "symbol": "RAD_BTC",
+    "bidPrice": "0.00009090",
+    "askPrice": "0.00009110"
+}, {
+    "symbol": "RPL_USDT",
+    "bidPrice": "42.52000000",
+    "askPrice": "42.58000000"
+}, {
+    "symbol": "CRV_BTC",
+    "bidPrice": "0.00004753",
+    "askPrice": "0.00004760"
+}, {
+    "symbol": "RUNE_USDT",
+    "bidPrice": "1.93300000",
+    "askPrice": "1.93400000"
+}, {
+    "symbol": "LINK_EUR",
+    "bidPrice": "6.70300000",
+    "askPrice": "6.70700000"
+}, {
+    "symbol": "BTC_RUB",
+    "bidPrice": "1655987.00000000",
+    "askPrice": "1657614.00000000"
+}, {
+    "symbol": "RPL_BTC",
+    "bidPrice": "0.00183000",
+    "askPrice": "0.00183500"
+}, {
+    "symbol": "COMP_BTC",
+    "bidPrice": "0.00249100",
+    "askPrice": "0.00249400"
+}, {
+    "symbol": "RARE_USDT",
+    "bidPrice": "0.17020000",
+    "askPrice": "0.17070000"
+}, {
+    "symbol": "UNFI_USDT",
+    "bidPrice": "6.30600000",
+    "askPrice": "6.30700000"
+}, {
+    "symbol": "XVS_USDT",
+    "bidPrice": "6.00000000",
+    "askPrice": "6.01000000"
+}, {
+    "symbol": "NEAR_USDT",
+    "bidPrice": "2.54700000",
+    "askPrice": "2.54800000"
+}, {
+    "symbol": "BSW_BNB",
+    "bidPrice": "0.00068050",
+    "askPrice": "0.00068120"
+}, {
+    "symbol": "GMT_EUR",
+    "bidPrice": "0.50190000",
+    "askPrice": "0.50290000"
+}, {
+    "symbol": "APE_EUR",
+    "bidPrice": "5.53800000",
+    "askPrice": "5.54500000"
+}, {
+    "symbol": "MULTI_USDT",
+    "bidPrice": "10.15000000",
+    "askPrice": "10.17000000"
+}, {
+    "symbol": "NEO_BNB",
+    "bidPrice": "0.02750000",
+    "askPrice": "0.02760000"
+}, {
+    "symbol": "RVN_USDT",
+    "bidPrice": "0.03216000",
+    "askPrice": "0.03217000"
+}, {
+    "symbol": "AAVE_BNB",
+    "bidPrice": "0.26680000",
+    "askPrice": "0.26720000"
+}, {
+    "symbol": "IMX_USDT",
+    "bidPrice": "1.09100000",
+    "askPrice": "1.09200000"
+}, {
+    "symbol": "FLM_USDT",
+    "bidPrice": "0.11030000",
+    "askPrice": "0.11040000"
+}, {
+    "symbol": "XRP_RUB",
+    "bidPrice": "28.59000000",
+    "askPrice": "28.64000000"
+}, {
+    "symbol": "GALA_BNB",
+    "bidPrice": "0.00016561",
+    "askPrice": "0.00016578"
+}, {
+    "symbol": "ZEC_USDT",
+    "bidPrice": "46.20000000",
+    "askPrice": "46.30000000"
+}, {
+    "symbol": "MBOX_TRY",
+    "bidPrice": "11.44000000",
+    "askPrice": "11.45000000"
+}, {
+    "symbol": "BAND_BTC",
+    "bidPrice": "0.00009840",
+    "askPrice": "0.00009850"
+}, {
+    "symbol": "HARD_USDT",
+    "bidPrice": "0.20920000",
+    "askPrice": "0.20930000"
+}, {
+    "symbol": "SYS_USDT",
+    "bidPrice": "0.17410000",
+    "askPrice": "0.17430000"
+}, {
+    "symbol": "QNT_BTC",
+    "bidPrice": "0.00606700",
+    "askPrice": "0.00607200"
+}, {
+    "symbol": "KEY_USDT",
+    "bidPrice": "0.00418000",
+    "askPrice": "0.00419300"
+}, {
+    "symbol": "NEAR_EUR",
+    "bidPrice": "2.37100000",
+    "askPrice": "2.37500000"
+}, {
+    "symbol": "FTM_BRL",
+    "bidPrice": "2.98700000",
+    "askPrice": "2.98800000"
+}, {
+    "symbol": "KLAY_USDT",
+    "bidPrice": "0.21550000",
+    "askPrice": "0.21560000"
+}, {
+    "symbol": "DOT_EUR",
+    "bidPrice": "6.40800000",
+    "askPrice": "6.41200000"
+}, {
+    "symbol": "BAND_USDT",
+    "bidPrice": "2.28800000",
+    "askPrice": "2.28900000"
+}, {
+    "symbol": "VIB_ETH",
+    "bidPrice": "0.00005730",
+    "askPrice": "0.00005757"
+}, {
+    "symbol": "STRAX_USDT",
+    "bidPrice": "0.59300000",
+    "askPrice": "0.59400000"
+}, {
+    "symbol": "NEAR_ETH",
+    "bidPrice": "0.00151900",
+    "askPrice": "0.00152200"
+}, {
+    "symbol": "AXS_BTC",
+    "bidPrice": "0.00049900",
+    "askPrice": "0.00050100"
+}, {
+    "symbol": "APE_USDT",
+    "bidPrice": "5.94800000",
+    "askPrice": "5.94900000"
+}, {
+    "symbol": "UMA_USDT",
+    "bidPrice": "2.16600000",
+    "askPrice": "2.16700000"
+}, {
+    "symbol": "SLP_ETH",
+    "bidPrice": "0.00000203",
+    "askPrice": "0.00000204"
+}, {
+    "symbol": "INJ_USDT",
+    "bidPrice": "4.25300000",
+    "askPrice": "4.25400000"
+}, {
+    "symbol": "GALA_BTC",
+    "bidPrice": "0.00000236",
+    "askPrice": "0.00000237"
+}, {
+    "symbol": "LRC_USDT",
+    "bidPrice": "0.38920000",
+    "askPrice": "0.38930000"
+}, {
+    "symbol": "DUSK_USDT",
+    "bidPrice": "0.17000000",
+    "askPrice": "0.17010000"
+}, {
+    "symbol": "VTHO_USDT",
+    "bidPrice": "0.00131000",
+    "askPrice": "0.00131100"
+}, {
+    "symbol": "INJ_TRY",
+    "bidPrice": "80.83000000",
+    "askPrice": "81.20000000"
+}, {
+    "symbol": "YGG_USDT",
+    "bidPrice": "0.34150000",
+    "askPrice": "0.34200000"
+}, {
+    "symbol": "RLC_ETH",
+    "bidPrice": "0.00134700",
+    "askPrice": "0.00135000"
+}, {
+    "symbol": "ENJ_BNB",
+    "bidPrice": "0.00154800",
+    "askPrice": "0.00155800"
+}, {
+    "symbol": "POLYX_USDT",
+    "bidPrice": "0.20820000",
+    "askPrice": "0.20880000"
+}, {
+    "symbol": "XRP_ETH",
+    "bidPrice": "0.00023930",
+    "askPrice": "0.00023950"
+}, {
+    "symbol": "ALPHA_BTC",
+    "bidPrice": "0.00000605",
+    "askPrice": "0.00000606"
+}, {
+    "symbol": "LIT_USDT",
+    "bidPrice": "1.09100000",
+    "askPrice": "1.09200000"
+}, {
+    "symbol": "DOT_AUD",
+    "bidPrice": "9.86100000",
+    "askPrice": "9.87400000"
+}, {
+    "symbol": "CVP_USDT",
+    "bidPrice": "0.45560000",
+    "askPrice": "0.45630000"
+}, {
+    "symbol": "APT_USDT",
+    "bidPrice": "15.93190000",
+    "askPrice": "15.93200000"
+}, {
+    "symbol": "UNI_ETH",
+    "bidPrice": "0.00415200",
+    "askPrice": "0.00416600"
+}, {
+    "symbol": "PLA_BNB",
+    "bidPrice": "0.00079830",
+    "askPrice": "0.00080110"
+}, {
+    "symbol": "APE_BTC",
+    "bidPrice": "0.00025613",
+    "askPrice": "0.00025628"
+}, {
+    "symbol": "REEF_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "APE_BNB",
+    "bidPrice": "0.01792000",
+    "askPrice": "0.01795000"
+}, {
+    "symbol": "ORN_BTC",
+    "bidPrice": "0.00004380",
+    "askPrice": "0.00004410"
+}, {
+    "symbol": "IOTA_BNB",
+    "bidPrice": "0.00075600",
+    "askPrice": "0.00076100"
+}, {
+    "symbol": "COMP_USDT",
+    "bidPrice": "57.88000000",
+    "askPrice": "57.89000000"
+}, {
+    "symbol": "RAY_USDT",
+    "bidPrice": "0.31420000",
+    "askPrice": "0.31480000"
+}, {
+    "symbol": "BTC_UAH",
+    "bidPrice": "920224.00000000",
+    "askPrice": "921286.00000000"
+}, {
+    "symbol": "FLOW_BTC",
+    "bidPrice": "0.00005349",
+    "askPrice": "0.00005367"
+}, {
+    "symbol": "FOR_USDT",
+    "bidPrice": "0.02276000",
+    "askPrice": "0.02280000"
+}, {
+    "symbol": "QNT_USDT",
+    "bidPrice": "140.90000000",
+    "askPrice": "141.00000000"
+}, {
+    "symbol": "DAR_BNB",
+    "bidPrice": "0.00076014",
+    "askPrice": "0.00076176"
+}, {
+    "symbol": "EOS_TRY",
+    "bidPrice": "21.06000000",
+    "askPrice": "21.09000000"
+}, {
+    "symbol": "BTTC_USDT",
+    "bidPrice": "0.00000075",
+    "askPrice": "0.00000076"
+}, {
+    "symbol": "YFI_BTC",
+    "bidPrice": "0.33600000",
+    "askPrice": "0.33650000"
+}, {
+    "symbol": "XVG_USDT",
+    "bidPrice": "0.00335000",
+    "askPrice": "0.00336000"
+}, {
+    "symbol": "STRAX_BTC",
+    "bidPrice": "0.00002552",
+    "askPrice": "0.00002557"
+}, {
+    "symbol": "SCRT_BTC",
+    "bidPrice": "0.00003613",
+    "askPrice": "0.00003623"
+}, {
+    "symbol": "XTZ_ETH",
+    "bidPrice": "0.00073600",
+    "askPrice": "0.00073800"
+}, {
+    "symbol": "PEOPLE_USDT",
+    "bidPrice": "0.03057000",
+    "askPrice": "0.03058000"
+}, {
+    "symbol": "OP_EUR",
+    "bidPrice": "2.80600000",
+    "askPrice": "2.81200000"
+}, {
+    "symbol": "EGLD_USDT",
+    "bidPrice": "47.18000000",
+    "askPrice": "47.19000000"
+}, {
+    "symbol": "XRP_BTC",
+    "bidPrice": "0.00001728",
+    "askPrice": "0.00001729"
+}, {
+    "symbol": "PHA_BTC",
+    "bidPrice": "0.00000875",
+    "askPrice": "0.00000877"
+}, {
+    "symbol": "DYDX_BNB",
+    "bidPrice": "0.00930900",
+    "askPrice": "0.00935900"
+}, {
+    "symbol": "GLMR_BTC",
+    "bidPrice": "0.00002159",
+    "askPrice": "0.00002167"
+}, {
+    "symbol": "STMX_USDT",
+    "bidPrice": "0.00672800",
+    "askPrice": "0.00673900"
+}, {
+    "symbol": "HIGH_BNB",
+    "bidPrice": "0.01308100",
+    "askPrice": "0.01313700"
+}, {
+    "symbol": "IOTA_ETH",
+    "bidPrice": "0.00015000",
+    "askPrice": "0.00015060"
+}, {
+    "symbol": "BADGER_USDT",
+    "bidPrice": "3.26000000",
+    "askPrice": "3.27000000"
+}, {
+    "symbol": "ACM_BTC",
+    "bidPrice": "0.00012320",
+    "askPrice": "0.00012340"
+}, {
+    "symbol": "HOOK_BNB",
+    "bidPrice": "0.01140140",
+    "askPrice": "0.01144050"
+}, {
+    "symbol": "KNC_BTC",
+    "bidPrice": "0.00003967",
+    "askPrice": "0.00003972"
+}, {
+    "symbol": "AR_BTC",
+    "bidPrice": "0.00054990",
+    "askPrice": "0.00055040"
+}, {
+    "symbol": "OP_BNB",
+    "bidPrice": "0.00907100",
+    "askPrice": "0.00911000"
+}, {
+    "symbol": "NEBL_BTC",
+    "bidPrice": "0.00007285",
+    "askPrice": "0.00007294"
+}, {
+    "symbol": "HIGH_USDT",
+    "bidPrice": "4.35100000",
+    "askPrice": "4.35200000"
+}, {
+    "symbol": "BCH_EUR",
+    "bidPrice": "125.50000000",
+    "askPrice": "125.60000000"
+}, {
+    "symbol": "TRB_BTC",
+    "bidPrice": "0.00082900",
+    "askPrice": "0.00083300"
+}, {
+    "symbol": "BTC_USDT",
+    "bidPrice": "23219.64000000",
+    "askPrice": "23220.06000000"
+}, {
+    "symbol": "DOT_USDT",
+    "bidPrice": "6.87900000",
+    "askPrice": "6.88000000"
+}, {
+    "symbol": "DENT_TRY",
+    "bidPrice": "0.02004000",
+    "askPrice": "0.02006000"
+}, {
+    "symbol": "VITE_BTC",
+    "bidPrice": "0.00000116",
+    "askPrice": "0.00000117"
+}, {
+    "symbol": "SAND_BNB",
+    "bidPrice": "0.00269700",
+    "askPrice": "0.00269800"
+}, {
+    "symbol": "CVX_BTC",
+    "bidPrice": "0.00028250",
+    "askPrice": "0.00028350"
+}, {
+    "symbol": "LOKA_USDT",
+    "bidPrice": "0.74330000",
+    "askPrice": "0.74410000"
+}, {
+    "symbol": "IDEX_BNB",
+    "bidPrice": "0.00017290",
+    "askPrice": "0.00017310"
+}, {
+    "symbol": "REI_USDT",
+    "bidPrice": "0.03820000",
+    "askPrice": "0.03830000"
+}, {
+    "symbol": "SC_USDT",
+    "bidPrice": "0.00556000",
+    "askPrice": "0.00558000"
+}, {
+    "symbol": "BAR_BTC",
+    "bidPrice": "0.00019020",
+    "askPrice": "0.00019100"
+}, {
+    "symbol": "BETA_BTC",
+    "bidPrice": "0.00000460",
+    "askPrice": "0.00000463"
+}, {
+    "symbol": "PYR_BTC",
+    "bidPrice": "0.00018660",
+    "askPrice": "0.00018680"
+}, {
+    "symbol": "ORN_USDT",
+    "bidPrice": "1.01900000",
+    "askPrice": "1.02000000"
+}, {
+    "symbol": "SNX_USDT",
+    "bidPrice": "2.95500000",
+    "askPrice": "2.95700000"
+}, {
+    "symbol": "ZEC_ETH",
+    "bidPrice": "0.02757000",
+    "askPrice": "0.02773000"
+}, {
+    "symbol": "BNB_GBP",
+    "bidPrice": "275.20000000",
+    "askPrice": "275.50000000"
+}, {
+    "symbol": "DOGE_BTC",
+    "bidPrice": "0.00000396",
+    "askPrice": "0.00000397"
+}, {
+    "symbol": "LIT_ETH",
+    "bidPrice": "0.00064990",
+    "askPrice": "0.00065310"
+}, {
+    "symbol": "ROSE_ETH",
+    "bidPrice": "0.00004000",
+    "askPrice": "0.00004010"
+}, {
+    "symbol": "ENS_BTC",
+    "bidPrice": "0.00068480",
+    "askPrice": "0.00068640"
+}, {
+    "symbol": "LINA_BTC",
+    "bidPrice": "0.00000035",
+    "askPrice": "0.00000036"
+}, {
+    "symbol": "DAR_EUR",
+    "bidPrice": "0.23444000",
+    "askPrice": "0.23954000"
+}, {
+    "symbol": "SANTOS_TRY",
+    "bidPrice": "114.88000000",
+    "askPrice": "114.98000000"
+}, {
+    "symbol": "LPT_BTC",
+    "bidPrice": "0.00043910",
+    "askPrice": "0.00043960"
+}, {
+    "symbol": "FET_TRY",
+    "bidPrice": "10.19900000",
+    "askPrice": "10.21900000"
+}, {
+    "symbol": "TRX_ETH",
+    "bidPrice": "0.00003937",
+    "askPrice": "0.00003939"
+}, {
+    "symbol": "KMD_USDT",
+    "bidPrice": "0.29260000",
+    "askPrice": "0.29290000"
+}, {
+    "symbol": "COTI_BNB",
+    "bidPrice": "0.00031120",
+    "askPrice": "0.00031470"
+}, {
+    "symbol": "STMX_BTC",
+    "bidPrice": "0.00000028",
+    "askPrice": "0.00000029"
+}, {
+    "symbol": "SXP_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "REI_BNB",
+    "bidPrice": "0.00011500",
+    "askPrice": "0.00011550"
+}, {
+    "symbol": "DOT_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "REEF_TRY",
+    "bidPrice": "0.06900000",
+    "askPrice": "0.06910000"
+}, {
+    "symbol": "MKR_BTC",
+    "bidPrice": "0.03486000",
+    "askPrice": "0.03492000"
+}, {
+    "symbol": "BEL_TRY",
+    "bidPrice": "12.44000000",
+    "askPrice": "12.46000000"
+}, {
+    "symbol": "ETH_USDT",
+    "bidPrice": "1675.25000000",
+    "askPrice": "1675.26000000"
+}, {
+    "symbol": "FIS_BTC",
+    "bidPrice": "0.00003483",
+    "askPrice": "0.00003500"
+}, {
+    "symbol": "DASH_BTC",
+    "bidPrice": "0.00282000",
+    "askPrice": "0.00282300"
+}, {
+    "symbol": "SHIB_USDT",
+    "bidPrice": "0.00001421",
+    "askPrice": "0.00001422"
+}, {
+    "symbol": "PLA_USDT",
+    "bidPrice": "0.26500000",
+    "askPrice": "0.26540000"
+}, {
+    "symbol": "EPX_USDT",
+    "bidPrice": "0.00045700",
+    "askPrice": "0.00045800"
+}, {
+    "symbol": "ETH_BRL",
+    "bidPrice": "8687.80000000",
+    "askPrice": "8694.31000000"
+}, {
+    "symbol": "MBL_USDT",
+    "bidPrice": "0.00404700",
+    "askPrice": "0.00405400"
+}, {
+    "symbol": "USDT_BIDR",
+    "bidPrice": "15134.00",
+    "askPrice": "15140.00"
+}, {
+    "symbol": "HIVE_USDT",
+    "bidPrice": "0.45390000",
+    "askPrice": "0.45430000"
+}, {
+    "symbol": "DODO_USDT",
+    "bidPrice": "0.16630000",
+    "askPrice": "0.16640000"
+}, {
+    "symbol": "AVAX_EUR",
+    "bidPrice": "19.21000000",
+    "askPrice": "19.23000000"
+}, {
+    "symbol": "USDT_BRL",
+    "bidPrice": "5.18700000",
+    "askPrice": "5.18800000"
+}, {
+    "symbol": "APT_TRY",
+    "bidPrice": "303.60000000",
+    "askPrice": "303.80000000"
+}, {
+    "symbol": "AXS_BNB",
+    "bidPrice": "0.03490000",
+    "askPrice": "0.03510000"
+}, {
+    "symbol": "WIN_USDT",
+    "bidPrice": "0.00009910",
+    "askPrice": "0.00009920"
+}, {
+    "symbol": "ONE_ETH",
+    "bidPrice": "0.00001665",
+    "askPrice": "0.00001669"
+}, {
+    "symbol": "ALPINE_BTC",
+    "bidPrice": "0.00012609",
+    "askPrice": "0.00012621"
+}, {
+    "symbol": "DYDX_USDT",
+    "bidPrice": "3.09600000",
+    "askPrice": "3.09700000"
+}, {
+    "symbol": "POLS_USDT",
+    "bidPrice": "0.47700000",
+    "askPrice": "0.47800000"
+}, {
+    "symbol": "TRX_NGN",
+    "bidPrice": "15.20000000",
+    "askPrice": "50.00000000"
+}, {
+    "symbol": "ZIL_ETH",
+    "bidPrice": "0.00001832",
+    "askPrice": "0.00001834"
+}, {
+    "symbol": "YGG_BNB",
+    "bidPrice": "0.00102700",
+    "askPrice": "0.00103300"
+}, {
+    "symbol": "BTC_BRL",
+    "bidPrice": "120432.00000000",
+    "askPrice": "120466.00000000"
+}, {
+    "symbol": "UTK_BTC",
+    "bidPrice": "0.00000478",
+    "askPrice": "0.00000480"
+}, {
+    "symbol": "FIO_USDT",
+    "bidPrice": "0.03970000",
+    "askPrice": "0.03980000"
+}, {
+    "symbol": "ANKR_TRY",
+    "bidPrice": "0.61760000",
+    "askPrice": "0.61850000"
+}, {
+    "symbol": "BIFI_USDT",
+    "bidPrice": "513.40000000",
+    "askPrice": "514.80000000"
+}, {
+    "symbol": "TRX_EUR",
+    "bidPrice": "0.06142000",
+    "askPrice": "0.06150000"
+}, {
+    "symbol": "NEO_BTC",
+    "bidPrice": "0.00039300",
+    "askPrice": "0.00039400"
+}, {
+    "symbol": "TRX_USDT",
+    "bidPrice": "0.06597000",
+    "askPrice": "0.06598000"
+}, {
+    "symbol": "EGLD_BNB",
+    "bidPrice": "0.14210000",
+    "askPrice": "0.14240000"
+}, {
+    "symbol": "OM_USDT",
+    "bidPrice": "0.04310000",
+    "askPrice": "0.04320000"
+}, {
+    "symbol": "XNO_BTC",
+    "bidPrice": "0.00003901",
+    "askPrice": "0.00003926"
+}, {
+    "symbol": "EGLD_ETH",
+    "bidPrice": "0.02811000",
+    "askPrice": "0.02817000"
+}, {
+    "symbol": "RUNE_ETH",
+    "bidPrice": "0.00115300",
+    "askPrice": "0.00115500"
+}, {
+    "symbol": "ICP_EUR",
+    "bidPrice": "5.41900000",
+    "askPrice": "5.43000000"
+}, {
+    "symbol": "SNT_BTC",
+    "bidPrice": "0.00000131",
+    "askPrice": "0.00000132"
+}, {
+    "symbol": "ALPACA_USDT",
+    "bidPrice": "0.29480000",
+    "askPrice": "0.29500000"
+}, {
+    "symbol": "BOND_BTC",
+    "bidPrice": "0.00020320",
+    "askPrice": "0.00020460"
+}, {
+    "symbol": "ETH_TRY",
+    "bidPrice": "31938.00000000",
+    "askPrice": "31939.00000000"
+}, {
+    "symbol": "DGB_USDT",
+    "bidPrice": "0.01141000",
+    "askPrice": "0.01142000"
+}, {
+    "symbol": "ILV_USDT",
+    "bidPrice": "96.71000000",
+    "askPrice": "96.75000000"
+}, {
+    "symbol": "PAXG_USDT",
+    "bidPrice": "1856.00000000",
+    "askPrice": "1857.00000000"
+}, {
+    "symbol": "ADA_BTC",
+    "bidPrice": "0.00001712",
+    "askPrice": "0.00001713"
+}, {
+    "symbol": "LAZIO_BTC",
+    "bidPrice": "0.00015400",
+    "askPrice": "0.00015430"
+}, {
+    "symbol": "XLM_TRY",
+    "bidPrice": "1.75100000",
+    "askPrice": "1.75600000"
+}, {
+    "symbol": "FIS_BRL",
+    "bidPrice": "4.14300000",
+    "askPrice": "4.30600000"
+}, {
+    "symbol": "TRX_BNB",
+    "bidPrice": "0.00019880",
+    "askPrice": "0.00019890"
+}, {
+    "symbol": "DOGE_EUR",
+    "bidPrice": "0.08577000",
+    "askPrice": "0.08582000"
+}, {
+    "symbol": "FIL_ETH",
+    "bidPrice": "0.00330300",
+    "askPrice": "0.00330800"
+}, {
+    "symbol": "ADA_USDT",
+    "bidPrice": "0.39770000",
+    "askPrice": "0.39780000"
+}, {
+    "symbol": "BSW_TRY",
+    "bidPrice": "4.30000000",
+    "askPrice": "4.31000000"
+}, {
+    "symbol": "KAVA_BNB",
+    "bidPrice": "0.00310000",
+    "askPrice": "0.00311000"
+}, {
+    "symbol": "C98_USDT",
+    "bidPrice": "0.28640000",
+    "askPrice": "0.28660000"
+}, {
+    "symbol": "CHR_BTC",
+    "bidPrice": "0.00000858",
+    "askPrice": "0.00000861"
+}, {
+    "symbol": "HBAR_USDT",
+    "bidPrice": "0.07480000",
+    "askPrice": "0.07490000"
+}, {
+    "symbol": "LTC_GBP",
+    "bidPrice": "83.98000000",
+    "askPrice": "84.13000000"
+}, {
+    "symbol": "OMG_USDT",
+    "bidPrice": "1.66800000",
+    "askPrice": "1.66900000"
+}, {
+    "symbol": "ASTR_BTC",
+    "bidPrice": "0.00000267",
+    "askPrice": "0.00000269"
+}, {
+    "symbol": "CAKE_BTC",
+    "bidPrice": "0.00019650",
+    "askPrice": "0.00019670"
+}, {
+    "symbol": "VET_ETH",
+    "bidPrice": "0.00001563",
+    "askPrice": "0.00001564"
+}, {
+    "symbol": "SLP_BIDR",
+    "bidPrice": "0.00",
+    "askPrice": "0.00"
+}, {
+    "symbol": "PERP_USDT",
+    "bidPrice": "0.69116000",
+    "askPrice": "0.69137000"
+}, {
+    "symbol": "REN_BTC",
+    "bidPrice": "0.00000459",
+    "askPrice": "0.00000461"
+}, {
+    "symbol": "CLV_USDT",
+    "bidPrice": "0.07975000",
+    "askPrice": "0.07982000"
+}, {
+    "symbol": "ANKR_BTC",
+    "bidPrice": "0.00000139",
+    "askPrice": "0.00000140"
+}, {
+    "symbol": "BSW_USDT",
+    "bidPrice": "0.22570000",
+    "askPrice": "0.22580000"
+}, {
+    "symbol": "SUN_USDT",
+    "bidPrice": "0.00648000",
+    "askPrice": "0.00650000"
+}, {
+    "symbol": "STG_BTC",
+    "bidPrice": "0.00003674",
+    "askPrice": "0.00003683"
+}, {
+    "symbol": "WOO_BTC",
+    "bidPrice": "0.00001051",
+    "askPrice": "0.00001053"
+}, {
+    "symbol": "ICP_ETH",
+    "bidPrice": "0.00346600",
+    "askPrice": "0.00349800"
+}, {
+    "symbol": "WIN_BNB",
+    "bidPrice": "0.00000029",
+    "askPrice": "0.00000030"
+}, {
+    "symbol": "FTM_EUR",
+    "bidPrice": "0.53640000",
+    "askPrice": "0.53690000"
+}, {
+    "symbol": "TWT_TRY",
+    "bidPrice": "30.48000000",
+    "askPrice": "30.50000000"
+}, {
+    "symbol": "USDT_NGN",
+    "bidPrice": "746.20000000",
+    "askPrice": "747.20000000"
+}, {
+    "symbol": "AXS_USDT",
+    "bidPrice": "11.61000000",
+    "askPrice": "11.62000000"
+}, {
+    "symbol": "1INCH_USDT",
+    "bidPrice": "0.58400000",
+    "askPrice": "0.58500000"
+}, {
+    "symbol": "WOO_BNB",
+    "bidPrice": "0.00073600",
+    "askPrice": "0.00073800"
+}, {
+    "symbol": "DATA_USDT",
+    "bidPrice": "0.04510000",
+    "askPrice": "0.04518000"
+}, {
+    "symbol": "SNM_BTC",
+    "bidPrice": "0.00004757",
+    "askPrice": "0.00004761"
+}, {
+    "symbol": "KMD_BTC",
+    "bidPrice": "0.00001259",
+    "askPrice": "0.00001262"
+}, {
+    "symbol": "FTM_TRY",
+    "bidPrice": "10.97000000",
+    "askPrice": "10.98200000"
+}, {
+    "symbol": "MATIC_BNB",
+    "bidPrice": "0.00385100",
+    "askPrice": "0.00385300"
+}, {
+    "symbol": "RSR_USDT",
+    "bidPrice": "0.00471900",
+    "askPrice": "0.00472200"
+}, {
+    "symbol": "WAVES_BNB",
+    "bidPrice": "0.00842000",
+    "askPrice": "0.00845000"
+}, {
+    "symbol": "ARPA_ETH",
+    "bidPrice": "0.00002742",
+    "askPrice": "0.00002749"
+}]
